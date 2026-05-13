@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>upjoke — joke archive</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <h1>upjoke</h1>
+      <div class="meta">
+        <span id="lastFetched">loading…</span>
+        <span class="dot">·</span>
+        <span id="totalCount">0 jokes</span>
+      </div>
+    </header>
+
+    <main class="layout">
+      <aside class="sidebar">
+        <section>
+          <label class="label">Search</label>
+          <input id="search" type="search" placeholder="text or punchline…" />
+        </section>
+
+        <section>
+          <label class="label">Sort</label>
+          <select id="sort">
+            <option value="score">Top score</option>
+            <option value="newest">Newest seen</option>
+            <option value="oldest">Oldest seen</option>
+          </select>
+        </section>
+
+        <section>
+          <label class="label">Subreddits</label>
+          <div id="subFilters" class="checks"></div>
+        </section>
+
+        <section>
+          <label class="label">Flair</label>
+          <select id="flair"><option value="">All</option></select>
+        </section>
+
+        <section class="row">
+          <label class="toggle">
+            <input id="nsfw" type="checkbox" />
+            <span>Show NSFW</span>
+          </label>
+        </section>
+
+        <section class="row">
+          <span id="resultCount" class="muted">0 results</span>
+        </section>
+      </aside>
+
+      <section class="results">
+        <div id="cards" class="cards"></div>
+        <div class="loadmore">
+          <button id="loadMore" hidden>Load more</button>
+        </div>
+      </section>
+    </main>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

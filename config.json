@@ -1,0 +1,14 @@
+{
+  "subreddits": [
+    "Jokes",
+    "cleanjokes",
+    "dadjokes",
+    "3amjokes",
+    "puns",
+    "unclejokes"
+  ],
+  "sort": "top",
+  "timeframe": "day",
+  "limitPerSub": 100,
+  "userAgent": "upjoke/0.1 (daily joke archive)"
+}
