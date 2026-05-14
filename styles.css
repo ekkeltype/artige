@@ -161,6 +161,26 @@ select:focus { border-color: var(--accent-2); }
   font-size: 12px;
   color: var(--muted);
   margin-top: auto;
+  gap: 12px;
+}
+.card .actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+button.linklike {
+  background: transparent;
+  border: none;
+  color: var(--muted);
+  font: inherit;
+  padding: 0;
+  cursor: pointer;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 3px;
+}
+button.linklike:hover {
+  color: var(--text);
 }
 
 .loadmore {

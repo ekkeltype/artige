@@ -9,16 +9,21 @@ const state = {
     nsfw: false,
     language: '',
   },
+  showOriginal: new Set(),
   shown: PAGE_SIZE,
 };
 
-function viewOf(j) {
+function hasTranslation(j) {
   const lang = state.filters.language;
-  if (lang && j.localized?.[lang]) {
-    const loc = j.localized[lang];
-    return { title: loc.title, body: loc.body || '', isFallback: false };
+  return !!(lang && j.localized?.[lang]);
+}
+
+function viewOf(j) {
+  if (hasTranslation(j) && !state.showOriginal.has(j.id)) {
+    const loc = j.localized[state.filters.language];
+    return { title: loc.title, body: loc.body || '' };
   }
-  return { title: j.title, body: j.body || '', isFallback: !!lang };
+  return { title: j.title, body: j.body || '' };
 }
 
 const $ = (id) => document.getElementById(id);
@@ -84,11 +89,14 @@ function card(j) {
   const el = document.createElement('article');
   el.className = 'card';
   const v = viewOf(j);
+  const translated = hasTranslation(j);
+  const langSelected = !!state.filters.language;
+  const showingOriginal = translated && state.showOriginal.has(j.id);
 
   const pills = document.createElement('div');
   pills.className = 'pills';
   if (j.nsfw) pills.appendChild(pill('NSFW', 'nsfw'));
-  if (v.isFallback) pills.appendChild(pill('original', 'fallback'));
+  if (langSelected && !translated) pills.appendChild(pill('original', 'fallback'));
   if (pills.children.length > 0) el.appendChild(pills);
 
   const title = document.createElement('div');
@@ -105,10 +113,32 @@ function card(j) {
 
   const footer = document.createElement('div');
   footer.className = 'footer';
-  footer.innerHTML = `
-    <span>▲ ${j.score.toLocaleString()} · u/${escapeHtml(j.author)}</span>
-    <a href="${j.permalink}" target="_blank" rel="noopener">source ↗</a>
-  `;
+
+  const meta = document.createElement('span');
+  meta.textContent = `▲ ${j.score.toLocaleString()} · u/${j.author}`;
+  footer.appendChild(meta);
+
+  const actions = document.createElement('span');
+  actions.className = 'actions';
+  if (translated) {
+    const toggle = document.createElement('button');
+    toggle.className = 'linklike';
+    toggle.textContent = showingOriginal ? 'show translation' : 'show original';
+    toggle.addEventListener('click', () => {
+      if (state.showOriginal.has(j.id)) state.showOriginal.delete(j.id);
+      else state.showOriginal.add(j.id);
+      render();
+    });
+    actions.appendChild(toggle);
+  }
+  const link = document.createElement('a');
+  link.href = j.permalink;
+  link.target = '_blank';
+  link.rel = 'noopener';
+  link.textContent = 'source ↗';
+  actions.appendChild(link);
+  footer.appendChild(actions);
+
   el.appendChild(footer);
   return el;
 }
