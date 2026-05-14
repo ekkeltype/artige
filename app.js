@@ -6,7 +6,6 @@ const state = {
   filters: {
     search: '',
     sort: 'score',
-    flair: '',
     nsfw: false,
     language: '',
   },
@@ -32,7 +31,6 @@ async function load() {
   const langs = availableLanguages();
   if (langs.length > 0) state.filters.language = langs[0];
   renderHeader(data);
-  renderFlairOptions();
   render();
 }
 
@@ -44,10 +42,6 @@ function availableLanguages() {
   return Array.from(set).sort();
 }
 
-function uniq(arr) {
-  return Array.from(new Set(arr)).sort((a, b) => a.localeCompare(b));
-}
-
 function renderHeader(data) {
   $('totalCount').textContent = `${(data.count ?? state.jokes.length).toLocaleString()} jokes`;
   $('lastFetched').textContent = state.lastFetched
@@ -55,23 +49,11 @@ function renderHeader(data) {
     : 'no data yet';
 }
 
-function renderFlairOptions() {
-  const flairs = uniq(state.jokes.map((j) => j.flair).filter(Boolean));
-  const sel = $('flair');
-  for (const f of flairs) {
-    const opt = document.createElement('option');
-    opt.value = f;
-    opt.textContent = f;
-    sel.appendChild(opt);
-  }
-}
-
 function applyFilters() {
-  const { search, sort, flair, nsfw } = state.filters;
+  const { search, sort, nsfw } = state.filters;
   const q = search.trim().toLowerCase();
   let out = state.jokes.filter((j) => {
     if (!nsfw && j.nsfw) return false;
-    if (flair && j.flair !== flair) return false;
     if (q) {
       const v = viewOf(j);
       const hay = `${v.title} ${v.body}`.toLowerCase();
@@ -105,7 +87,6 @@ function card(j) {
 
   const pills = document.createElement('div');
   pills.className = 'pills';
-  if (j.flair) pills.appendChild(pill(j.flair, 'flair'));
   if (j.nsfw) pills.appendChild(pill('NSFW', 'nsfw'));
   if (v.isFallback) pills.appendChild(pill('original', 'fallback'));
   if (pills.children.length > 0) el.appendChild(pills);
@@ -169,11 +150,6 @@ $('search').addEventListener('input', debounce((e) => {
 }, 200));
 $('sort').addEventListener('change', (e) => {
   state.filters.sort = e.target.value;
-  state.shown = PAGE_SIZE;
-  render();
-});
-$('flair').addEventListener('change', (e) => {
-  state.filters.flair = e.target.value;
   state.shown = PAGE_SIZE;
   render();
 });
