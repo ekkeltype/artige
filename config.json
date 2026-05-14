@@ -12,11 +12,11 @@
   "timeframe": "day",
   "limitPerSub": 100,
   "userAgent": "artige/0.1 (daily joke archive)",
+  "minScore": 25,
   "translate": {
     "enabled": true,
     "promptFile": "prompts/localize.md",
     "model": "sonnet",
-    "minScore": 25,
     "batchSize": 30,
     "maxBudgetUsd": 1.0
   }

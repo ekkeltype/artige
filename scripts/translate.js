@@ -86,7 +86,7 @@ async function main() {
   const systemPromptFile = path.join(tmpDir, 'system.txt');
   await writeFile(systemPromptFile, systemPrompt);
 
-  const minScore = t.minScore ?? 0;
+  const minScore = config.minScore ?? t.minScore ?? 0;
   const candidates = archive.jokes.filter(
     (j) => !j.localized?.[lang] && (j.score ?? 0) >= minScore,
   );

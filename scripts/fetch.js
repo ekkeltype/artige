@@ -81,10 +81,13 @@ async function main() {
     }
   }
 
+  const minScore = config.minScore ?? 0;
+  const kept = Array.from(byId.values()).filter((j) => (j.score ?? 0) >= minScore);
+
   const out = {
     lastFetched: fetchedAt,
-    count: byId.size,
-    jokes: Array.from(byId.values()),
+    count: kept.length,
+    jokes: kept,
   };
 
   await mkdir(path.dirname(DATA_PATH), { recursive: true });
