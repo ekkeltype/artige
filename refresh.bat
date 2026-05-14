@@ -10,7 +10,7 @@ if errorlevel 1 (
     exit /b 1
 )
 
-node scripts\fetch.js >> refresh.log 2>&1
+node\node.exe scripts\fetch.js >> refresh.log 2>&1
 if errorlevel 1 (
     echo Fetch failed; aborting >> refresh.log
     exit /b 1
