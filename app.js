@@ -6,24 +6,12 @@ const state = {
   filters: {
     search: '',
     sort: 'score',
-    subs: new Set(),
     flair: '',
     nsfw: false,
     language: '',
   },
   shown: PAGE_SIZE,
 };
-
-function langDisplayName(code) {
-  if (!code) return 'Original (English)';
-  try {
-    const dn = new Intl.DisplayNames([code], { type: 'language' });
-    const name = dn.of(code);
-    return name ? name.charAt(0).toUpperCase() + name.slice(1) : code;
-  } catch {
-    return code;
-  }
-}
 
 function viewOf(j) {
   const lang = state.filters.language;
@@ -41,11 +29,10 @@ async function load() {
   const data = await res.json();
   state.jokes = data.jokes || [];
   state.lastFetched = data.lastFetched;
-  state.filters.subs = new Set(uniq(state.jokes.map((j) => j.subreddit)));
+  const langs = availableLanguages();
+  if (langs.length > 0) state.filters.language = langs[0];
   renderHeader(data);
-  renderSubFilters();
   renderFlairOptions();
-  renderLanguageOptions();
   render();
 }
 
@@ -57,26 +44,6 @@ function availableLanguages() {
   return Array.from(set).sort();
 }
 
-function renderLanguageOptions() {
-  const langs = availableLanguages();
-  const sel = $('language');
-  sel.innerHTML = '';
-  const optOrig = document.createElement('option');
-  optOrig.value = '';
-  optOrig.textContent = langDisplayName('');
-  sel.appendChild(optOrig);
-  for (const code of langs) {
-    const opt = document.createElement('option');
-    opt.value = code;
-    opt.textContent = langDisplayName(code);
-    sel.appendChild(opt);
-  }
-  if (langs.length > 0) {
-    state.filters.language = langs[0];
-    sel.value = langs[0];
-  }
-}
-
 function uniq(arr) {
   return Array.from(new Set(arr)).sort((a, b) => a.localeCompare(b));
 }
@@ -86,24 +53,6 @@ function renderHeader(data) {
   $('lastFetched').textContent = state.lastFetched
     ? `updated ${timeAgo(new Date(state.lastFetched))}`
     : 'no data yet';
-}
-
-function renderSubFilters() {
-  const subs = uniq(state.jokes.map((j) => j.subreddit));
-  const host = $('subFilters');
-  host.innerHTML = '';
-  for (const s of subs) {
-    const id = `sub-${s}`;
-    const wrap = document.createElement('label');
-    wrap.innerHTML = `<input type="checkbox" id="${id}" checked> <span>r/${escapeHtml(s)}</span>`;
-    host.appendChild(wrap);
-    wrap.querySelector('input').addEventListener('change', (e) => {
-      if (e.target.checked) state.filters.subs.add(s);
-      else state.filters.subs.delete(s);
-      state.shown = PAGE_SIZE;
-      render();
-    });
-  }
 }
 
 function renderFlairOptions() {
@@ -118,10 +67,9 @@ function renderFlairOptions() {
 }
 
 function applyFilters() {
-  const { search, sort, subs, flair, nsfw } = state.filters;
+  const { search, sort, flair, nsfw } = state.filters;
   const q = search.trim().toLowerCase();
   let out = state.jokes.filter((j) => {
-    if (!subs.has(j.subreddit)) return false;
     if (!nsfw && j.nsfw) return false;
     if (flair && j.flair !== flair) return false;
     if (q) {
@@ -157,11 +105,10 @@ function card(j) {
 
   const pills = document.createElement('div');
   pills.className = 'pills';
-  pills.appendChild(pill(`r/${j.subreddit}`, 'sub'));
   if (j.flair) pills.appendChild(pill(j.flair, 'flair'));
   if (j.nsfw) pills.appendChild(pill('NSFW', 'nsfw'));
   if (v.isFallback) pills.appendChild(pill('original', 'fallback'));
-  el.appendChild(pills);
+  if (pills.children.length > 0) el.appendChild(pills);
 
   const title = document.createElement('div');
   title.className = 'title';
@@ -232,11 +179,6 @@ $('flair').addEventListener('change', (e) => {
 });
 $('nsfw').addEventListener('change', (e) => {
   state.filters.nsfw = e.target.checked;
-  state.shown = PAGE_SIZE;
-  render();
-});
-$('language').addEventListener('change', (e) => {
-  state.filters.language = e.target.value;
   state.shown = PAGE_SIZE;
   render();
 });
