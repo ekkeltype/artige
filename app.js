@@ -6,7 +6,7 @@ const state = {
   filters: {
     search: '',
     sort: 'score',
-    nsfw: false,
+    nsfw: 'exclude',
     language: '',
   },
   showOriginal: new Set(),
@@ -58,7 +58,8 @@ function applyFilters() {
   const { search, sort, nsfw } = state.filters;
   const q = search.trim().toLowerCase();
   let out = state.jokes.filter((j) => {
-    if (!nsfw && j.nsfw) return false;
+    if (nsfw === 'exclude' && j.nsfw) return false;
+    if (nsfw === 'only' && !j.nsfw) return false;
     if (q) {
       const v = viewOf(j);
       const hay = `${v.title} ${v.body}`.toLowerCase();
@@ -184,7 +185,7 @@ $('sort').addEventListener('change', (e) => {
   render();
 });
 $('nsfw').addEventListener('change', (e) => {
-  state.filters.nsfw = e.target.checked;
+  state.filters.nsfw = e.target.value;
   state.shown = PAGE_SIZE;
   render();
 });
