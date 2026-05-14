@@ -9,9 +9,30 @@ const state = {
     subs: new Set(),
     flair: '',
     nsfw: false,
+    language: '',
   },
   shown: PAGE_SIZE,
 };
+
+function langDisplayName(code) {
+  if (!code) return 'Original (English)';
+  try {
+    const dn = new Intl.DisplayNames([code], { type: 'language' });
+    const name = dn.of(code);
+    return name ? name.charAt(0).toUpperCase() + name.slice(1) : code;
+  } catch {
+    return code;
+  }
+}
+
+function viewOf(j) {
+  const lang = state.filters.language;
+  if (lang && j.localized?.[lang]) {
+    const loc = j.localized[lang];
+    return { title: loc.title, body: loc.body || '', isFallback: false };
+  }
+  return { title: j.title, body: j.body || '', isFallback: !!lang };
+}
 
 const $ = (id) => document.getElementById(id);
 
@@ -24,7 +45,36 @@ async function load() {
   renderHeader(data);
   renderSubFilters();
   renderFlairOptions();
+  renderLanguageOptions();
   render();
+}
+
+function availableLanguages() {
+  const set = new Set();
+  for (const j of state.jokes) {
+    if (j.localized) for (const k of Object.keys(j.localized)) set.add(k);
+  }
+  return Array.from(set).sort();
+}
+
+function renderLanguageOptions() {
+  const langs = availableLanguages();
+  const sel = $('language');
+  sel.innerHTML = '';
+  const optOrig = document.createElement('option');
+  optOrig.value = '';
+  optOrig.textContent = langDisplayName('');
+  sel.appendChild(optOrig);
+  for (const code of langs) {
+    const opt = document.createElement('option');
+    opt.value = code;
+    opt.textContent = langDisplayName(code);
+    sel.appendChild(opt);
+  }
+  if (langs.length > 0) {
+    state.filters.language = langs[0];
+    sel.value = langs[0];
+  }
 }
 
 function uniq(arr) {
@@ -75,7 +125,8 @@ function applyFilters() {
     if (!nsfw && j.nsfw) return false;
     if (flair && j.flair !== flair) return false;
     if (q) {
-      const hay = `${j.title} ${j.body}`.toLowerCase();
+      const v = viewOf(j);
+      const hay = `${v.title} ${v.body}`.toLowerCase();
       if (!hay.includes(q)) return false;
     }
     return true;
@@ -102,23 +153,25 @@ function render() {
 function card(j) {
   const el = document.createElement('article');
   el.className = 'card';
+  const v = viewOf(j);
 
   const pills = document.createElement('div');
   pills.className = 'pills';
   pills.appendChild(pill(`r/${j.subreddit}`, 'sub'));
   if (j.flair) pills.appendChild(pill(j.flair, 'flair'));
   if (j.nsfw) pills.appendChild(pill('NSFW', 'nsfw'));
+  if (v.isFallback) pills.appendChild(pill('original', 'fallback'));
   el.appendChild(pills);
 
   const title = document.createElement('div');
   title.className = 'title';
-  title.textContent = j.title;
+  title.textContent = v.title;
   el.appendChild(title);
 
-  if (j.body) {
+  if (v.body) {
     const body = document.createElement('div');
     body.className = 'body';
-    body.textContent = j.body;
+    body.textContent = v.body;
     el.appendChild(body);
   }
 
@@ -179,6 +232,11 @@ $('flair').addEventListener('change', (e) => {
 });
 $('nsfw').addEventListener('change', (e) => {
   state.filters.nsfw = e.target.checked;
+  state.shown = PAGE_SIZE;
+  render();
+});
+$('language').addEventListener('change', (e) => {
+  state.filters.language = e.target.value;
   state.shown = PAGE_SIZE;
   render();
 });

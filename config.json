@@ -11,5 +11,13 @@
   "sort": "top",
   "timeframe": "day",
   "limitPerSub": 100,
-  "userAgent": "upjoke/0.1 (daily joke archive)"
+  "userAgent": "artige/0.1 (daily joke archive)",
+  "translate": {
+    "enabled": true,
+    "promptFile": "prompts/localize.md",
+    "model": "sonnet",
+    "minScore": 25,
+    "batchSize": 30,
+    "maxBudgetUsd": 1.0
+  }
 }

@@ -16,6 +16,11 @@ if errorlevel 1 (
     exit /b 1
 )
 
+node\node.exe scripts\translate.js >> refresh.log 2>&1
+if errorlevel 1 (
+    echo Translate failed; continuing with fetched data >> refresh.log
+)
+
 git add data/jokes.json
 git diff --staged --quiet
 if errorlevel 1 (
