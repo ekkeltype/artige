@@ -24,7 +24,9 @@ async function fetchSub(name, sort, timeframe, limit, userAgent) {
   const res = await fetch(url, { headers: { 'User-Agent': userAgent } });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const data = await res.json();
-  return data.data.children.map((c) => c.data).filter((p) => !p.stickied);
+  return data.data.children
+    .map((c) => c.data)
+    .filter((p) => !p.stickied && p.is_self);
 }
 
 function normalize(post) {
