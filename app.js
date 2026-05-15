@@ -5,9 +5,10 @@ const state = {
   lastFetched: null,
   filters: {
     search: '',
-    sort: 'score',
+    sort: 'newest',
     nsfw: 'exclude',
     language: '',
+    includeUntranslated: false,
   },
   showOriginal: new Set(),
   shown: PAGE_SIZE,
@@ -55,11 +56,12 @@ function renderHeader(data) {
 }
 
 function applyFilters() {
-  const { search, sort, nsfw } = state.filters;
+  const { search, sort, nsfw, language, includeUntranslated } = state.filters;
   const q = search.trim().toLowerCase();
   let out = state.jokes.filter((j) => {
     if (nsfw === 'exclude' && j.nsfw) return false;
     if (nsfw === 'only' && !j.nsfw) return false;
+    if (language && !includeUntranslated && !hasTranslation(j)) return false;
     if (q) {
       const v = viewOf(j);
       const hay = `${v.title} ${v.body}`.toLowerCase();
@@ -186,6 +188,11 @@ $('sort').addEventListener('change', (e) => {
 });
 $('nsfw').addEventListener('change', (e) => {
   state.filters.nsfw = e.target.value;
+  state.shown = PAGE_SIZE;
+  render();
+});
+$('includeUntranslated').addEventListener('change', (e) => {
+  state.filters.includeUntranslated = e.target.checked;
   state.shown = PAGE_SIZE;
   render();
 });

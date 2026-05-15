@@ -26,8 +26,8 @@
         <section>
           <label class="label">Sort</label>
           <select id="sort">
+            <option value="newest" selected>Newest seen</option>
             <option value="score">Top score</option>
-            <option value="newest">Newest seen</option>
             <option value="oldest">Oldest seen</option>
           </select>
         </section>
@@ -39,6 +39,13 @@
             <option value="include">Show all</option>
             <option value="only">Only NSFW</option>
           </select>
+        </section>
+
+        <section>
+          <label class="toggle">
+            <input id="includeUntranslated" type="checkbox" />
+            <span>Include untranslatable</span>
+          </label>
         </section>
 
         <section class="row">
