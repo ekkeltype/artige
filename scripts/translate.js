@@ -49,6 +49,33 @@ function runClaude({ systemPromptFile, userPrompt, model, maxBudgetUsd }) {
   });
 }
 
+function findJsonArray(text) {
+  let depth = 0;
+  let start = -1;
+  let inString = false;
+  let escape = false;
+  for (let i = 0; i < text.length; i++) {
+    const c = text[i];
+    if (escape) { escape = false; continue; }
+    if (inString) {
+      if (c === '\\') escape = true;
+      else if (c === '"') inString = false;
+      continue;
+    }
+    if (c === '"') { inString = true; continue; }
+    if (c === '[') {
+      if (depth === 0) start = i;
+      depth++;
+    } else if (c === ']') {
+      depth--;
+      if (depth === 0 && start >= 0) {
+        return text.slice(start, i + 1);
+      }
+    }
+  }
+  return null;
+}
+
 function extractTranslations(rawOutput) {
   let envelope;
   try {
@@ -56,13 +83,19 @@ function extractTranslations(rawOutput) {
   } catch {
     envelope = null;
   }
-  const resultText = envelope?.result ?? rawOutput;
-  const cleaned = String(resultText)
-    .trim()
-    .replace(/^```(?:json)?\s*\n?/i, '')
-    .replace(/\n?```\s*$/i, '')
-    .trim();
-  const parsed = JSON.parse(cleaned);
+  const resultText = String(envelope?.result ?? rawOutput);
+  const arrayText = findJsonArray(resultText);
+  if (!arrayText) {
+    const preview = resultText.trim().slice(0, 500).replace(/\s+/g, ' ');
+    throw new Error(`no JSON array found in result. Preview: ${preview}`);
+  }
+  let parsed;
+  try {
+    parsed = JSON.parse(arrayText);
+  } catch (e) {
+    const preview = arrayText.slice(0, 500).replace(/\s+/g, ' ');
+    throw new Error(`JSON parse failed: ${e.message}. Extracted: ${preview}`);
+  }
   if (!Array.isArray(parsed)) throw new Error('expected JSON array');
   return { translations: parsed, cost: envelope?.total_cost_usd ?? null };
 }
