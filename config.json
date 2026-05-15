@@ -17,7 +17,7 @@
     "enabled": true,
     "promptFile": "prompts/localize.md",
     "model": "sonnet",
-    "batchSize": 30,
+    "batchSize": 15,
     "maxBudgetUsd": 1.0
   }
 }
