@@ -1,6 +1,6 @@
 {
-  "lastFetched": "2026-05-15T07:00:04.077Z",
-  "count": 148,
+  "lastFetched": "2026-05-16T07:00:02.786Z",
+  "count": 196,
   "jokes": [
     {
       "id": "1tc80lh",
@@ -1148,7 +1148,15 @@
       "permalink": "https://www.reddit.com/r/Jokes/comments/1tdccfm/a_woman_goes_to_a_restaurant_and_orders_the_soup/",
       "createdUtc": 1778795127,
       "firstSeen": "2026-05-15T07:00:04.077Z",
-      "lastSeen": "2026-05-15T07:00:04.077Z"
+      "lastSeen": "2026-05-15T07:00:04.077Z",
+      "localized": {
+        "nb": {
+          "title": "En kvinne går på restaurant og bestiller dagens suppe.",
+          "body": "Hun smaker litt og spytter det ut i avsky. «Herregud, hva slags suppe er dette?!»\n\n«Det er ertesuppe,» svarte kelneren.\n\n«Jeg bryr meg ikke om det erter meg – hva er det egentlig?!»",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1td7lry",
@@ -3166,6 +3174,950 @@
           "title": "En liten gutt leker med togsettet sitt mens moren hans",
           "body": "vasker opp. Hun hører ham rope: «Alle om bord på choo-choo-toget! Skal du av, faen ta deg, hopp av. Skal du på, faen ta deg, hopp på.» Hun stormer inn, griper ham i armen og drar ham til rommet hans for 20 minutters skammekrok for så grovt språk. Etter 20 minutter slipper hun ham ut med en advarsel om at slikt snakk ikke forekommer mer. Noen minutter senere hører hun: «Alle om bord på choo-choo-toget! Skal du av, faen ta deg, hopp av. Skal du på, faen ta deg, hopp på. Og lurer du på den 20 minutters forsinkelsen – snakk med fitta i kjøkkenet.»",
           "at": "2026-05-15T19:04:43.799Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tdvs6u",
+      "subreddit": "Jokes",
+      "title": "I took an elevator up to the 69th floor for a meeting and as I was getting out, the operator said, \"Have a good day, son.\" I grumbled, \"Don't call me son. You're not my dad.\"",
+      "body": "He scratched his head, \"No, but I brought you up, didn't I?\"\n\nAfter my meeting, I got back on the elevator to go back down and the same operator was there. \n\nI didn't say anything to him, but when we got to the ground floor, he said to me, \"I'm sorry.\"\n\n\"Because you thought you were my dad?\" I asked him.\n\nHe shook his head. \"No, son, because I let you down.\"",
+      "score": 8609,
+      "flair": null,
+      "nsfw": false,
+      "author": "808gecko808",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tdvs6u/i_took_an_elevator_up_to_the_69th_floor_for_a/",
+      "createdUtc": 1778850262,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z"
+    },
+    {
+      "id": "1tdyxve",
+      "subreddit": "Jokes",
+      "title": "One of my favorite pun formats: A man dies, and, at the funeral, his widow asks if anyone would like to say a few words...",
+      "body": "His friend stands up, and says:  \n  \n\"Black Friday Sales Event\" \"Thank you, that means a great deal\"  \n\"Ambulance\" \"Thank you, that was just what he needed\"  \n\"Being alive\" \"Thank you, he would have liked that\"  \n\"Muy Mucho\" \"Thank you, as a Spanish speaker, that would have meant a lot to him\"  \n\"Pulmonary artery\" \"Thank you, that touches my heart\"  \n\"Relocation\" \"Thank you, that's moving\"  \n\"Elevator\" \"Thank you, that's uplifting\"  \n\"Grandiloquent\" \"Thank you, that must have been difficult to say\"  \n\"Hole in the ground with water\" \"Thank you, I know you mean well\"  \n\"Bear spray\"  \"Thank you, that brought tears to my eyes\"  \n\"9/11\" \"Thank you, I'll never forget that\"",
+      "score": 1010,
+      "flair": "Long",
+      "nsfw": false,
+      "author": "Weezy1",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tdyxve/one_of_my_favorite_pun_formats_a_man_dies_and_at/",
+      "createdUtc": 1778857310,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Et av mine favorittordspillformater: En mann dør, og ved begravelsen spør enken om noen vil si noen ord...",
+          "body": "Vennen hans reiser seg og sier:\n\n«Utsalg» – «Takk, det setter virkelig pris på ham.»\n«Ambulansen» – «Takk, det var akkurat det han trengte.»\n«Å leve» – «Takk, det hadde han likt.»\n«Muy Mucho» – «Takk, han snakket spansk, så det ville ha betydd mye for ham.»\n«Lungearterie» – «Takk, det berører hjertet mitt.»\n«Flytting» – «Takk, det er rørende.»\n«Heis» – «Takk, det er oppreisende.»\n«Grandilokvent» – «Takk, det måtte ha vært vanskelig å si.»\n«Hull i bakken med vann» – «Takk, jeg vet du mener godt.»\n«Bjørnespray» – «Takk, det tok tårene på meg.»\n«9/11» – «Takk, det glemmer jeg aldri.»",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tehby4",
+      "subreddit": "Jokes",
+      "title": "A professor arrives on the first day of the sex ed class and asks the class, \"How many positions do you know?\" A girl says, \"Twelve.\"",
+      "body": "The professor nods and gets ready to call on someone else when someone yells from the back row of the auditorium, \"A hundred and one.\" \n\nThe professor looks over his thick glasses but can't make out who had spoken. He calls on a fellow who says, \"Seven.\" \n\nAnd once again from the very back the guy yells, \"A hundred and one.\" \n\nThe professor then calls on a very shy lady in front, who says, \"Only one, sir. The man on top and woman on the bottom.\" \n\nAnd the voice from the back shouts, \"A hundred and two!\"",
+      "score": 492,
+      "flair": null,
+      "nsfw": false,
+      "author": "Jokeminder42",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tehby4/a_professor_arrives_on_the_first_day_of_the_sex/",
+      "createdUtc": 1778900132,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "En professor ankommer den første sexualundervisningstimen og spør klassen: «Hvor mange stillinger kjenner dere?» En jente sier: «Tolv.»",
+          "body": "Professoren nikker og skal til å kalle på noen andre da en stemme roper fra bakerste rad i auditoriet: «Hundre og én!»\n\nProfessoren ser over de tykke brillene sine, men klarer ikke å se hvem som snakket. Han kaller på en fyr som sier: «Sju.»\n\nOg igjen, fra bakerst: «Hundre og én!»\n\nSå kaller professoren på en veldig sjenert dame i første rad, som sier stille: «Bare én, sir. Mannen øverst og kvinnen under.»\n\nOg stemmen fra bakerst roper: «Hundre og to!»",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1teeb4r",
+      "subreddit": "Jokes",
+      "title": "A husband asked his wife to try a new sex position.",
+      "body": "She was in an adventurous but shy mood so she agreed but asked if they could do it in the dark. \n\nFollowing his directions, she got on all fours and was surprised to find herself being entered by both holes at once.\n\n\"Oh, that's actually very nice, but how are you doing it?\"\n\n\"It's all in the name my darling. It's called the Siskel and Ebert.\"\n\n\"The Siskel and Ebert? What on earth does that mean?\"\n\n\"Two thumbs up!\"",
+      "score": 484,
+      "flair": null,
+      "nsfw": true,
+      "author": "seanfish",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1teeb4r/a_husband_asked_his_wife_to_try_a_new_sex_position/",
+      "createdUtc": 1778891743,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "En mann ba kona prøve en ny sexstilling.",
+          "body": "Hun var i eventyrlysten, men sjenert humør, og gikk med på det – men ba om å gjøre det i mørket.\n\nHun fulgte instruksjonene hans, kom seg på alle fire, og ble overrasket da hun merket at begge hullene ble fylt på en gang.\n\n«Å, det er faktisk veldig godt – men hvordan gjør du det?»\n\n«Det ligger i navnet, kjærest. Det kalles Siskel og Ebert.»\n\n«Siskel og Ebert? Hva i all verden betyr det?»\n\n«To tomler opp!»",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1te6hca",
+      "subreddit": "Jokes",
+      "title": "The firefighter and the little girl",
+      "body": "A fire fighter is working on the engine outside the station when he notices a little girl next door in a little red wagon with little ladders hung off the side and a garden hose tightly coiled in the middle. The girl is wearing a fire fighter's helmet and has the wagon tied to a dog and cat. The fire fighter walks over to take a closer look. \"That sure is a nice fire truck,\" the fire fighter says with admiration. \"Thanks,\" the girl says.\n\nThe fire fighter looks a little closer and notices the girl has tied the wagon to the dog's collar and to the cat's testicles. \"Little Partner,\" the fire fighter says, \"I don't want to tell you how to run your fire truck, but if you were to tie that rope around the cat's collar, I think you could go faster.\" The little girl replied, \"You're probably right, but then I wouldn't have a siren\"",
+      "score": 411,
+      "flair": "Long",
+      "nsfw": true,
+      "author": "p0lleke",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1te6hca/the_firefighter_and_the_little_girl/",
+      "createdUtc": 1778873201,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Brannmannen og den lille jenta",
+          "body": "En brannmann holder på med motoren utenfor brannstasjonen da han legger merke til nabojenta, som leker med en liten rød vogn med stiger langs sidene og en hageslange kveilet i midten. Jenta har på seg en brannmannshjelm og har festet vognen til en hund og en katt. Brannmannen går bort for å se nærmere.\n\n«Det er en flott brannbil,» sier brannmannen beundrende. «Takk,» sier jenta.\n\nHan ser enda nærmere og oppdager at jenta har festet tauet til hundens halsbånd og til kattens testikler. «Lille venn,» sier brannmannen, «jeg vil ikke fortelle deg hvordan du skal kjøre brannbilen din, men hvis du festet det tauet rundt kattens halsbånd i stedet, tror jeg du ville komme deg fortere frem.» Jenta svarte: «Det har du nok rett i, men da hadde jeg ikke hatt noen sirene.»",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tdyq77",
+      "subreddit": "Jokes",
+      "title": "The teacher asked the class to write down their thoughts on what power is.",
+      "body": "Then she began reading them aloud.\n\n\"Power is when you do good!\" - Okay, that's nice, Tammy.\n\n\"Power is when you do good and punish evil!\" - Wonderful, Jessica!\n\n\"Power is when you have a lot of money and can sleep with any girl you want!\" - Johnny! You’re writing nonsense again! Rewrite that right this instant!\n\nLittle Johnny starts rewriting it.\n\nThe teacher: \"Well, are you done? Read it.\"\n\nLittle Johnny: \"Power is the right and ability to impose one's own will, and destroy the dreams of others.\"",
+      "score": 346,
+      "flair": null,
+      "nsfw": false,
+      "author": "Upstate_Gooner_1972",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tdyq77/the_teacher_asked_the_class_to_write_down_their/",
+      "createdUtc": 1778856862,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Læreren ba klassen skrive ned sine tanker om hva makt er.",
+          "body": "Så begynte hun å lese dem høyt.\n\n«Makt er å gjøre det gode!» – Javel, det var fint, Tammy.\n\n«Makt er å gjøre det gode og straffe det onde!» – Flott, Jessica!\n\n«Makt er å ha mye penger og kunne sove med hvem du vil!» – Johnny! Du tøver igjen! Skriv om med en gang!\n\nLille Johnny begynner å skrive om.\n\nLæreren: «Er du ferdig? Les det høyt.»\n\nLille Johnny: «Makt er retten og evnen til å påtvinge andre sin vilje og knuse deres drømmer.»",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tdzmqt",
+      "subreddit": "Jokes",
+      "title": "Two doctors were complaining about nurse Lucy, who is filling in because the hospital is so short-staffed. The first doctor says, \"I told Lucy that Mr. Smith in room 310 was to get two pills at 10 o'clock. Instead she gave him 10 pills at 2 o'clock.\"",
+      "body": "\"Tell me about it,\" says the second doctor. \"Mr. Miller in room 325 was supposed to get one injection at 6 o'clock, but Lucy gave him six injections at 1 o'clock.\" \n\nSuddenly the doctors hear a blood-curdling scream from down the hallway. The first doctor says, \"Oh no! I just realized I told Lucy to prick Mr. Johnson's boil!\"",
+      "score": 273,
+      "flair": null,
+      "nsfw": false,
+      "author": "Jokeminder42",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tdzmqt/two_doctors_were_complaining_about_nurse_lucy_who/",
+      "createdUtc": 1778858764,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "To leger klaget på sykepleier Lucy, som vikarierer fordi sykehuset er så underbemannet. Den første legen sier: «Jeg ba Lucy gi hr. Smith på rom 310 to piller klokken ti. I stedet ga hun ham ti piller klokken to.»",
+          "body": "«Si meg om det,» sier den andre legen. «Hr. Miller på rom 325 skulle ha én injeksjon klokken seks, men Lucy ga ham seks injeksjoner klokken ett.»\n\nPlutselig hører legene et blodfrysende skrik fra gangen. Den første legen sier: «Å nei! Jeg husker akkurat at jeg sa til Lucy at hun skulle prikke Johnsons byll!» [merknad: «prikke» (stikke hull på) ligner på «pikk» (norsk slang for penis), og «Johnson» er engelsk slang for penis – dobbeltbetydningen er delvis bevart]",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tedh9f",
+      "subreddit": "Jokes",
+      "title": "A slice of apple pie is £2 in Jamaica, a slice of apple pie is £2.40 in the Bahamas and a slice of apple pie is £1.70 in Barbados.",
+      "body": "These are the pie rates of the Caribbean.",
+      "score": 216,
+      "flair": null,
+      "nsfw": false,
+      "author": "blacktreacle101",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tedh9f/a_slice_of_apple_pie_is_2_in_jamaica_a_slice_of/",
+      "createdUtc": 1778889536,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "En skive eplepai er £2 på Jamaica, en skive eplepai er £2,40 på Bahamas og en skive eplepai er £1,70 på Barbados.",
+          "body": "Dette er pai-ratene i Karibia.",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1teaw8m",
+      "subreddit": "Jokes",
+      "title": "After a very embarrassing video of me was shared on social media, a lady at work whom I don't get along with told me that seeing me embarrass myself like that made her whole week.",
+      "body": "I said to her \"Which one?\" ",
+      "score": 196,
+      "flair": null,
+      "nsfw": true,
+      "author": "decoran_",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1teaw8m/after_a_very_embarrassing_video_of_me_was_shared/",
+      "createdUtc": 1778883128,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z"
+    },
+    {
+      "id": "1te1il4",
+      "subreddit": "Jokes",
+      "title": "I have a statistics joke",
+      "body": "But the average person would think it's mean",
+      "score": 121,
+      "flair": null,
+      "nsfw": false,
+      "author": "International_Bee653",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1te1il4/i_have_a_statistics_joke/",
+      "createdUtc": 1778862739,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z"
+    },
+    {
+      "id": "1te9c67",
+      "subreddit": "Jokes",
+      "title": "When Elvis Presley was just starting out…",
+      "body": "He and his band went to a summer festival outside of Memphis to try to get noticed. They were hoping they might be invited to play on one of the back stages. As Elvis was strolling around, trying to connect with a promoter or producer, or someone who could give him a chance, he was approached by a man with white paint on his face. \n\n“Hi there friend,” the man said. “My group and I are also trying to get a foothold in the entertainment business, and we have just secured an invitation to perform on that little stage over there in a half hour. How would you like to join us? You could play your music, while we do our bit where we silently act out little scenes - like being stuck in a box, or walking against the wind.”\n\nElvis looked over, and there were indeed a bunch of sketchy-looking guys with similar makeup, over by a little stage. But Elvis got a weird feeling about them - they seemed kinda shady, milling about, hands in pockets, not making eye contact with anybody. Elvis said, “Let me check with my band and see what they say; I’ll get right back to you. “\n\nHe came back a minute later and walked up to the guy. “Thankyouverymuch for the invitation, but the band refuses to take the stage with you and your crew. ….\n\nWe can’t go on together with suspicious mimes.”",
+      "score": 107,
+      "flair": "Long",
+      "nsfw": false,
+      "author": "TwoShed_Jackson",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1te9c67/when_elvis_presley_was_just_starting_out/",
+      "createdUtc": 1778879485,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Da Elvis Presley akkurat hadde begynt...",
+          "body": "...dro han og bandet til en sommerfestival utenfor Memphis for å prøve å bli lagt merke til. De håpet de kanskje ville bli invitert til å spille på en av de mindre scenene. Mens Elvis gikk rundt og prøvde å komme i kontakt med en promotor eller produsent – noen som kunne gi ham en sjanse – ble han tilnærmet av en mann med hvit maling i ansiktet.\n\n«Hei, venn,» sa mannen. «Jeg og gjengen min prøver også å få fotfeste i bransjen, og vi har nettopp sikret oss en plass på den lille scenen der borte om en halvtime. Har du lyst til å bli med? Du spiller musikken din, mens vi gjør vår greie – vi fremstiller stille scener, som å sitte fanget i en boks, eller gå mot vinden.»\n\nElvis så bort, og der sto det virkelig noen skumle typer med lignende sminke ved en liten scene. Men Elvis fikk en rar følelse av dem – de virket mistenkelige, slengte rundt med hendene i lommene og unngikk øyekontakt. Elvis sa: «La meg sjekke med bandet og se hva de sier. Jeg er tilbake straks.»\n\nEt minutt senere kom han tilbake og gikk bort til mannen. «Thankyouverymuch for invitasjonen, men bandet nekter å gå på scenen med deg og gjengen din.\n\nVi kan ikke gå videre med suspicious mimes.»\n[merknad: ordspill på Elvis-sangen «Suspicious Minds» – «minds» (sinn) er byttet ut med «mimes» (pantomimeartister)]",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1teaduo",
+      "subreddit": "Jokes",
+      "title": "What's brown and sounds like a bell?",
+      "body": "Dungggggg",
+      "score": 105,
+      "flair": null,
+      "nsfw": false,
+      "author": "Sauterneandbleu",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1teaduo/whats_brown_and_sounds_like_a_bell/",
+      "createdUtc": 1778881911,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z"
+    },
+    {
+      "id": "1tdp7rz",
+      "subreddit": "Jokes",
+      "title": "Boss: \"And remember, there's no 'I' in 'Team'!\"",
+      "body": "Disgruntled peon: \"yeah, and there's not much sign of 'U' in it either\".",
+      "score": 96,
+      "flair": null,
+      "nsfw": false,
+      "author": "Gil-Gandel",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tdp7rz/boss_and_remember_theres_no_i_in_team/",
+      "createdUtc": 1778830773,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Sjefen: «Og husk – det er ingen 'I' i 'team'!»",
+          "body": "Misfornøyd ansatt: «Ja, og det er heller ikke mye 'DU' å spore i det.»",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1te1iu5",
+      "subreddit": "Jokes",
+      "title": "So a guy is walking with a young boy into the woods.",
+      "body": "Boy “hey mister it’s getting dark out and I’m scared”\n\nMan “how do you think I feel, I have to walk back alone”",
+      "score": 58,
+      "flair": null,
+      "nsfw": false,
+      "author": "Working-Royal-479",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1te1iu5/so_a_guy_is_walking_with_a_young_boy_into_the/",
+      "createdUtc": 1778862754,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "En mann går inn i skogen med en liten gutt.",
+          "body": "Gutt: «Hei, det begynner å bli mørkt og jeg er redd.»\n\nMann: «Tror du jeg har det noe bedre? Jeg må gå tilbake alene.»",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1te2wq5",
+      "subreddit": "Jokes",
+      "title": "What do you find when you look down a mole hole?",
+      "body": "Molasses!",
+      "score": 49,
+      "flair": null,
+      "nsfw": false,
+      "author": "EmergencyNo7427",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1te2wq5/what_do_you_find_when_you_look_down_a_mole_hole/",
+      "createdUtc": 1778865667,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z"
+    },
+    {
+      "id": "1te09xr",
+      "subreddit": "Jokes",
+      "title": "-Define yourself in three words",
+      "body": "-Lazy.",
+      "score": 45,
+      "flair": null,
+      "nsfw": false,
+      "author": "melochupan",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1te09xr/define_yourself_in_three_words/",
+      "createdUtc": 1778860137,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "– Beskriv deg selv med tre ord",
+          "body": "– Lat.",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tegudx",
+      "subreddit": "Jokes",
+      "title": "My uncle used to say \"time heals all wounds\"",
+      "body": "Was a stellar guy, terrible paramedic",
+      "score": 39,
+      "flair": null,
+      "nsfw": false,
+      "author": "International_Bee653",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tegudx/my_uncle_used_to_say_time_heals_all_wounds/",
+      "createdUtc": 1778898769,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Onkelen min pleide å si: «Tid leger alle sår»",
+          "body": "Strålende fyr. Elendig paramedic.",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1te4qgh",
+      "subreddit": "Jokes",
+      "title": "If you woke up with grass stains on your knees and a used condom hanging out your bum would you tell anyone?",
+      "body": "“Of course not, no never”   \nWanna go for a picnic on Sunday?",
+      "score": 30,
+      "flair": null,
+      "nsfw": false,
+      "author": "Greybeard111",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1te4qgh/if_you_woke_up_with_grass_stains_on_your_knees/",
+      "createdUtc": 1778869471,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Hvis du våknet med gressflekker på knærne og en brukt kondom dinglende ut av ræva – ville du fortalt noen om det?",
+          "body": "«Selvfølgelig ikke, aldri i livet.»\n\nVil du bli med på piknik på søndag?",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1te13md",
+      "subreddit": "Jokes",
+      "title": "What did the Redditor say when the corner of his fence exploded?",
+      "body": "\"Wow, this post blew up!\"",
+      "score": 26,
+      "flair": null,
+      "nsfw": false,
+      "author": "ztreHdrahciR",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1te13md/what_did_the_redditor_say_when_the_corner_of_his/",
+      "createdUtc": 1778861846,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z"
+    },
+    {
+      "id": "1tdvwp3",
+      "subreddit": "cleanjokes",
+      "title": "As we were walking down the driveway with the cans, I asked my son, \"Did you know there’s no official training for garbage men?\" Rolling his eyes, he responded, \"No, no I didn't.\" I continued...",
+      "body": "\n\n\"Seriously, they just pick it up as they go along!\"",
+      "score": 275,
+      "flair": null,
+      "nsfw": false,
+      "author": "808gecko808",
+      "permalink": "https://www.reddit.com/r/cleanjokes/comments/1tdvwp3/as_we_were_walking_down_the_driveway_with_the/",
+      "createdUtc": 1778850566,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Da vi gikk ned oppkjørselen med søppeldunkene, spurte jeg sønnen min: «Visste du at søppelmenn ikke har noen offisiell opplæring?» Han himlet med øynene: «Nei, det visste jeg ikke.» Jeg fortsatte...",
+          "body": "«Seriøst – de plukker det bare opp etter hvert!»",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tdufqg",
+      "subreddit": "cleanjokes",
+      "title": "What beef only comes in 2, 3, 5, 7, or 11 ounce portions?",
+      "body": "Prime Rib!",
+      "score": 87,
+      "flair": null,
+      "nsfw": false,
+      "author": "Left-Distribution-13",
+      "permalink": "https://www.reddit.com/r/cleanjokes/comments/1tdufqg/what_beef_only_comes_in_2_3_5_7_or_11_ounce/",
+      "createdUtc": 1778847001,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Hva slags storfekjøtt finnes bare i 2, 3, 5, 7 eller 11 unse-porsjoner?",
+          "body": "Prime Rib! [merknad: «prime» betyr både primtall og en type kvalitetsbiff]",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1te8yyy",
+      "subreddit": "cleanjokes",
+      "title": "The Anniversary",
+      "body": "A man and his wife want to surprise each other on their upcoming 25-year anniversary.  Eager to outdo the other, they each struggle to find a gift that is truly “over the top”!\n\nThe wife thinks, \"He works so hard taking care of the house and mowing the lawn.. I’d like to give him a place to story all of his tools!\"  So she ducks away to call a local builder, a Scotsman known for his fine craftsmanship and attention to detail.  After some discussion, she orders the husband a tool shed.  \"Yes, that’s right, the deluxe model,\" she says.  \"And make it Forest Green - it’s his favorite color!  We’re at 246 Lovers Lane\".\n\nMeanwhile, the husband thinks, \"I know - sometimes she just wants to be alone, to be able to read a book in peace and quiet.”  So he calls the same builder, just minutes later, \"..and I want it Petunia Pink, with windows.  246 Lovers Lane.”\n\n“You sure ye don’t want Forest Green, mate?  You know, with the professional-grade tool hooks?” says the builder.  \"No, no.  I definitely want pink with windows.. and frilly curtains, too!\" the husband replies.  Puzzled, the builder responds, \"Ok, whatever you say!\"  And the plans are set in motion.\n\nThe couple goes on a European vacation and has the time of their lives, but each one is secretly more excited about arriving back home and seeing the look of surprise on their partner’s face.  When the time comes, they return from the airport to find the builder just finishing up, putting a bow on the door of the bright pink shed, a big grin stretching across his face.\n\n\"Well, whaddya think?!\" he proudly exclaims.  The husband starts, \"This is great!  When did you..\"  But the wife interjects, with a look of deep dismay and frustration.  \"No, NO!  You got it ALL wrong!  What have you done?  I clearly asked for Forest Green!!  Honey, I’m SO sorry..”\n\nThe builder scratches his chin, thinks for a moment and says:\n\n“I think I know what’s going on here..  This is clearly a case of ‘He-Shed, She-Shed!’”",
+      "score": 68,
+      "flair": null,
+      "nsfw": false,
+      "author": "gracius0ne",
+      "permalink": "https://www.reddit.com/r/cleanjokes/comments/1te8yyy/the_anniversary/",
+      "createdUtc": 1778878661,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z"
+    },
+    {
+      "id": "1tdy8lq",
+      "subreddit": "cleanjokes",
+      "title": "Everyone always talks about Karl Marx, but what about...",
+      "body": "Everyone always talks about Karl Marx but no one talks about his sister Onya, the inventor of the startup pistol",
+      "score": 37,
+      "flair": null,
+      "nsfw": false,
+      "author": "Coralthesequel",
+      "permalink": "https://www.reddit.com/r/cleanjokes/comments/1tdy8lq/everyone_always_talks_about_karl_marx_but_what/",
+      "createdUtc": 1778855791,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Alle snakker alltid om Karl Marx, men hva med...",
+          "body": "Alle snakker alltid om Karl Marx, men ingen snakker om søsteren hans Onya, oppfinneren av startpistolen. [merknad: «Onya Marx» uttales som engelsk «on your marks», startkommandoen i friidrett]",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tdvn6d",
+      "subreddit": "dadjokes",
+      "title": "A man walks into a bar with his dog and asks for a drink, but the bartender says, \"You can't bring that dog in here!\"",
+      "body": "The guy, without missing a beat, says. \"This is my seeing-eye dog.\" \n\nThe bartender says, \"I'm sorry! Here, the first one's on me.\"\n\nThe man takes his drink and goes to a table near the door. \n\nAnother guy walks in the bar with a Chihuahua. \n\nThe first guys sees him, stops him and says, \"You can't bring dogs in here unless you tell him it's a seeing-eye dog.\" \n\nThe second man graciously thanks the first man and continues to the bar. \n\nWhen he asks for a drink, the bartender says, \"Hey, you can't bring that dog in here!\"\n\nThe man replies, \"This is my seeing-eye dog.\" \n\nThe bartender says, \"No, I don't think so. Chihuahuas aren't seeing-eye dogs.\" \n\nThe man pauses and replies \"What?!?! They gave me a Chihuahua?!?\"",
+      "score": 1662,
+      "flair": null,
+      "nsfw": false,
+      "author": "808gecko808",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tdvn6d/a_man_walks_into_a_bar_with_his_dog_and_asks_for/",
+      "createdUtc": 1778849960,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "En mann går inn på en bar med hunden sin og bestiller en drink, men bartenderen sier: «Du kan ikke ha med hund her inne!»",
+          "body": "Mannen, uten å nøle, svarer: «Dette er førerhunden min.»\n\nBartenderen sier: «Beklager! Den første er på meg.»\n\nMannen tar drinken og setter seg ved et bord nær døren.\n\nEn annen mann kommer inn med en chihuahua.\n\nDen første mannen ser ham, stopper ham og sier: «Du kan ikke ha med hund her inne med mindre du sier at det er en førerhund.»\n\nDen andre mannen takker ham og går bort til baren.\n\nNår han bestiller en drink, sier bartenderen: «Hei, du kan ikke ha med hund her inne!»\n\nMannen svarer: «Dette er førerhunden min.»\n\nBartenderen sier: «Det tror jeg ikke noe på. Chihuahuaer er ikke førerhunder.»\n\nMannen stanser og svarer: «Hva?!?! De ga meg en chihuahua?!?!»",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tdyvf0",
+      "subreddit": "dadjokes",
+      "title": "A neurologist was diagnosing a man who had lost the ability to do basic math. \"What's 9 plus 9?\" \"12\". \"What's 8 and 8?\" \"10\". The doctor shook his head. \"Very interesting. What about 6 times 5?\" The man thought for a second and answered \"1E\".",
+      "body": "\"Aha, I've figured it out!\" The doctor said. \"Somebody's clearly put a hex on you.\"",
+      "score": 816,
+      "flair": null,
+      "nsfw": false,
+      "author": "devnodegree",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tdyvf0/a_neurologist_was_diagnosing_a_man_who_had_lost/",
+      "createdUtc": 1778857179,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "En nevrolog undersøkte en mann som hadde mistet evnen til å gjøre enkle regnestykker. «Hva er 9 pluss 9?» «12.» «Hva er 8 og 8?» «10.» Legen ristet på hodet. «Meget interessant. Hva med 6 ganger 5?» Mannen tenkte seg om og svarte: «1E.»",
+          "body": "«Aha, nå har jeg skjønt det!» sa legen. «Noen har tydelig hekset deg.»",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1te88ib",
+      "subreddit": "dadjokes",
+      "title": "In Star Wars Chewbacca is called chewy; Jabba the Hut is called Jabba. What is Luke Skywalker short for?",
+      "body": "A stormtrooper",
+      "score": 461,
+      "flair": null,
+      "nsfw": false,
+      "author": "TRAKRACER",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1te88ib/in_star_wars_chewbacca_is_called_chewy_jabba_the/",
+      "createdUtc": 1778877011,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "I Star Wars kalles Chewbacca for Chewie, og Jabba the Hutt kalles Jabba. Hva er Luke Skywalker kort for?",
+          "body": "En stormtrooper",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1te1fec",
+      "subreddit": "dadjokes",
+      "title": "My vegan friend told me \"that chicken you're eating had a family!\"",
+      "body": "I said \"that's why I ordered the family bucket - nobody gets left behind.\"",
+      "score": 337,
+      "flair": null,
+      "nsfw": false,
+      "author": "EsotericTribble",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1te1fec/my_vegan_friend_told_me_that_chicken_youre_eating/",
+      "createdUtc": 1778862552,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Den veganske vennen min sa: «Den kyllingen du spiser hadde en familie!»",
+          "body": "Jeg sa: «Nettopp derfor bestilte jeg familiepakningen – ingen blir igjen.»",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tecmut",
+      "subreddit": "dadjokes",
+      "title": "Mountains aren't funny",
+      "body": "\n\nThey're hill areas",
+      "score": 178,
+      "flair": null,
+      "nsfw": false,
+      "author": "Vaquero-SASS",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tecmut/mountains_arent_funny/",
+      "createdUtc": 1778887407,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Fjell er ikke morsomme",
+          "body": "\n\nDe er steinmorsomme",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tebhuq",
+      "subreddit": "dadjokes",
+      "title": "My daughter bested me.",
+      "body": "We were a couple of towns over driving to her next away softball game. She's 10, and plays in junior league girls softball. \n\nWe pass by one of the older 70's/80's McDonald's with the outdoor playplace, with all the characters. She recognized Ronald, but that was it. She didn't know the others even existed, so I started explaining who everyone else was the best I could remember.\n\nWhen I'm finished, she looks at me with a straight face and says; \"Do you think Mayor McCheese had a 'beef' with the Hamburgler\"?\n\nDammit kid. All these years, that one was right there. How did I not see it?",
+      "score": 177,
+      "flair": null,
+      "nsfw": false,
+      "author": "DiHard_ChistmasMovie",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tebhuq/my_daughter_bested_me/",
+      "createdUtc": 1778884593,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Datteren min slo meg.",
+          "body": "Vi kjørte et par byer unna til bortekampen i softball. Hun er 10 år og spiller i juniorlag for jenter.\n\nVi passerte en av de eldre McDonald's-restaurantene fra 70-/80-tallet med lekeapparater ute og alle figurene. Hun kjente igjen Ronald, men det var det. Hun visste ikke at de andre engang eksisterte, så jeg begynte å forklare hvem alle var, så godt jeg husket.\n\nDa jeg var ferdig, så hun rett på meg med dødt ansikt og sa: «Tror du Borgermester McOst hadde en 'beef' med Hamburgtyven?»\n\nFor faen, unge. Alle disse årene lå den rett der foran meg. Hvordan fikk jeg ikke med meg det?",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tedwqy",
+      "subreddit": "dadjokes",
+      "title": "I had an argument with someone at the bar the other night who claimed that he was a big Pop star in the 80s.",
+      "body": "I didn't believe him but he was very adamant.",
+      "score": 160,
+      "flair": null,
+      "nsfw": false,
+      "author": "Final-Ad-2033",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tedwqy/i_had_an_argument_with_someone_at_the_bar_the/",
+      "createdUtc": 1778890668,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z"
+    },
+    {
+      "id": "1tdt0a0",
+      "subreddit": "dadjokes",
+      "title": "I got gas yesterday for 99 cents",
+      "body": "Unfortunately, it was at Taco Bell.",
+      "score": 136,
+      "flair": null,
+      "nsfw": false,
+      "author": "IEnjoyDadJokes",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tdt0a0/i_got_gas_yesterday_for_99_cents/",
+      "createdUtc": 1778843148,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg fikk gass i går for 99 cent",
+          "body": "Dessverre var det på Taco Bell.",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1te5hus",
+      "subreddit": "dadjokes",
+      "title": "Why did the little boy throw the clock out the window?",
+      "body": "He was a jerk",
+      "score": 88,
+      "flair": null,
+      "nsfw": false,
+      "author": "theajplayer123",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1te5hus/why_did_the_little_boy_throw_the_clock_out_the/",
+      "createdUtc": 1778871103,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Hvorfor kastet den lille gutten klokka ut av vinduet?",
+          "body": "Han var bare en dust",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1te12bl",
+      "subreddit": "dadjokes",
+      "title": "Why can’t two elephants swim at the same time?",
+      "body": "They only have one pair of trunks.",
+      "score": 88,
+      "flair": null,
+      "nsfw": false,
+      "author": "devnodegree",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1te12bl/why_cant_two_elephants_swim_at_the_same_time/",
+      "createdUtc": 1778861771,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z"
+    },
+    {
+      "id": "1te1k4s",
+      "subreddit": "dadjokes",
+      "title": "Religion is so self contradicting.",
+      "body": "Thank God I'm an atheist.",
+      "score": 65,
+      "flair": null,
+      "nsfw": false,
+      "author": "RobIson240YT",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1te1k4s/religion_is_so_self_contradicting/",
+      "createdUtc": 1778862832,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Religion er så selvmotsigende.",
+          "body": "Gudskjelov er jeg ateist.",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tdvb3c",
+      "subreddit": "dadjokes",
+      "title": "I saw my wife staring into the fridge looking frustrated and asked what was wrong. She said, “I’m trying not to have a meltdown because I wanted to make omelettes, but we don’t even have the ingredients.”",
+      "body": "I said, “Just breathe, babe. You’re having an eggs-essential crisis.” ",
+      "score": 63,
+      "flair": null,
+      "nsfw": false,
+      "author": "ilikesidehugs",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tdvb3c/i_saw_my_wife_staring_into_the_fridge_looking/",
+      "createdUtc": 1778849138,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg så kona mi stirre frustrert inn i kjøleskapet og spurte hva som var galt. Hun sa: «Jeg klarer ikke å holde meg – jeg ville lage omelett, men vi mangler det vi trenger.»",
+          "body": "«Ta det med ro, kjære. Du har bare en egg-sistensiell krise.»",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tdqvbr",
+      "subreddit": "dadjokes",
+      "title": "🏴󠁧󠁢󠁳󠁣󠁴󠁿Man walks into a bakers🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "body": "He see’s a dessert and asks the baker: “Is this a cake or a meringue?”\n\nBaker replies: “aye it’s a cake right enough” ",
+      "score": 63,
+      "flair": null,
+      "nsfw": false,
+      "author": "BaldiBlondiWhiteBoi",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tdqvbr/man_walks_into_a_bakers/",
+      "createdUtc": 1778836364,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z"
+    },
+    {
+      "id": "1tdspf6",
+      "subreddit": "dadjokes",
+      "title": "What do you call a guy that can duck from a punch?",
+      "body": "Bob",
+      "score": 49,
+      "flair": null,
+      "nsfw": false,
+      "author": "TRAKRACER",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tdspf6/what_do_you_call_a_guy_that_can_duck_from_a_punch/",
+      "createdUtc": 1778842290,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z"
+    },
+    {
+      "id": "1te979g",
+      "subreddit": "dadjokes",
+      "title": "How far can a dog run into the forest?",
+      "body": "Half way through. After that it will be running out of the forest.",
+      "score": 49,
+      "flair": null,
+      "nsfw": false,
+      "author": "InternetPast1755",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1te979g/how_far_can_a_dog_run_into_the_forest/",
+      "createdUtc": 1778879174,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Hvor langt kan en hund løpe inn i skogen?",
+          "body": "Halvveis. Etter det løper den ut igjen.",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1teee78",
+      "subreddit": "dadjokes",
+      "title": "What generation was Forrest Gump's son?",
+      "body": "Gen-A.",
+      "score": 36,
+      "flair": null,
+      "nsfw": false,
+      "author": "kuleshov",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1teee78/what_generation_was_forrest_gumps_son/",
+      "createdUtc": 1778891972,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Hvilken generasjon tilhørte Forrest Gumps sønn?",
+          "body": "Gen A.",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1te3pzy",
+      "subreddit": "dadjokes",
+      "title": "A husband and wife get into an argument.",
+      "body": "The wife gives him the silent treatment for three days.\n\nOn the fourth day, the husband says,\n\n“Hey… are you still not talking to me?”\n\nThe wife finally replies, “Yes.”\n\nThe husband smiles and says,\n\n“Great! I thought I went deaf.”",
+      "score": 37,
+      "flair": null,
+      "nsfw": false,
+      "author": "lnc_gomes",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1te3pzy/a_husband_and_wife_get_into_an_argument/",
+      "createdUtc": 1778867369,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Et ektepar havner i krangel.",
+          "body": "Kona gir ham taushetstraff i tre dager.\n\nPå den fjerde dagen sier mannen:\n\n«Hei… er du fortsatt ikke på talefot med meg?»\n\nKona svarer endelig: «Jo.»\n\nMannen smiler og sier:\n\n«Godt! Jeg trodde jeg hadde blitt døv.»",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tec1xk",
+      "subreddit": "dadjokes",
+      "title": "A blind salesman comes to the door, what is he selling?",
+      "body": "He sells Blinds. He's a blind salesman.",
+      "score": 34,
+      "flair": null,
+      "nsfw": false,
+      "author": "Far-Device-9391",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tec1xk/a_blind_salesman_comes_to_the_door_what_is_he/",
+      "createdUtc": 1778885956,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z"
+    },
+    {
+      "id": "1tecs4r",
+      "subreddit": "dadjokes",
+      "title": "When I forgot the name of that flying mammal, my daughter helped me remember.",
+      "body": "She really went to bat for me.",
+      "score": 25,
+      "flair": null,
+      "nsfw": false,
+      "author": "Masselein",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tecs4r/when_i_forgot_the_name_of_that_flying_mammal_my/",
+      "createdUtc": 1778887778,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z"
+    },
+    {
+      "id": "1tdw3b8",
+      "subreddit": "3amjokes",
+      "title": "I walked in on my coworker jizzing in the soap dispenser",
+      "body": "He was trying to come clean.",
+      "score": 311,
+      "flair": null,
+      "nsfw": true,
+      "author": "Intergalactic_Nut",
+      "permalink": "https://www.reddit.com/r/3amjokes/comments/1tdw3b8/i_walked_in_on_my_coworker_jizzing_in_the_soap/",
+      "createdUtc": 1778850993,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg gikk inn på jobb og tok kollegaen min i å runke i såpedispenseren",
+          "body": "Han ville bare komme rent ut med det.",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tdvu1c",
+      "subreddit": "3amjokes",
+      "title": "I yelled at my girlfriend, \"If you continue stealing my cooking utensils, I'll move out!\" She just laughed and said...",
+      "body": "\"That's a whisk I'm willing to take!\"",
+      "score": 148,
+      "flair": null,
+      "nsfw": false,
+      "author": "808gecko808",
+      "permalink": "https://www.reddit.com/r/3amjokes/comments/1tdvu1c/i_yelled_at_my_girlfriend_if_you_continue/",
+      "createdUtc": 1778850387,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg ropte til kjæresten min: «Hvis du fortsetter å stjele risen min, flytter jeg ut!» Hun lo bare og sa...",
+          "body": "«Det er en risiko jeg er villig til å ta!»",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tec12e",
+      "subreddit": "3amjokes",
+      "title": "A blind salesman comes to the door. What is he selling?",
+      "body": "He sells Blinds. He's a blind salesman.",
+      "score": 52,
+      "flair": null,
+      "nsfw": false,
+      "author": "Far-Device-9391",
+      "permalink": "https://www.reddit.com/r/3amjokes/comments/1tec12e/a_blind_salesman_comes_to_the_door_what_is_he/",
+      "createdUtc": 1778885894,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z"
+    },
+    {
+      "id": "1te2xw0",
+      "subreddit": "3amjokes",
+      "title": "The guy who picked on me all through high school and then became a multi millionaire just placed a delivery order at my local KFC.",
+      "body": "\n\n\nNow I get the last laugh. I gave him original recipe and he ordered extra crispy. Checkmate John, you fucking loser.",
+      "score": 31,
+      "flair": null,
+      "nsfw": false,
+      "author": "Make_the_music_stop",
+      "permalink": "https://www.reddit.com/r/3amjokes/comments/1te2xw0/the_guy_who_picked_on_me_all_through_high_school/",
+      "createdUtc": 1778865729,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Fyren som mobbet meg gjennom hele videregående og siden ble multimillionær la nettopp inn en leveringsbestilling på min lokale KFC.",
+          "body": "\n\n\nNå er det jeg som ler sist. Han bestilte Extra Crispy, og jeg ga ham Original Recipe. Sjakk matt, John, din jævla taper.",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1te3w4k",
+      "subreddit": "3amjokes",
+      "title": "Teeter Totter Titties",
+      "body": "A dreamer could not divine,  \nNot even Walter Mitty.  \nThe mystery and the madness,  \nOf a teeter totter titty.\n\nThis asymmetric wonder,  \nBlows my mind to bits.  \nEvery time I get a gander,  \nAt those teeter totter tits.\n\nOne looks up and one looks down,  \nA smiley face and then a frown.  \nA pauper’s hat,  \nAnd then a crown.\n\nA rainbow’s mirth then back to brown.",
+      "score": 28,
+      "flair": null,
+      "nsfw": true,
+      "author": "stereolab0000",
+      "permalink": "https://www.reddit.com/r/3amjokes/comments/1te3w4k/teeter_totter_titties/",
+      "createdUtc": 1778867718,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Vippe-Vappe-Pupper",
+          "body": "Ingen drømmere kunne gjette,  \nEi heller Walter Mitty.  \nMysteriet og galskapen  \nBak et vippe-vappe-pupp.\n\nDette asymmetriske underverket  \nSprenger hodet mitt i støv.  \nHver gang jeg får et glimt  \nAv de vippe-vappe-puppene.\n\nEn peker opp og en peker ned,  \nEt smil og så en griner.  \nEn tiggerhatt,  \nOg så en krone.\n\nRegnbuens glede, så tilbake til brunt.",
+          "at": "2026-05-16T07:00:18.107Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1te2x42",
+      "subreddit": "Unclejokes",
+      "title": "The guy who picked on me all through high school and then became a multi millionaire just placed a delivery order at my local KFC.",
+      "body": "\n\n\nNow I get the last laugh. I gave him original recipe and he ordered extra crispy. Checkmate John, you fucking loser.",
+      "score": 35,
+      "flair": null,
+      "nsfw": false,
+      "author": "Make_the_music_stop",
+      "permalink": "https://www.reddit.com/r/Unclejokes/comments/1te2x42/the_guy_who_picked_on_me_all_through_high_school/",
+      "createdUtc": 1778865687,
+      "firstSeen": "2026-05-16T07:00:02.786Z",
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Fyren som mobbet meg gjennom hele videregående og siden ble multimillionær la nettopp inn en leveringsbestilling på min lokale KFC.",
+          "body": "\n\n\nNå er det jeg som ler sist. Han bestilte Extra Crispy, og jeg ga ham Original Recipe. Sjakk matt, John, din jævla taper.",
+          "at": "2026-05-16T07:00:18.107Z",
           "model": "sonnet"
         }
       }
