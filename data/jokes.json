@@ -1,6 +1,6 @@
 {
-  "lastFetched": "2026-05-17T07:00:03.128Z",
-  "count": 244,
+  "lastFetched": "2026-05-18T07:00:02.946Z",
+  "count": 284,
   "jokes": [
     {
       "id": "1tc80lh",
@@ -1200,7 +1200,15 @@
       "permalink": "https://www.reddit.com/r/Jokes/comments/1tctq52/a_woman_takes_a_sip_of_her_coffee_and_winces_at/",
       "createdUtc": 1778753354,
       "firstSeen": "2026-05-15T07:00:04.077Z",
-      "lastSeen": "2026-05-15T07:00:04.077Z"
+      "lastSeen": "2026-05-15T07:00:04.077Z",
+      "localized": {
+        "nb": {
+          "title": "En kvinne tar en slurk av kaffen sin og griper seg i å rynke nesen...",
+          "body": "Hun ringer advokaten sin: «Kaffen mannen min lagde er så fæl at det bør være ulovlig.» Advokaten svarer: «Ta med kaffegruten.» Hun gjør det. «Det du holder i hånden,» sier advokaten, «er grunnlag for skilsmisse.» [merknad: på engelsk heter kaffegrut «coffee grounds», og «grounds» betyr også rettslig grunnlag – derav ordspillet]",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tdj3p4",
@@ -1368,7 +1376,15 @@
       "permalink": "https://www.reddit.com/r/cleanjokes/comments/1td6keh/it_started_raining_coins_outside_today/",
       "createdUtc": 1778782698,
       "firstSeen": "2026-05-15T07:00:04.077Z",
-      "lastSeen": "2026-05-15T07:00:04.077Z"
+      "lastSeen": "2026-05-15T07:00:04.077Z",
+      "localized": {
+        "nb": {
+          "title": "Det regnet mynter ute i dag..",
+          "body": "Jeg antar det er klimaendringer. [merknad: på engelsk betyr «change» både mynter/vekslepenger og endring]",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tcvn7j",
@@ -3404,7 +3420,15 @@
       "permalink": "https://www.reddit.com/r/Jokes/comments/1te1il4/i_have_a_statistics_joke/",
       "createdUtc": 1778862739,
       "firstSeen": "2026-05-16T07:00:02.786Z",
-      "lastSeen": "2026-05-16T07:00:02.786Z"
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg har en statistikkspøk",
+          "body": "Men gjennomsnittspersonen ville tro den er ufin.",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1te9c67",
@@ -3440,7 +3464,15 @@
       "permalink": "https://www.reddit.com/r/Jokes/comments/1teaduo/whats_brown_and_sounds_like_a_bell/",
       "createdUtc": 1778881911,
       "firstSeen": "2026-05-16T07:00:02.786Z",
-      "lastSeen": "2026-05-16T07:00:02.786Z"
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Hva er brunt og høres ut som en bjelle?",
+          "body": "Dongggg",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tdp7rz",
@@ -3820,7 +3852,15 @@
       "permalink": "https://www.reddit.com/r/dadjokes/comments/1tedwqy/i_had_an_argument_with_someone_at_the_bar_the/",
       "createdUtc": 1778890668,
       "firstSeen": "2026-05-16T07:00:02.786Z",
-      "lastSeen": "2026-05-16T07:00:02.786Z"
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg kranglet med noen på baren forleden som påsto at han var en stor popstjerne på 80-tallet.",
+          "body": "Jeg trodde ham ikke, men han var veldig adamant.",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tdt0a0",
@@ -4030,7 +4070,15 @@
       "permalink": "https://www.reddit.com/r/dadjokes/comments/1tec1xk/a_blind_salesman_comes_to_the_door_what_is_he/",
       "createdUtc": 1778885956,
       "firstSeen": "2026-05-16T07:00:02.786Z",
-      "lastSeen": "2026-05-16T07:00:02.786Z"
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "En blind selger ringer på døren, hva selger han?",
+          "body": "Han selger persienner. Han er nemlig blind. [merknad: på engelsk heter persienner «blinds», noe som gjør at «blind salesman» betyr både en visuelt hemmet selger og en som selger persienner]",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tecs4r",
@@ -4110,7 +4158,15 @@
       "permalink": "https://www.reddit.com/r/3amjokes/comments/1tec12e/a_blind_salesman_comes_to_the_door_what_is_he/",
       "createdUtc": 1778885894,
       "firstSeen": "2026-05-16T07:00:02.786Z",
-      "lastSeen": "2026-05-16T07:00:02.786Z"
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "En blind selger ringer på døren. Hva selger han?",
+          "body": "Han selger persienner. Han er nemlig blind. [merknad: på engelsk heter persienner «blinds», noe som gjør at «blind salesman» betyr både en visuelt hemmet selger og en som selger persienner]",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1te2xw0",
@@ -4476,7 +4532,15 @@
       "permalink": "https://www.reddit.com/r/Jokes/comments/1tf9ceb/why_was_the_t_rex_killed_by_federales_in_mexico/",
       "createdUtc": 1778975322,
       "firstSeen": "2026-05-17T07:00:03.128Z",
-      "lastSeen": "2026-05-17T07:00:03.128Z"
+      "lastSeen": "2026-05-17T07:00:03.128Z",
+      "localized": {
+        "nb": {
+          "title": "Hvorfor ble T-rex skutt av federales i Mexico?",
+          "body": "Han handlet med lette håndvåpen. [merknad: på engelsk spilles det på «small arms» – som betyr både «lette håndvåpen» og «korte armer»; T-rex er jo berømt for sine stumpe forlemmer]",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1teubks",
@@ -4622,7 +4686,15 @@
       "permalink": "https://www.reddit.com/r/cleanjokes/comments/1tf1bty/i_tried_to_catch_some_fog_yesterday/",
       "createdUtc": 1778955534,
       "firstSeen": "2026-05-17T07:00:03.128Z",
-      "lastSeen": "2026-05-17T07:00:03.128Z"
+      "lastSeen": "2026-05-17T07:00:03.128Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg prøvde å fange tåken i går.",
+          "body": "Det gikk i tåken.",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tepkzs",
@@ -4870,7 +4942,15 @@
       "permalink": "https://www.reddit.com/r/dadjokes/comments/1tf2hx2/what_is_a_pirates_favorite_letter/",
       "createdUtc": 1778958198,
       "firstSeen": "2026-05-17T07:00:03.128Z",
-      "lastSeen": "2026-05-17T07:00:03.128Z"
+      "lastSeen": "2026-05-17T07:00:03.128Z",
+      "localized": {
+        "nb": {
+          "title": "Hva er en pirats favorittbokstav?",
+          "body": "Du svarte sikkert «Arrr», men nei. Det er bokstaven P … for uten den er han bare irat. [merknad: «pirat» uten P = «irat», et spill på engelsk «irate» (rasende)]",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tf34lk",
@@ -4928,7 +5008,15 @@
       "permalink": "https://www.reddit.com/r/dadjokes/comments/1tf15zo/i_tried_to_make_a_belt_out_of_watches/",
       "createdUtc": 1778955168,
       "firstSeen": "2026-05-17T07:00:03.128Z",
-      "lastSeen": "2026-05-17T07:00:03.128Z"
+      "lastSeen": "2026-05-17T07:00:03.128Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg prøvde å lage et belte av klokker.",
+          "body": "Det var bortkastet tid. [merknad: på engelsk spilles det på «waist» (midje – der beltet sitter) som høres likt ut som «waste» i «waste of time»]",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tfaenb",
@@ -5190,6 +5278,862 @@
           "title": "Du vet hva de sier om gutter med store føtter?",
           "body": "At det er et skrekkelig ork å handle sko, og det stemmer til punkt og prikke. Jeg lette gjennom 7 butikker for å finne et par som passet. Heldigvis finnes én av dem fortsatt – jeg har brukt det samme paret i 5 år fordi de er de eneste som finnes i min størrelse. Og ikke få meg til å begynne på skistøvler. Det tok 6 måneder med leting før jeg fant et par bakerst i en liten butikk 8 mil fra der jeg bor. Dette er en øvelse i frustrasjon. I det minste gjør det å ha en kjempelang kuk godt igjen for det.",
           "at": "2026-05-17T07:00:22.141Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tfu72v",
+      "subreddit": "Jokes",
+      "title": "I asked my algebra teacher if I would ever use it when I grew up.",
+      "body": "He said that I wouldn’t, but one of the smart kids might. ",
+      "score": 1987,
+      "flair": null,
+      "nsfw": false,
+      "author": "TomKarelis",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tfu72v/i_asked_my_algebra_teacher_if_i_would_ever_use_it/",
+      "createdUtc": 1779035068,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg spurte algebralæreren min om jeg noen gang ville få bruk for det når jeg ble voksen.",
+          "body": "Han sa at det ville ikke jeg, men kanskje en av de smarte ungene.",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tfrlw1",
+      "subreddit": "Jokes",
+      "title": "A guy's wife says, \"Don't bother denying it, you bastard. I just know you're having an affair with that Welsh tart from Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.\"",
+      "body": "And the guy says, \"How could you say such a thing?\"",
+      "score": 1180,
+      "flair": null,
+      "nsfw": false,
+      "author": "Jokeminder42",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tfrlw1/a_guys_wife_says_dont_bother_denying_it_you/",
+      "createdUtc": 1779029319,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Mannens kone sier: «Ikke prøv å nekte det, din usling. Jeg vet at du har et forhold til den walisiske tøsen fra Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.»",
+          "body": "Og mannen svarer: «Hvordan klarte du å si det?»",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tfngiv",
+      "subreddit": "Jokes",
+      "title": "Elvis Presley climbs out of the pool, fully clothed and completely soaked, for the fifth time that day.",
+      "body": "Priscilla says, \"Elvis, what's going on?\"\n\nElvis replies, \"I can't help falling in, love.\"",
+      "score": 755,
+      "flair": null,
+      "nsfw": false,
+      "author": "essentialatom",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tfngiv/elvis_presley_climbs_out_of_the_pool_fully/",
+      "createdUtc": 1779018968,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Elvis Presley klatrer opp av bassenget, fullt påkledd og gjennomvåt, for femte gang samme dag.",
+          "body": "Priscilla sier: «Elvis, hva er det som foregår?»\n\nElvis svarer: «Jeg kan ikke la være å falle i, kjæreste.»",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tfkg3t",
+      "subreddit": "Jokes",
+      "title": "Adult joke - shaving",
+      "body": "Do you know why I shave my pussy and wait a day before I masturbate?\n\nHair today, goon tomorrow. ",
+      "score": 525,
+      "flair": null,
+      "nsfw": true,
+      "author": "Blight-Princess",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tfkg3t/adult_joke_shaving/",
+      "createdUtc": 1779009385,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Voksenspøk – barbering",
+          "body": "Vet du hvorfor jeg barberer fitta mi og venter en dag før jeg runker?\n\nHår i dag, runk i morgen.",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tg8cho",
+      "subreddit": "Jokes",
+      "title": "A Chinese immigrant couple just got married.",
+      "body": "On thier wedding night, the groom decided to ask his bride what she wanted to do first. \n\nShe thought about it, then excitedly said \"69!  I wanna try 69!\".\n\nGroom:  \"you want chicken with broccoli?\"",
+      "score": 417,
+      "flair": null,
+      "nsfw": false,
+      "author": "Ixz72",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tg8cho/a_chinese_immigrant_couple_just_got_married/",
+      "createdUtc": 1779068607,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Et kinesisk innvandrerpar giftet seg nettopp.",
+          "body": "På bryllupsnatten bestemte brudgommen seg for å spørre bruden hva hun hadde lyst til å gjøre først.\n\nHun tenkte seg om og sa ivrig: «69! Jeg vil prøve 69!»\n\nBrudgommen: «Du vil ha kylling med brokkoli?»",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tfnlb3",
+      "subreddit": "Jokes",
+      "title": "A man sees a men’s store with a suit on sale…",
+      "body": "It should be expensive. Hart Shaffer and Marks, but it’s only $100!\n\nSo he goes in and asks if he can get one in a size 44. The salesperson says, “well we don’t actually have and in stock. The owner puts that in the window to get people like you to come in. Can I show you something else?” \n\nThe man goes on his way, and a block down, sees the same suit in a different store window. Price is $1800. But he gets an idea. \n\nHe enters the store and asks, “do you price match?”  \n\n“Yes, I own this store and I will not just match, but beat any competitor pricing.”\n\n“Well your competition has that same suit priced at $100!  So what would be your price for a size 44?”  \n\n“If I was out of stock, like my friend up the street, it would be $50.”",
+      "score": 338,
+      "flair": "Long",
+      "nsfw": false,
+      "author": "Special-Steel",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tfnlb3/a_man_sees_a_mens_store_with_a_suit_on_sale/",
+      "createdUtc": 1779019316,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "En mann ser en herreklærbutikk med en dress til salgs…",
+          "body": "Hart Shaffer & Marks – burde jo vært dyr, men bare 100 dollar!\n\nHan går inn og spør om han kan få en i størrelse 44. Selgeren sier: «Vi har faktisk ikke den på lager. Eieren setter den i vinduet for å lokke inn folk som deg. Kan jeg vise deg noe annet?»\n\nMannen går videre, og et kvartal nedover ser han den samme dressen i et annet butikkvindu. Prislapp: 1 800 dollar. Da får han en idé.\n\nHan går inn og spør: «Prismatching?»\n\n«Ja, jeg eier denne butikken, og jeg skal ikke bare matche, men slå enhver konkurrentpris.»\n\n«Vel, konkurrenten din har den samme dressen til 100 dollar. Hva vil du ta for en størrelse 44?»\n\n«Hadde jeg vært utsolgt – som kompisen min oppover gata – ville det blitt 50 dollar.»",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tg561r",
+      "subreddit": "Jokes",
+      "title": "My dad always said the way to a woman's heart was...",
+      "body": "Bring flowers, remember important dates, keep up your personal hygiene, be a snappy dresser, be liberal with the compliments, know what she really means when she says \"I'm fine,\" always notice her new haircut, and when she asks if she looks okay, you say, \"You look fantastic!\"    \n\nBut the way to a man's heart is, show up unexpectedly, naked under a trenchcoat, and bring beer.",
+      "score": 263,
+      "flair": null,
+      "nsfw": false,
+      "author": "Sauterneandbleu",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tg561r/my_dad_always_said_the_way_to_a_womans_heart_was/",
+      "createdUtc": 1779060034,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Faren min sa alltid at veien til en kvinnes hjerte var…",
+          "body": "Ta med blomster, husk viktige datoer, hold deg velstelt, vær velkledd, vær raus med komplimentene, forstå hva hun egentlig mener når hun sier «det er greit», legg alltid merke til den nye frisyren hennes, og når hun spør om hun ser bra ut, si: «Du ser fantastisk ut!»\n\nMen veien til en manns hjerte er: dukk opp uanmeldt, naken under en frakk, og med øl.",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tfy36t",
+      "subreddit": "Jokes",
+      "title": "At first, nobody was worried about the clown invasion taking place at the beach",
+      "body": "\"It's only one boat,\" they reasoned. \"How bad could it be?\"",
+      "score": 220,
+      "flair": null,
+      "nsfw": false,
+      "author": "lampboy2",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tfy36t/at_first_nobody_was_worried_about_the_clown/",
+      "createdUtc": 1779043620,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "I begynnelsen var ingen bekymret for klovneinvasjonen på stranden.",
+          "body": "«Det er bare én båt,» tenkte de. «Hvor ille kan det bli?»",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tfiyge",
+      "subreddit": "Jokes",
+      "title": "Its been 65 years, I'm solving this one, once and for all, put my name in the record books!",
+      "body": "No one put food in the box, and no one has opened the box...\n\nSchrödinger's cat is definitely dead!\n\nSolved. Easy!",
+      "score": 114,
+      "flair": null,
+      "nsfw": false,
+      "author": "JokeJedi",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tfiyge/its_been_65_years_im_solving_this_one_once_and/",
+      "createdUtc": 1779004297,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Det har gått 65 år – jeg løser dette nå, én gang for alle. Sett navnet mitt i rekordlistene!",
+          "body": "Ingen la mat i boksen, og ingen har åpnet boksen...\n\nSchrödinger's katt er definitivt død!\n\nLøst. Enkelt!",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tg6dv7",
+      "subreddit": "Jokes",
+      "title": "I found the first four books of the Harry Potter series to be quite lighthearted.",
+      "body": "But the fifth one—dead Sirius.",
+      "score": 101,
+      "flair": null,
+      "nsfw": false,
+      "author": "International_Bee653",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tg6dv7/i_found_the_first_four_books_of_the_harry_potter/",
+      "createdUtc": 1779063229,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg synes de fire første Harry Potter-bøkene er ganske lette og muntre.",
+          "body": "Men den femte – dødelig seriøs.",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tfyv10",
+      "subreddit": "Jokes",
+      "title": "I told my doctor, \"You have to help me! I'm shrinking!\"",
+      "body": "Doctor says to me, \"You'll have to be a little patient.\"",
+      "score": 102,
+      "flair": null,
+      "nsfw": false,
+      "author": "mralex",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tfyv10/i_told_my_doctor_you_have_to_help_me_im_shrinking/",
+      "createdUtc": 1779045307,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg sa til legen min: «Du må hjelpe meg! Jeg krymper!»",
+          "body": "Legen sier: «Da er du nok en liten pasient.» [merknad: på engelsk betyr «patient» både «pasient» og «tålmodig», slik at «be a little patient» betyr både «vær litt tålmodig» og «vær en liten pasient»]",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tfzb4w",
+      "subreddit": "Jokes",
+      "title": "Two retired New York businessmen run into each other in Florida.",
+      "body": "After the usual greetings, the second one asked the first guy \"What happened to your business?\" The first guy answers \"Competition started eating into my profits. There was a fire that destroyed the business so I decided to take the insurance money and retire. What about your business?\" The second guy says \"Similar to you but I had a flood destroy my business.\" The first man asks \"How do you arrange a flood?\"",
+      "score": 97,
+      "flair": null,
+      "nsfw": false,
+      "author": "GaryG7",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tfzb4w/two_retired_new_york_businessmen_run_into_each/",
+      "createdUtc": 1779046288,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "To pensjonerte New York-forretningsmenn møter hverandre i Florida.",
+          "body": "Etter de vanlige hilsenene spør den andre: «Hva skjedde med bedriften din?» Den første svarer: «Konkurransen begynte å spise seg inn i fortjenesten min. Så brant bedriften ned, og jeg bestemte meg for å ta forsikringspengene og pensjonere meg. Hva skjedde med din?» Den andre sier: «Omtrent det samme – men hos meg var det en flom som ødela den.» Den første spør: «Hvordan arrangerer du en flom?»",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tfpoxf",
+      "subreddit": "Jokes",
+      "title": "How do you cut a wave in half?",
+      "body": "With a sea saw",
+      "score": 73,
+      "flair": null,
+      "nsfw": false,
+      "author": "Fit-Bed-4030",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tfpoxf/how_do_you_cut_a_wave_in_half/",
+      "createdUtc": 1779024798,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z"
+    },
+    {
+      "id": "1tg8la4",
+      "subreddit": "Jokes",
+      "title": "What do you call a woman who sets fire to all her bills?",
+      "body": "Bernadette! ",
+      "score": 47,
+      "flair": null,
+      "nsfw": false,
+      "author": "McKnightmare24",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tg8la4/what_do_you_call_a_woman_who_sets_fire_to_all_her/",
+      "createdUtc": 1779069277,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du en kvinne som brenner alle regningene sine?",
+          "body": "Bernadette! [merknad: «Bernadette» høres ut som «burn a debt» på engelsk – «brenn en gjeld»]",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tgd1af",
+      "subreddit": "Jokes",
+      "title": "Did you know that a lion would never drink and drive.",
+      "body": "But a Tiger Wood.",
+      "score": 39,
+      "flair": null,
+      "nsfw": false,
+      "author": "Long_Guidance827",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tgd1af/did_you_know_that_a_lion_would_never_drink_and/",
+      "createdUtc": 1779082079,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Visste du at en løve aldri ville drikke og kjøre?",
+          "body": "Men Tiger Wood. [merknad: på engelsk høres «Tiger Wood» (Tiger Woods uten slutt-s) ut som «Tiger would» – «Tiger ville»]",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tfv7zc",
+      "subreddit": "Jokes",
+      "title": "I tried a new trend where you spread Nutella on salmon.",
+      "body": "I ended up getting salmonella.",
+      "score": 35,
+      "flair": null,
+      "nsfw": false,
+      "author": "EmergencyNo7427",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tfv7zc/i_tried_a_new_trend_where_you_spread_nutella_on/",
+      "createdUtc": 1779037362,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg prøvde en ny trend der man smører Nutella på laks.",
+          "body": "Det endte med at jeg fikk salmonella.",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tfs4zw",
+      "subreddit": "Jokes",
+      "title": "I asked my cousin what his favorite grade in school was.",
+      "body": "“3rd.”  \n\n“Why?” \n\n “Best two years of my life.”",
+      "score": 30,
+      "flair": null,
+      "nsfw": false,
+      "author": "jeihkeih",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tfs4zw/i_asked_my_cousin_what_his_favorite_grade_in/",
+      "createdUtc": 1779030504,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg spurte fetteren min om hvilken klasse som var favorittklassen hans på skolen.",
+          "body": "«3. klasse.»\n\n«Hvorfor?»\n\n«Beste to årene i livet mitt.»",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tfp8m6",
+      "subreddit": "Jokes",
+      "title": "I wanted to start jogging for my health.",
+      "body": "But Proverbs 28:1 says that the wicked run when no one is chasing them.\n\nWell....... that settles that.  ",
+      "score": 29,
+      "flair": null,
+      "nsfw": false,
+      "author": "StarsBear75063",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tfp8m6/i_wanted_to_start_jogging_for_my_health/",
+      "createdUtc": 1779023680,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg ville begynne å jogge for helsa.",
+          "body": "Men Ordspråkene 28:1 sier at de ugudelige løper selv om ingen forfølger dem.\n\nVeldig greit... da ble det ikke noe jogging.",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tfuf4x",
+      "subreddit": "cleanjokes",
+      "title": "I ordered a deck of cards from Amazon two weeks ago and it still hasn’t arrived..",
+      "body": "Customer service told me they're dealing with it. ",
+      "score": 169,
+      "flair": null,
+      "nsfw": false,
+      "author": "AnimatorNr1",
+      "permalink": "https://www.reddit.com/r/cleanjokes/comments/1tfuf4x/i_ordered_a_deck_of_cards_from_amazon_two_weeks/",
+      "createdUtc": 1779035573,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg bestilte en kortstokk fra Amazon for to uker siden, og den har fortsatt ikke kommet.",
+          "body": "Kundeservice sa de jobber med saken. [merknad: på engelsk er «dealing with it» både «å håndtere saken» og «å dele ut kort» – noe som passer fint med en kortstokk]",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tg2fpv",
+      "subreddit": "cleanjokes",
+      "title": "What did the dentist say to the golfer?",
+      "body": "You've got a hole in one! ",
+      "score": 39,
+      "flair": null,
+      "nsfw": false,
+      "author": "star_blazar",
+      "permalink": "https://www.reddit.com/r/cleanjokes/comments/1tg2fpv/what_did_the_dentist_say_to_the_golfer/",
+      "createdUtc": 1779053350,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Hva sa tannlegen til golfspilleren?",
+          "body": "Du har hull i én!",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tg5c5v",
+      "subreddit": "dadjokes",
+      "title": "The day I turned 42, my daughter walked up to me and said, \"Happy...,\" and started timing on her watch.",
+      "body": "After a long silence she said, \"...40-second birthday.\" I was so proud.",
+      "score": 1037,
+      "flair": null,
+      "nsfw": false,
+      "author": "yasocim",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tg5c5v/the_day_i_turned_42_my_daughter_walked_up_to_me/",
+      "createdUtc": 1779060482,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Den dagen jeg fylte 42, kom datteren min bort og sa: «Gratulerer med...» og begynte å ta tid på klokka.",
+          "body": "Etter lang stillhet sa hun: «...førti-andre-dagen.» Jeg var så stolt.",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tg30cl",
+      "subreddit": "dadjokes",
+      "title": "What kind of underwear does Donald Trump wear, boxers or briefs?",
+      "body": "Mmmmm. Depends",
+      "score": 430,
+      "flair": null,
+      "nsfw": false,
+      "author": "theajplayer123",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tg30cl/what_kind_of_underwear_does_donald_trump_wear/",
+      "createdUtc": 1779054673,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Hva slags undertøy bruker Donald Trump – boxershorts eller truser?",
+          "body": "Mmmm. Depends. [merknad: «Depends» er et bleiemerke for voksne, og på engelsk høres svaret ut som «det kommer an på»]",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tfs5u0",
+      "subreddit": "dadjokes",
+      "title": "I used to think orthopedic shoes were overrated.",
+      "body": "I stand corrected.",
+      "score": 366,
+      "flair": null,
+      "nsfw": false,
+      "author": "devnodegree",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tfs5u0/i_used_to_think_orthopedic_shoes_were_overrated/",
+      "createdUtc": 1779030558,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg pleide å tro at ortopediske sko var overvurdert.",
+          "body": "Jeg ble rettet opp.",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tftpkf",
+      "subreddit": "dadjokes",
+      "title": "Why did the blind man fall into the well?",
+      "body": "Because he couldn't see that well. ",
+      "score": 173,
+      "flair": null,
+      "nsfw": false,
+      "author": "Pretty-Counter-5553",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tftpkf/why_did_the_blind_man_fall_into_the_well/",
+      "createdUtc": 1779033972,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Hvorfor falt den blinde mannen i brønnen?",
+          "body": "Fordi han ikke kunne se særlig godt. [merknad: på engelsk er «well» både substantivet «brønn» og adverbet «godt/bra», noe som gir et dobbelt ordspill]",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tfwbzx",
+      "subreddit": "dadjokes",
+      "title": "Dad: “I used to hate facial hair…” Mom: “Please don’t.”",
+      "body": "Dad: “…but then it grew on me.”  \n\nMom: “Unlike your retirement account.”",
+      "score": 148,
+      "flair": null,
+      "nsfw": false,
+      "author": "jeihkeih",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tfwbzx/dad_i_used_to_hate_facial_hair_mom_please_dont/",
+      "createdUtc": 1779039798,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Far: «Jeg pleide å hate skjegg…» Mor: «Ikke si det.»",
+          "body": "Far: «…men så vokste det på meg.»\n\nMor: «I motsetning til pensjonskontoen din.»",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tg42hj",
+      "subreddit": "dadjokes",
+      "title": "People who don't proofread your posts, what are you thanking?",
+      "body": "Seriously, have a quick read before you past it! ",
+      "score": 125,
+      "flair": null,
+      "nsfw": false,
+      "author": "LemmeSleepPlease",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tg42hj/people_who_dont_proofread_your_posts_what_are_you/",
+      "createdUtc": 1779057245,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Folk som ikke korrekturleser innleggene sine, hva takker dere på?",
+          "body": "Seriøst, les raskt igjennom det før du paster det!",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tfxi1e",
+      "subreddit": "dadjokes",
+      "title": "I told my doctor that I think I'm losing my hearing.The doctor asked what are the symptoms?",
+      "body": "I said they are a cartoon family  with Homer and Marge.",
+      "score": 125,
+      "flair": null,
+      "nsfw": false,
+      "author": "berkleysquare",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tfxi1e/i_told_my_doctor_that_i_think_im_losing_my/",
+      "createdUtc": 1779042350,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg fortalte legen at jeg tror jeg mister hørselen. Legen spurte: hva er symptomene?",
+          "body": "Jeg sa at de er en tegneseriefamilie med Homer og Marge.",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tfiew4",
+      "subreddit": "dadjokes",
+      "title": "\"Dad? Can you explain me, what a solar eclipse is?\"",
+      "body": "\"No sun.\"",
+      "score": 121,
+      "flair": null,
+      "nsfw": false,
+      "author": "GiborDesign",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tfiew4/dad_can_you_explain_me_what_a_solar_eclipse_is/",
+      "createdUtc": 1779002442,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z"
+    },
+    {
+      "id": "1tfpknv",
+      "subreddit": "dadjokes",
+      "title": "One of the seven dwarves broke in last night and stole all my anti-depressants.",
+      "body": "I hope he’s Happy. ",
+      "score": 63,
+      "flair": null,
+      "nsfw": false,
+      "author": "yasocim",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tfpknv/one_of_the_seven_dwarves_broke_in_last_night_and/",
+      "createdUtc": 1779024505,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "En av de sju dvergene brøt seg inn i natt og stjal alle antidepressivene mine.",
+          "body": "Jeg håper han er Lystig.",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tg6kt1",
+      "subreddit": "dadjokes",
+      "title": "Sarah left a can of Pepsi on a fence railing at a rest stop about 60 miles south of Tampa.",
+      "body": "That's where Sarah's soda is.",
+      "score": 56,
+      "flair": null,
+      "nsfw": false,
+      "author": "Vaquero-SASS",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tg6kt1/sarah_left_a_can_of_pepsi_on_a_fence_railing_at_a/",
+      "createdUtc": 1779063736,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z"
+    },
+    {
+      "id": "1tgbwrn",
+      "subreddit": "dadjokes",
+      "title": "Mike Tyson became religious recently....",
+      "body": "He now punches them in the faith.",
+      "score": 40,
+      "flair": null,
+      "nsfw": false,
+      "author": "Civil_Detective186",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tgbwrn/mike_tyson_became_religious_recently/",
+      "createdUtc": 1779078660,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Mike Tyson ble nylig religiøs…",
+          "body": "Han slår nå folk i troen. [merknad: på engelsk lyder «faith» (tro) nesten som «face» (ansikt) – «punches them in the faith/face»]",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tg67db",
+      "subreddit": "dadjokes",
+      "title": "What does a magician say to make dead bodies disappear?",
+      "body": "Abra cadaver!",
+      "score": 29,
+      "flair": null,
+      "nsfw": false,
+      "author": "HackedCylon",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tg67db/what_does_a_magician_say_to_make_dead_bodies/",
+      "createdUtc": 1779062743,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Hva sier en tryllekunstner for å få lik til å forsvinne?",
+          "body": "Abra kadaver!",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tg4t69",
+      "subreddit": "dadjokes",
+      "title": "My friend Jack said he can communicate with vegetables...",
+      "body": "Jack and the beans talk. ",
+      "score": 26,
+      "flair": null,
+      "nsfw": false,
+      "author": "Euphoric-Fly-2549",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tg4t69/my_friend_jack_said_he_can_communicate_with/",
+      "createdUtc": 1779059111,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Vennen min Jack sa han kan kommunisere med grønnsaker…",
+          "body": "Jack og bønnene snakker. [merknad: på engelsk lyder «beanstalk» (bønnestilk) nesten som «beans talk» (bønnene snakker), og spiller på eventyret «Jack og bønnestilken»]",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tgdm79",
+      "subreddit": "dadjokes",
+      "title": "Military affairs",
+      "body": "I was having an affair with my superior officer, she was beautiful. But it was too weird, too strained by the fact that I was a private and she a Sergeant. So I pulled her aside one day and said, 'listen Tina, I have to break it off, it's getting too difficult to keep going'. But she was mad at me and she started crying. I tried to console her, I said 'Don't cry for me Sergeant Tina!\"",
+      "score": 25,
+      "flair": null,
+      "nsfw": false,
+      "author": "Healthy_Ladder_6198",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tgdm79/military_affairs/",
+      "createdUtc": 1779083929,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Militæraffære",
+          "body": "Jeg hadde en affære med min overordnede offiser – hun var vakker. Men det ble for rart, for anspent, preget av det faktum at jeg var menig og hun sersjant. Så jeg tok henne til side en dag og sa: 'Hør her, Tina, jeg er nødt til å avslutte dette. Det er blitt for vanskelig.' Men hun ble rasende og begynte å gråte. Jeg prøvde å trøste henne og sa: 'Gråt ikke for meg, Sersjant Tina!'",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tfkjn8",
+      "subreddit": "3amjokes",
+      "title": "Two Irishmen",
+      "body": "So there's two Irishmen lost at sea they've been out there for quite a few days so they are dehydrated and parched from the Sun. They're just watching the waves trying to if they can spot land and one of them looks down and a bottle floats by\n\n so without even thinking he grabs the bottle and wipes the label to see what it is and all of a sudden a genie pops out of the bottle and says \"you've released me from my prison so I'm going to Grant you just one wish no more no less!\" \n\n so the Irishman without thinking it through he shouts\" turn the entire ocean into a big vat of Guinness\" so the genie says your wish is my command and turns the entire ocean into Guinness. \n\nThe second Irishman screams at the top of his lungs NO YOU IDIOT!!!! now we have to piss in the boat!",
+      "score": 259,
+      "flair": null,
+      "nsfw": false,
+      "author": "punkr0ckpapa",
+      "permalink": "https://www.reddit.com/r/3amjokes/comments/1tfkjn8/two_irishmen/",
+      "createdUtc": 1779009716,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "To irlendere",
+          "body": "To irlendere er strandet på åpent hav. De har drevet rundt i flere dager og er utørste og avkreftet av solen. De stirrer ut over bølgene og håper å få øye på land, da ser den ene plutselig noe flyte forbi.\n\nUten å tenke seg om griper han tak i flasken, tørker av etiketten – og plutselig popper det ut en ånd som roper: 'Du har frigjort meg fra mitt fengsel! Jeg gir deg én ønskning, ikke mer og ikke mindre!'\n\nIrlendingen nøler ikke et sekund: 'Gjør hele havet om til Guinness!' Ånden sier: 'Ditt ønske er min befaling!' – og hele havet bobler over av mørkt øl.\n\nDen andre irlendingen skriker så det lyner: NEI, DU TOSK!!!! Nå er vi nødt til å tisse i båten!",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tfkmui",
+      "subreddit": "3amjokes",
+      "title": "A woman comes screaming off the golf course and runs into the pro shop..",
+      "body": "\nThe pro says, 'calm TF down and tell me what happened? '\n\nShe breathlessly says 'I was just stung by a bee, what shall I do?' \n\nThe pro asks, 'and where exactly did this happen?' \n\nThe woman replies, 'between the first and second hole! '\n\nThe pro ponders a few seconds and says, 'OK, well in future, I'd consider narrowing your stance a little'. ",
+      "score": 117,
+      "flair": null,
+      "nsfw": false,
+      "author": "SaigonDisko",
+      "permalink": "https://www.reddit.com/r/3amjokes/comments/1tfkmui/a_woman_comes_screaming_off_the_golf_course_and/",
+      "createdUtc": 1779010029,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "En dame kom stormende av golfbanen og inn i proshopen…",
+          "body": "Profen sier: 'Ro deg ned og fortell hva som skjedde.'\n\nHun sier andpusten: 'Jeg ble nettopp stukket av en bie – hva gjør jeg?'\n\nProfen spør: 'Og akkurat hvor ble du stukket?'\n\nDamen svarer: 'Mellom det første og andre hullet!'\n\nProfen tenker seg om noen sekunder og sier: 'OK, fremover vil jeg anbefale at du innsnevrer stansen litt.'",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tg9l7u",
+      "subreddit": "3amjokes",
+      "title": "If you accidentally drop ice cubes on the floor...",
+      "body": "Just kick them under the refrigerator.  \nSoon it’ll be just water under the fridge.",
+      "score": 63,
+      "flair": null,
+      "nsfw": false,
+      "author": "StrawberryInTheBay",
+      "permalink": "https://www.reddit.com/r/3amjokes/comments/1tg9l7u/if_you_accidentally_drop_ice_cubes_on_the_floor/",
+      "createdUtc": 1779072015,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Hvis du ved et uhell mister isbiter på gulvet…",
+          "body": "Bare spark dem under kjøleskapet.\nSnart er det bare vann under kjøleskapet.",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tfx1qj",
+      "subreddit": "3amjokes",
+      "title": "Dad joke: Why didn’t the lifeguard save the hippie?",
+      "body": "Because he was too far out.",
+      "score": 51,
+      "flair": null,
+      "nsfw": false,
+      "author": "Ok_Sink_7401",
+      "permalink": "https://www.reddit.com/r/3amjokes/comments/1tfx1qj/dad_joke_why_didnt_the_lifeguard_save_the_hippie/",
+      "createdUtc": 1779041360,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Pappavits: Hvorfor reddet ikke livredderen hippien?",
+          "body": "Han var altfor langt ute.",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tg974x",
+      "subreddit": "3amjokes",
+      "title": "I stopped at a bar and asked the bartender for a double.",
+      "body": "He brought out a guy that looks just like me.",
+      "score": 25,
+      "flair": null,
+      "nsfw": false,
+      "author": "Impossible-Orange607",
+      "permalink": "https://www.reddit.com/r/3amjokes/comments/1tg974x/i_stopped_at_a_bar_and_asked_the_bartender_for_a/",
+      "createdUtc": 1779070943,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg stoppet innom en bar og ba bartenderen om en dobbel.",
+          "body": "Han kom tilbake med en fyr som lignet akkurat på meg.",
+          "at": "2026-05-18T07:00:21.180Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tfu8si",
+      "subreddit": "Unclejokes",
+      "title": "iPhones are very popular in China..",
+      "body": "because the greatest gifts are the ones your children made. ",
+      "score": 41,
+      "flair": null,
+      "nsfw": false,
+      "author": "AnimatorNr1",
+      "permalink": "https://www.reddit.com/r/Unclejokes/comments/1tfu8si/iphones_are_very_popular_in_china/",
+      "createdUtc": 1779035173,
+      "firstSeen": "2026-05-18T07:00:02.946Z",
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "iPhones er veldig populære i Kina..",
+          "body": "fordi de beste gavene er de barna dine har laget.",
+          "at": "2026-05-18T07:00:21.180Z",
           "model": "sonnet"
         }
       }
