@@ -1,6 +1,6 @@
 {
-  "lastFetched": "2026-05-19T07:00:03.470Z",
-  "count": 336,
+  "lastFetched": "2026-05-20T07:00:03.337Z",
+  "count": 380,
   "jokes": [
     {
       "id": "1tc80lh",
@@ -234,7 +234,15 @@
       "permalink": "https://www.reddit.com/r/Jokes/comments/1tcevef/what_kind_of_monkey_only_stands_3_inches_tall/",
       "createdUtc": 1778710711,
       "firstSeen": "2026-05-14T12:03:20.611Z",
-      "lastSeen": "2026-05-14T12:10:34.446Z"
+      "lastSeen": "2026-05-14T12:10:34.446Z",
+      "localized": {
+        "nb": {
+          "title": "Hva slags ape er bare sju centimeter høy?",
+          "body": "Makak. [merknad: «macaque» høres ut som «my cock» (pikken min) på engelsk]",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tc7ewt",
@@ -468,7 +476,15 @@
       "permalink": "https://www.reddit.com/r/Jokes/comments/1tc8p0e/what_do_you_call_a_jedis_siblings/",
       "createdUtc": 1778697567,
       "firstSeen": "2026-05-14T12:03:20.611Z",
-      "lastSeen": "2026-05-14T12:10:34.446Z"
+      "lastSeen": "2026-05-14T12:10:34.446Z",
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du søsknene til en Jedi?",
+          "body": "«Force Kin». [merknad: uttales som «foreskin» (forhud) på engelsk]",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tc26gm",
@@ -2988,7 +3004,15 @@
       "permalink": "https://www.reddit.com/r/Unclejokes/comments/1nw8zwr/i_just_had_a_mole_removed_from_my_penis/",
       "createdUtc": 1759423527,
       "firstSeen": "2026-05-15T19:04:28.066Z",
-      "lastSeen": "2026-05-15T19:04:28.066Z"
+      "lastSeen": "2026-05-15T19:04:28.066Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg fikk nettopp fjernet en føflekk fra penis",
+          "body": "Dyreinternatet sa at hvis det skjer igjen, ringer de politiet.",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1qigfox",
@@ -3990,7 +4014,15 @@
       "permalink": "https://www.reddit.com/r/dadjokes/comments/1tdspf6/what_do_you_call_a_guy_that_can_duck_from_a_punch/",
       "createdUtc": 1778842290,
       "firstSeen": "2026-05-16T07:00:02.786Z",
-      "lastSeen": "2026-05-16T07:00:02.786Z"
+      "lastSeen": "2026-05-16T07:00:02.786Z",
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du en fyr som alltid unngår knytneverslag?",
+          "body": "Bob. [merknad: «to bob» betyr å dukke unna på engelsk, og er også et navn]",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1te979g",
@@ -5558,7 +5590,15 @@
       "permalink": "https://www.reddit.com/r/Jokes/comments/1tfpoxf/how_do_you_cut_a_wave_in_half/",
       "createdUtc": 1779024798,
       "firstSeen": "2026-05-18T07:00:02.946Z",
-      "lastSeen": "2026-05-18T07:00:02.946Z"
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Hvordan kutter du en bølge i to?",
+          "body": "Med en sjøsag. [merknad: «sea saw» høres ut som «seesaw» (vipphuske) på engelsk]",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tg8la4",
@@ -5916,7 +5956,15 @@
       "permalink": "https://www.reddit.com/r/dadjokes/comments/1tg6kt1/sarah_left_a_can_of_pepsi_on_a_fence_railing_at_a/",
       "createdUtc": 1779063736,
       "firstSeen": "2026-05-18T07:00:02.946Z",
-      "lastSeen": "2026-05-18T07:00:02.946Z"
+      "lastSeen": "2026-05-18T07:00:02.946Z",
+      "localized": {
+        "nb": {
+          "title": "Sarah la igjen en Pepsi-boks på et rekkverk ved en rasteplass ca. 100 km sør for Tampa.",
+          "body": "Det er der Saras soda er.",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tgbwrn",
@@ -6436,7 +6484,15 @@
       "permalink": "https://www.reddit.com/r/Jokes/comments/1th4n0h/are_those_chopsticks_in_your_pocket/",
       "createdUtc": 1779145596,
       "firstSeen": "2026-05-19T07:00:03.470Z",
-      "lastSeen": "2026-05-19T07:00:03.470Z"
+      "lastSeen": "2026-05-19T07:00:03.470Z",
+      "localized": {
+        "nb": {
+          "title": "Er det spisepinner i lomma di?",
+          "body": "Eller er du bare glad sashimi? [merknad: «sashimi» høres ut som «to see me» (se meg) på engelsk – referanse til Mae West-vitsen]",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1th093l",
@@ -6706,7 +6762,15 @@
       "permalink": "https://www.reddit.com/r/dadjokes/comments/1tgqybo/someone_handed_me_a_pamphlet_with_crocodiles/",
       "createdUtc": 1779119987,
       "firstSeen": "2026-05-19T07:00:03.470Z",
-      "lastSeen": "2026-05-19T07:00:03.470Z"
+      "lastSeen": "2026-05-19T07:00:03.470Z",
+      "localized": {
+        "nb": {
+          "title": "Noen rakte meg en brosjyre der krokodiller var rangert fra best til verst.",
+          "body": "Jeg sa: «Nok med krokodilletårene dine!» [merknad: ordspillet spiller på «tiers» (rangeringer) som lyder som «tears» (tårer) på engelsk – derav krokodilletårer]",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tgkqv3",
@@ -6924,7 +6988,15 @@
       "permalink": "https://www.reddit.com/r/dadjokes/comments/1tgo8nz/an_inventor_friend_of_mine_created_a/",
       "createdUtc": 1779114305,
       "firstSeen": "2026-05-19T07:00:03.470Z",
-      "lastSeen": "2026-05-19T07:00:03.470Z"
+      "lastSeen": "2026-05-19T07:00:03.470Z",
+      "localized": {
+        "nb": {
+          "title": "En oppfinner-venn av meg lagde en tanke-styrt luftfrisker.",
+          "body": "En oppfinner-venn av meg lagde en tanke-styrt luftfrisker. Det hørtes ut som en absurd idé, men han sier det gir god mening når du tenker på det. [merknad: ordspillet spiller på «makes scents» (lager dufter) som lyder som «makes sense» (gir mening)]",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tgxjmj",
@@ -7206,6 +7278,902 @@
           "title": "Parallelle linjer har så mye til felles.",
           "body": "Synd at de aldri vil møtes.",
           "at": "2026-05-19T07:00:28.376Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thqo83",
+      "subreddit": "Jokes",
+      "title": "At the end of a job interview, the head of human resources asks the young engineer fresh out of MIT, \"What starting salary were you looking for?\"",
+      "body": "The engineer decides to shoot for the moon. \"I'm thinking in the range of $125,000 a year or so, depending on the benefits package.\" \n\n\"Hmm,\" says the interviewer. \"Well, what would you say to five weeks' vacation, 14 paid holidays, full medical and dental, a retirement fund with company matching to 50 percent of salary, and a company car leased every two years -- say, a Porsche?\" \n\nThe engineer gaspes and says, \"Wow! Are you kidding?\"\n\n\"Yeah,\" replies the interviewer, \"but you started it.\"",
+      "score": 2715,
+      "flair": null,
+      "nsfw": false,
+      "author": "Jokeminder42",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1thqo83/at_the_end_of_a_job_interview_the_head_of_human/",
+      "createdUtc": 1779205110,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "På slutten av et jobbintervju spør HR-sjefen den unge MIT-ingeniøren: «Hvilken startlønn ser du for deg?»",
+          "body": "Ingeniøren bestemmer seg for å sikte høyt. «Jeg tenker meg noe rundt 125 000 dollar i året, avhengig av godepakken.»\n\n«Hmm,» sier intervjueren. «Hva ville du si til fem ukers ferie, 14 betalte helligdager, full helse- og tannlegeforsikring, pensjonsfond med 50 prosent firmamatch, og firmabil byttet hvert annet år – la oss si en Porsche?»\n\nIngeniøren gisper: «Wow! Spøker du?»\n\n«Ja,» svarer intervjueren. «Men det var du som begynte.»",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thzijr",
+      "subreddit": "Jokes",
+      "title": "A man is going 85 miles per hour on a motorway when he sees a police car in his mirror",
+      "body": "He thinks for a moment as the officer is getting closer and then floors it, 95… 110… 140… Finally, with the officer still hot on his tail he slows down and pulls over to the roadside.\n\nThe officer, obviously on edge, cautiously approaches the car as the man rolls down the window and places hands out where they can easily be seen.\n\n\"You were going a little fast there\" the officer says \"but it is the end of my shift and tonight the boys are coming over, so you have exactly one chance to explain yourself.\"\n\nThe man, with all the sincerity he could muster, replied \"Sir, round about a year ago my wife left me for a police officer. I tell ya, that nag leaving was the best thing that ever happened to me and I knew it was too good to be true because when I saw your lights in the mirror, I thought you were bringing her back!\"",
+      "score": 1012,
+      "flair": "Long",
+      "nsfw": false,
+      "author": "Reecethehawk",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1thzijr/a_man_is_going_85_miles_per_hour_on_a_motorway/",
+      "createdUtc": 1779222953,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "En mann kjører 135 km/t på motorveien da han ser en politibil i speilet",
+          "body": "Han tenker seg om mens betjenten nærmer seg, og trykker så gasspedalen i bånn: 150 … 175 … 225 … Til slutt, med politibilen fremdeles tett i hælene, bremser han ned og trekker inn til siden.\n\nBetjenten nærmer seg forsiktig bilen. Mannen ruller ned vinduet og holder hendene godt synlig.\n\n«Du kjørte litt fort der,» sier betjenten, «men det er slutten av vakten min og jeg har kamerater på besøk i kveld, så du får én sjanse til å forklare deg.»\n\nMannen svarte så oppriktig han kunne: «Herr betjent, for omtrent ett år siden forlot kona mi meg for en politimann. Den masekjerringa forsvant – det var det beste som noensinne hadde skjedd meg. Men det var for godt til å vare, for da jeg så lysene deres i speilet, trodde jeg dere kom for å levere henne tilbake!»",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1ti6yv6",
+      "subreddit": "Jokes",
+      "title": "A man is talking to his therapist. “Doc, I feel like I’m wasting my life. All I do is sit around reading fantasy books. Must be my 50th time going through Tolkien. I feel so directionless.”",
+      "body": "The therapist tells him, “I would suggest finding a *real* hobby. One that gets you out of the house. Try it this week and come back.”\n\nThe man shrugs. “Well, I guess it’s worth a shot.”\n\nThe man goes back the following week and is on cloud nine. “Doc! I took your advice and I’ve had the best week ever. I must have been to a dozen different pubs, I went foraging for mushrooms, and I’ve been on all sorts of adventures.”\n\n“That’s great to hear. What did you do different?”\n\n“Instead of telling you, why don’t I show you?”\n\nThe man opens the door and pulls in a little person with shaggy hair, bare feet, and smoking a long wooden pipe.\n\nThe therapist is confused. “What does this person have to do with your new hobby?”\n\nThere’s a long pause before the man replies, “Ohhh. Did you say get a ho*bby?* ",
+      "score": 991,
+      "flair": "Long",
+      "nsfw": false,
+      "author": "TomahawkA5",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1ti6yv6/a_man_is_talking_to_his_therapist_doc_i_feel_like/",
+      "createdUtc": 1779240705,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "En mann snakker med terapeuten sin. «Doktor, jeg føler at jeg kaster bort livet. Alt jeg gjør er å sitte og lese fantasybøker. Vel femtiende gang jeg går gjennom Tolkien. Jeg er totalt retningsløs.»",
+          "body": "Terapeuten sier: «Jeg vil foreslå at du finner deg en *ordentlig* hobby. En som får deg ut av huset. Prøv det denne uken og kom tilbake.»\n\nMannen trekker på skuldrene. «Vel, det er verdt et forsøk.»\n\nUken etter er mannen tilbake og strålende fornøyd. «Doktor! Jeg fulgte rådet ditt og har hatt den beste uken noensinne. Jeg har vært på massevis av puber, gått på sopptur i skogen og hatt alle slags eventyr.»\n\n«Det er godt å høre. Hva gjorde du annerledes?»\n\n«I stedet for å fortelle deg, la meg vise deg.»\n\nMannen åpner døren og drar inn en liten person med bustete hår, bare føtter og en lang trepipe.\n\nTerapeuten er forvirret. «Hva har denne personen med den nye hobbyen din å gjøre?»\n\nDet blir en lang stillhet før mannen svarer: «Åh. Sa du ho*bby*?»",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thtobg",
+      "subreddit": "Jokes",
+      "title": "A man has had enough and decides to become a Trappist monk",
+      "body": "The regular 9-5 rat race had taken its toll on him so he thinks long and hard about it and decides to join the monastery and take a vow of silence.\n\nThey take him to the Head monk who explains that he won't be able to speak at all and asks if he's totally sure that he wants to do this.  The man says he is ready.  So he is shown to his room and begins his new, albeit silent life.\n\n10 years go by and he again meets the Head monk who says \"brother you have been here for 10 years now so you are permitted to say 2 words, if you so wish\".  The man thinks and says \"bed hard\".  The head monk says \"ok we will fix that for you brother\".  Another 10 years go by and again he is summoned to see the head monk who again says he has earned 2 more words to say if he so wishes.  The man thinks and says \"food bad\".  \"No problem brother we will fix that for you\" says the head monk.  Another 10 years go by and he goes to see the head monk who again offers him 2 words to say.  The man looks at the head monk in the eyes and says \"I'm leaving\".  \"Good\" says the head monk.  \"You've done nothing but moan since you've been here\".",
+      "score": 515,
+      "flair": "Long",
+      "nsfw": false,
+      "author": "Wallygonk",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1thtobg/a_man_has_had_enough_and_decides_to_become_a/",
+      "createdUtc": 1779211233,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "En mann er lei nok og bestemmer seg for å bli trappistmunk",
+          "body": "9-til-5-tilværelsen hadde tatt sin toll. Han tenker lenge og grundig og bestemmer seg til slutt for å melde seg inn i klosteret og avlegge et taushetsløfte.\n\nHan tas med til erkemunken, som forklarer at han ikke vil få lov til å si et ord, og spør om han er helt sikker. Mannen sier han er klar. Han vises til rommet sitt og begynner sitt nye, stille liv.\n\nDet går ti år. Han møter erkemunken igjen, som sier: «Bror, du har vært her i ti år, så du har lov til å si to ord – om du ønsker.» Mannen tenker og sier: «Seng hard.» Erkemunken sier: «Vi ordner det, bror.» Ti år til går, og han blir kalt inn igjen. Erkemunken tilbyr ham to nye ord. Mannen sier: «Mat dårlig.» «Intet problem, bror, det ordner vi.» Etter ytterligere ti år går han til erkemunken, som igjen gir ham to ord. Mannen ser erkemunken rett i øynene og sier: «Jeg drar.» «Bra,» sier erkemunken. «Du har ikke gjort annet enn å klage siden du kom hit.»",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thhkwm",
+      "subreddit": "Jokes",
+      "title": "Three men and a train",
+      "body": "A beautiful, statuesque young lady got into a metro train compartment where three men were seated.\n\nThey were staring at her.\n\nShe said if they gave one dollar each she would show her legs. Immediately three dollars fell onto her lap.\n\nShe lifted her dress to her knees. Indeed the legs were nice.\n\nThen she said \"Five dollars each, I would show my thighs\".\n\nCame fifteen dollars and she lifted her dress high up till her panties. Very beautiful, smooth and shapely thighs.\n\nThen the bomb came.\n\n\"Thirty dollars each, I will show you where my Gynaecologist checks me\".\n\nSalivating, three men gave thirty dollars each.  \n\nA station was nearing and the train slowed down. Pointing out of the window, she showed the hospital next to the station.\n\n\"This is where my Gynaecologist checks me,\" she said, and got off the train.\n\nLesson: Don’t get scammed — Invest wisely!",
+      "score": 415,
+      "flair": "Long",
+      "nsfw": false,
+      "author": "xerxes_dandy",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1thhkwm/three_men_and_a_train/",
+      "createdUtc": 1779182762,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Tre menn og et tog",
+          "body": "En vakker og slående ung dame gikk inn i en togkupe der tre menn satt.\n\nDe stirret på henne.\n\nHun sa at om de ga én dollar hver, ville hun vise dem beina sine. Øyeblikkelig falt tre dollar ned i fanget hennes.\n\nHun løftet kjolen til knærne. Virkelig fine bein.\n\nSå sa hun: «Fem dollar stykket, og jeg viser lårene.»\n\nFemten dollar dukket opp, og hun løftet kjolen høyt opp til trusa. Vakre, glatte og velformede lår.\n\nOg så kom bomben.\n\n«Tretti dollar stykket, og jeg viser dere der gynekologen min undersøker meg.»\n\nSaliverende ga alle tre tretti dollar hver.\n\nEn stasjon nærmet seg og toget bremset. Hun pekte ut av vinduet og viste dem sykehuset rett ved stasjonen.\n\n«Det er der gynekologen min undersøker meg,» sa hun – og gikk av toget.\n\nLærdom: Ikke bli lurt – invester klokt!",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1ti2asq",
+      "subreddit": "Jokes",
+      "title": "Overheard at a nursing home:",
+      "body": "Old woman: \"Anyone who can guess what's in my hand can have sex with me tonight!\"  \n\nOld man: \"An elephant!\"  \n\nOld woman: \"Close enough!\"  ",
+      "score": 349,
+      "flair": null,
+      "nsfw": true,
+      "author": "BioletVeauregarde33",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1ti2asq/overheard_at_a_nursing_home/",
+      "createdUtc": 1779229050,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Overhørt på sykehjemmet:",
+          "body": "Gammel dame: «Den som kan gjette hva jeg har i hånda, kan ligge med meg i natt!»\n\nGammel mann: «En elefant!»\n\nGammel dame: «Nærme nok!»",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thxak8",
+      "subreddit": "Jokes",
+      "title": "Have you heard about these new corduroy pillows?",
+      "body": "They're making headlines.",
+      "score": 236,
+      "flair": null,
+      "nsfw": false,
+      "author": "mralex",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1thxak8/have_you_heard_about_these_new_corduroy_pillows/",
+      "createdUtc": 1779218375,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Har du hørt om disse nye kordfløyel-putene?",
+          "body": "De skaper overskrifter. [merknad: ordspillet spiller på «headlines» – både nyhetsoverskrifter og strekene putens mønster setter i hodet ditt]",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thnnat",
+      "subreddit": "Jokes",
+      "title": "Can you imagine how much more popular Bing Crosby would have been...",
+      "body": "If he had been named Google Crosby?",
+      "score": 159,
+      "flair": null,
+      "nsfw": false,
+      "author": "catfishman",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1thnnat/can_you_imagine_how_much_more_popular_bing_crosby/",
+      "createdUtc": 1779198712,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Kan du tenke deg hvor mye mer populær Bing Crosby hadde vært...",
+          "body": "Om han het Google Crosby?",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thlgiz",
+      "subreddit": "Jokes",
+      "title": "I love Eminem. What about you?",
+      "body": "I prefer skittles actually. \n\nNo, I mean the rapper.\n\nWhy would I eat the wrapper?",
+      "score": 134,
+      "flair": null,
+      "nsfw": false,
+      "author": "DaFoxtrot86",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1thlgiz/i_love_eminem_what_about_you/",
+      "createdUtc": 1779193705,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z"
+    },
+    {
+      "id": "1ti1amq",
+      "subreddit": "Jokes",
+      "title": "Teaching your kids black jack is a great way for them to learn addition",
+      "body": "Until their 3rd grade teacher asks \"what's 8 + 8?\" and they answer \"I'm gonna split them\"",
+      "score": 130,
+      "flair": null,
+      "nsfw": false,
+      "author": "lampboy2",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1ti1amq/teaching_your_kids_black_jack_is_a_great_way_for/",
+      "createdUtc": 1779226781,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Å lære barna sine blackjack er en glimrende måte å øve addisjon på",
+          "body": "Helt til tredjeklasselæreren spør «Hva er 8 + 8?» og de svarer «Jeg splitter dem.»",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1ti92um",
+      "subreddit": "Jokes",
+      "title": "Oil Tycoons Son Gets Accepted to Harvard",
+      "body": "A foreign Oil Tycoons son gets accepted to Harvard, to prepare his son for life in a new country he shells out big money for a Tudor Style Mansion, and to get him to and from school he gets him a top of the line Rolls Royce.\n\nOn his first day of class he pulls up in his brand new Rolls Royce and immediately gets comments from his fellow students\n\n\"Amazing car, I took the bus to school, Im so jealous\"\n\n\"Nice car, sure beats getting dropped off by your mom like I did\"\n\nEven one of his professors notices him in his class and says \"Hey,  I saw you pull up in a Rolls Royce. Maybe one day that'll be me, but I took the train in this morning\"\n\nAt the end of the day the oil tycoon calls his son to ask about his first day at Harvard. His son responds \"Dad it was amazing, just like its shown on TV but I felt a little uneasy since I came in a Rolls Royce but so many of my fellow students came in a bus, and even one of my professors came by train.\"\n\nThe dad responds \"Ok, I've wired you $10 Million, please buy yourself a train to take to school to stop embarrassing this family\"",
+      "score": 122,
+      "flair": "Long",
+      "nsfw": false,
+      "author": "thebanger71",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1ti92um/oil_tycoons_son_gets_accepted_to_harvard/",
+      "createdUtc": 1779246184,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Oljetycoonens sønn kommer inn på Harvard",
+          "body": "En utenlandsk oljetycoons sønn kommer inn på Harvard. For å forberede sønnen på livet i et nytt land bruker faren store summer på en herskapsvilla i tudorstil, og for å frakte ham til og fra skolen skaffer han ham en topp-av-linjen Rolls Royce.\n\nPå sin første skoledag ruller han inn i splitter ny Rolls Royce og får straks kommentarer fra medstudentene:\n\n«Imponerende bil – jeg tok bussen til skolen, så misunnelig jeg er!»\n\n«Lekkert kjøretøy – slår i hvert fall det å bli kjørt av mammaen sin, slik jeg ble.»\n\nSelv en av professorene legger merke til ham i klassen: «Hei, jeg så deg kjøre inn i Rolls Roycen. En dag er det kanskje meg – men i dag tok jeg toget.»\n\nPå slutten av dagen ringer oljetycoonen sønnen for å høre om den første dagen. Sønnen svarer: «Pappa, det var fantastisk – akkurat som på TV. Men jeg kjente meg litt utilpass, for jeg kom i Rolls Royce mens så mange av medstudentene kom med buss, og til og med en av professorene kom med tog.»\n\nFaren svarer: «Ok. Jeg har overført 10 millioner dollar til deg – kjøp deg et tog å ta til skolen, så vi slipper å skamme oss over denne familien.»",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1ti2c25",
+      "subreddit": "Jokes",
+      "title": "Did you know kangaroo meat tastes like beer?",
+      "body": "It's cause of all the hops",
+      "score": 105,
+      "flair": null,
+      "nsfw": false,
+      "author": "helloitscrash",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1ti2c25/did_you_know_kangaroo_meat_tastes_like_beer/",
+      "createdUtc": 1779229129,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z"
+    },
+    {
+      "id": "1thqxfh",
+      "subreddit": "Jokes",
+      "title": "What's the difference between a woman in church and a woman in the bath?",
+      "body": "The first has hope in her soul.... ",
+      "score": 107,
+      "flair": null,
+      "nsfw": false,
+      "author": "OnlyForNaughtyStuff",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1thqxfh/whats_the_difference_between_a_woman_in_church/",
+      "createdUtc": 1779205645,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z"
+    },
+    {
+      "id": "1thsazg",
+      "subreddit": "Jokes",
+      "title": "A woman in a pharmacy:",
+      "body": "\"My husband is constantly complaining about chest pains, difficulties with breathing, cramps and nausea. Have you got any earplugs?\"",
+      "score": 91,
+      "flair": null,
+      "nsfw": false,
+      "author": "Omeganian",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1thsazg/a_woman_in_a_pharmacy/",
+      "createdUtc": 1779208457,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "En kvinne på apoteket:",
+          "body": "«Mannen min klager stadig over brystsmerter, pustevansker, kramper og kvalme. Har dere ørepropper?»",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thn4y8",
+      "subreddit": "Jokes",
+      "title": "I returned to the car detailer, and there was a bottle of wódka and a bowl of pierogi on the passenger seat",
+      "body": "'What's all this?' I asked the detailer\n\nHe replied 'You asked us to Polish your car'",
+      "score": 52,
+      "flair": null,
+      "nsfw": false,
+      "author": "LunarLeopard67",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1thn4y8/i_returned_to_the_car_detailer_and_there_was_a/",
+      "createdUtc": 1779197587,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg gikk tilbake til bilpleiestedet og fant en flaske wódka og en skål med pierogi på passasjersetet",
+          "body": "«Hva er dette?» spurte jeg.\n\nHan svarte: «Du ba oss gjøre bilen polsk.» [merknad: på engelsk er «Polish» (stor P) adjektivet «polsk», men «polish» (liten p) betyr å polere – vitsen hviler på at detaileren oppfattet «from Poland» i stedet for «to buff up»]",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thswgd",
+      "subreddit": "Jokes",
+      "title": "Wanna hear a Nirvana joke?",
+      "body": "Oh well, whatever, nevermind.",
+      "score": 47,
+      "flair": null,
+      "nsfw": false,
+      "author": "Unlikely_Ally",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1thswgd/wanna_hear_a_nirvana_joke/",
+      "createdUtc": 1779209678,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Vil du høre en Nirvana-vits?",
+          "body": "Å, uansett... Nevermind.",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thx7hc",
+      "subreddit": "cleanjokes",
+      "title": "What happens to a frog's car when it breaks down?",
+      "body": "It gets toad away.",
+      "score": 77,
+      "flair": null,
+      "nsfw": false,
+      "author": "Rothentoo",
+      "permalink": "https://www.reddit.com/r/cleanjokes/comments/1thx7hc/what_happens_to_a_frogs_car_when_it_breaks_down/",
+      "createdUtc": 1779218212,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z"
+    },
+    {
+      "id": "1thk7a7",
+      "subreddit": "cleanjokes",
+      "title": "What do you call a dog’s first meal of the day?",
+      "body": "Barkfest!",
+      "score": 50,
+      "flair": null,
+      "nsfw": false,
+      "author": "Left-Distribution-13",
+      "permalink": "https://www.reddit.com/r/cleanjokes/comments/1thk7a7/what_do_you_call_a_dogs_first_meal_of_the_day/",
+      "createdUtc": 1779190551,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du en hunds første måltid om dagen?",
+          "body": "Voffrokost!",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thpe67",
+      "subreddit": "cleanjokes",
+      "title": "The calendar joined a band",
+      "body": "It had great dates for the tour.",
+      "score": 33,
+      "flair": null,
+      "nsfw": false,
+      "author": "PlayfulDance9",
+      "permalink": "https://www.reddit.com/r/cleanjokes/comments/1thpe67/the_calendar_joined_a_band/",
+      "createdUtc": 1779202468,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Kalenderen ble med i et band",
+          "body": "Den hadde knallbra datoer for turneen.",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thzdpy",
+      "subreddit": "dadjokes",
+      "title": "My wife is divorcing me because she thinks I'm \"too un-American\".",
+      "body": "I saw this coming from a kilometer away.",
+      "score": 696,
+      "flair": null,
+      "nsfw": false,
+      "author": "PR0CR45T184T0R",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1thzdpy/my_wife_is_divorcing_me_because_she_thinks_im_too/",
+      "createdUtc": 1779222677,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Kona mi skiller seg fra meg fordi hun mener jeg er «for lite norsk».",
+          "body": "Jeg så dette komme på en miles avstand.",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thitmc",
+      "subreddit": "dadjokes",
+      "title": "A 90-year-old man goes for a physical and all of his tests come back normal.",
+      "body": "The doctor says, “Larry, everything looks great. How are you doing mentally and emotionally? Are you at peace with God?”\n\nLarry replies, “God and I are tight. He knows I have poor eyesight, so He’s fixed it so when I get up in the middle of the night to go to the bathroom, poof! The light goes on. When I’m done, poof! The light goes off.”\n\n“Wow, that’s incredible,” the doctor says.\n\nA little later in the day, the doctor calls Larry’s wife.\n\n“Bonnie...” he says, “Larry is doing fine! But I had to call you because I’m in awe of his relationship with God. Is it true that he gets up during the night and poof, the light goes on in the bathroom and when he’s done, poof, the light goes off?”\n\n“Oh for Pete's sake!\" exclaims Bonnie. “He’s peeing in the refrigerator again!”",
+      "score": 645,
+      "flair": null,
+      "nsfw": false,
+      "author": "IEnjoyDadJokes",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1thitmc/a_90yearold_man_goes_for_a_physical_and_all_of/",
+      "createdUtc": 1779186630,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "En 90-åring går til legen og alle prøvene er normale.",
+          "body": "Legen sier: «Larry, alt ser bra ut. Hvordan har du det mentalt og følelsesmessig? Er du i fred med Gud?»\n\nLarry svarer: «Gud og jeg er på god fot. Han vet at jeg har dårlig syn, så han har ordnet det slik at når jeg står opp midt på natten for å gå på do – popp! – lyset tenner seg. Og når jeg er ferdig – popp! – lyset slukker.»\n\n«Det er utrolig», sier legen.\n\nLitt senere på dagen ringer legen til Larrys kone.\n\n«Bonnie», sier han, «Larry har det bra! Men jeg måtte ringe fordi jeg er helt overveldet av forholdet hans til Gud. Er det sant at han står opp om natten og – popp! – tenner lyset på badet, og – popp! – slukker det igjen når han er ferdig?»\n\n«For i alle dager!» utbryter Bonnie. «Han tisser i kjøleskapet igjen!»",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thgszn",
+      "subreddit": "dadjokes",
+      "title": "I just turned 40 and I groan every time I get up now",
+      "body": "I’m finally a groan man ",
+      "score": 453,
+      "flair": null,
+      "nsfw": false,
+      "author": "OwnStructure7460",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1thgszn/i_just_turned_40_and_i_groan_every_time_i_get_up/",
+      "createdUtc": 1779180167,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z"
+    },
+    {
+      "id": "1ti75ly",
+      "subreddit": "dadjokes",
+      "title": "Terrorist holding dad at gunpoint",
+      "body": "Terrorist: \"Say your last words!\"  \nDad: \"Your last words!\"  \nTerrorist: \"What? ugh, you Americans. Be serious!\"  \nDad: \"Okay, I'll be Sirius. Who are you going to be?\"  \nTerrorist: \"Stop. Why isn't this scaring your?\"  \nDad: \"Nothing really scares me anymore; not since I saw that monster henway.\"  \nTerrorist: \"What's a 'henway?  \nDad: \"About a pound and a half.\"  \nTerrorist: \"Stop! I'm serious!\"  \nDad: \"Hi Sirius! I'm Dad!\"",
+      "score": 453,
+      "flair": null,
+      "nsfw": false,
+      "author": "Healthy_Ladder_6198",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1ti75ly/terrorist_holding_dad_at_gunpoint/",
+      "createdUtc": 1779241195,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Terrorist holder far på skuddhold",
+          "body": "Terrorist: «Si dine siste ord!»\nFar: «Dine siste ord!»\nTerrorist: «Hva? Ugh, dere amerikanere. Vær seriøs!»\nFar: «Ok, jeg er Sirius. Hvem er du da?»\nTerrorist: «Slutt. Hvorfor er du ikke redd?»\nFar: «Ingenting skremmer meg lenger, ikke siden jeg møtte det uhyret – hønevekta.»\nTerrorist: «Hva er hønevekta?»\nFar: «Omtrent et halvt kilo.»\nTerrorist: «Stopp! Jeg er seriøs!»\nFar: «Hei, Sirius! Jeg er Far!»",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thu9qj",
+      "subreddit": "dadjokes",
+      "title": "Where do bad rainbows go?",
+      "body": "To prism. \n\nIt's a light sentence, but it gives them time to refract. ",
+      "score": 369,
+      "flair": null,
+      "nsfw": false,
+      "author": "Livewire____",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1thu9qj/where_do_bad_rainbows_go/",
+      "createdUtc": 1779212424,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Hvor havner dårlige regnbuer?",
+          "body": "I fengsel. Det er en lys straff – men det gir dem tid til å reflektere.",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thz6t8",
+      "subreddit": "dadjokes",
+      "title": "You know a French kiss, but what's an Australian kiss?",
+      "body": "The same as a French kiss, but down under.",
+      "score": 169,
+      "flair": null,
+      "nsfw": false,
+      "author": "No_Conversation_3279",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1thz6t8/you_know_a_french_kiss_but_whats_an_australian/",
+      "createdUtc": 1779222283,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Du kjenner til en fransk kyss, men hva er en australsk kyss?",
+          "body": "Det samme som en fransk kyss, bare nede under.",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thil1m",
+      "subreddit": "dadjokes",
+      "title": "What do you call a piano made from discarded pianos?",
+      "body": "A Frankensteinway!",
+      "score": 143,
+      "flair": null,
+      "nsfw": false,
+      "author": "Yokelele",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1thil1m/what_do_you_call_a_piano_made_from_discarded/",
+      "createdUtc": 1779185915,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du et piano laget av kasserte pianoer?",
+          "body": "Et Frankensteinway!",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thkj3y",
+      "subreddit": "dadjokes",
+      "title": "I went to the local Ice Cream Parlor and the clerk said: “We have a special on sundaes!”…",
+      "body": "So I said:  “Ok, I’ll come back.”",
+      "score": 133,
+      "flair": null,
+      "nsfw": false,
+      "author": "sulldanivan",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1thkj3y/i_went_to_the_local_ice_cream_parlor_and_the/",
+      "createdUtc": 1779191447,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg var innom en isbar og ekspedienten sa: «Vi har tilbud på sundae!»…",
+          "body": "Jeg sa: «Ok, da kommer jeg tilbake på søndag.»",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1ti6192",
+      "subreddit": "dadjokes",
+      "title": "In laughter, the \"L\" comes first",
+      "body": "The rest of the letters come 'aughter' it.",
+      "score": 128,
+      "flair": null,
+      "nsfw": false,
+      "author": "jarvedttudd",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1ti6192/in_laughter_the_l_comes_first/",
+      "createdUtc": 1779238290,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z"
+    },
+    {
+      "id": "1ti44mz",
+      "subreddit": "dadjokes",
+      "title": "What type of Jeans do ghost hunters wear?",
+      "body": "Nothing special, just a Paranormal ones.",
+      "score": 128,
+      "flair": null,
+      "nsfw": false,
+      "author": "andersonfmly",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1ti44mz/what_type_of_jeans_do_ghost_hunters_wear/",
+      "createdUtc": 1779233401,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Hva slags jeans bruker spøkelsesjegere?",
+          "body": "Ingenting spesielt – bare noen paranormale.",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thnxst",
+      "subreddit": "dadjokes",
+      "title": "What does Lionel Ritchie wear when he's home alone?",
+      "body": "All nylon.",
+      "score": 89,
+      "flair": null,
+      "nsfw": false,
+      "author": "CheapSultan",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1thnxst/what_does_lionel_ritchie_wear_when_hes_home_alone/",
+      "createdUtc": 1779199348,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Hva har Lionel Richie på seg når han er hjemme alene?",
+          "body": "All nylon.",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thtkeu",
+      "subreddit": "dadjokes",
+      "title": "Why do elephants paint their toenails red?",
+      "body": "So they can hide in cherry trees.",
+      "score": 82,
+      "flair": null,
+      "nsfw": false,
+      "author": "formercolloquy",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1thtkeu/why_do_elephants_paint_their_toenails_red/",
+      "createdUtc": 1779211017,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Hvorfor maler elefanter tåneglene sine røde?",
+          "body": "Så de kan gjemme seg i kirsebærtrær.",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thjqzh",
+      "subreddit": "dadjokes",
+      "title": "Billie Joe Armstrong had a dog named Cologne",
+      "body": "He walked Cologne, He walked Cologne!\n\n(Courtesy my 12 year old!)",
+      "score": 63,
+      "flair": null,
+      "nsfw": false,
+      "author": "sydh-sun",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1thjqzh/billie_joe_armstrong_had_a_dog_named_cologne/",
+      "createdUtc": 1779189300,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z"
+    },
+    {
+      "id": "1thv9yh",
+      "subreddit": "dadjokes",
+      "title": "When I visited Nashville with my daughter, I told her, \"I don't think they have pickleball here.\"",
+      "body": "She pointed at a nearby court and said, \"But they do have tennis.  See?\"",
+      "score": 52,
+      "flair": null,
+      "nsfw": false,
+      "author": "Masselein",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1thv9yh/when_i_visited_nashville_with_my_daughter_i_told/",
+      "createdUtc": 1779214383,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z"
+    },
+    {
+      "id": "1thxev1",
+      "subreddit": "dadjokes",
+      "title": "I got fired from my job at the calendar factory.",
+      "body": "I took a day off without telling anyone. ",
+      "score": 55,
+      "flair": null,
+      "nsfw": false,
+      "author": "Glass_Farm_2992",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1thxev1/i_got_fired_from_my_job_at_the_calendar_factory/",
+      "createdUtc": 1779218615,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg ble sparket fra jobben på kalenderfabrikken.",
+          "body": "Jeg tok meg en fridag uten å si fra til noen.",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thqleo",
+      "subreddit": "dadjokes",
+      "title": "I went to a wedding on Saturday, but the groom never showed.",
+      "body": "It's hard to believe, but the wedding went off without a hitch.",
+      "score": 53,
+      "flair": null,
+      "nsfw": false,
+      "author": "Linkums",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1thqleo/i_went_to_a_wedding_on_saturday_but_the_groom/",
+      "createdUtc": 1779204945,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg dro i bryllup på lørdag, men brudgommen dukket aldri opp.",
+          "body": "Det er nesten ikke til å tro – men bryllupet gikk av stabelen uten en eneste knute.",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1ti8ung",
+      "subreddit": "dadjokes",
+      "title": "My friend told me his mate Jack invented the hot tub.",
+      "body": "I said, “Jack? Who’s he?”",
+      "score": 46,
+      "flair": null,
+      "nsfw": false,
+      "author": "buttered_t0asties",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1ti8ung/my_friend_told_me_his_mate_jack_invented_the_hot/",
+      "createdUtc": 1779245588,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z"
+    },
+    {
+      "id": "1ti5135",
+      "subreddit": "dadjokes",
+      "title": "Two string instruments were having an intense argument.  One said to the other, \"You say you're a harp, but you sure don't look like one!  You're too small!\"",
+      "body": "The second instrument snapped back, \"Are you callin' me a lyre?\"",
+      "score": 33,
+      "flair": null,
+      "nsfw": false,
+      "author": "Masselein",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1ti5135/two_string_instruments_were_having_an_intense/",
+      "createdUtc": 1779235655,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "To strengeinstrumenter hadde en intens krangel. Det ene sa til det andre: «Du kaller deg en harpe, men du ser slett ikke ut som en – du er altfor liten!»",
+          "body": "Det andre svarte: «Kaller du meg en lyrer?» [merknad: på engelsk lyder «lyre» nesten som «liar» (løgner)]",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thpcoy",
+      "subreddit": "dadjokes",
+      "title": "My son asked why parents count to three",
+      "body": "Because two is hope and three is paperwork.",
+      "score": 29,
+      "flair": null,
+      "nsfw": false,
+      "author": "PlayfulDance9",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1thpcoy/my_son_asked_why_parents_count_to_three/",
+      "createdUtc": 1779202376,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Sønnen min spurte hvorfor foreldre teller til tre",
+          "body": "Fordi to er håp, og tre er papirarbeid.",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thu27d",
+      "subreddit": "dadjokes",
+      "title": "An old man goes to the doctor and says, “Doc, I’ve got a serious problem. I keep forgetting things!”",
+      "body": "The doctor says, “How long has this been going on?”\n\nThe old man pauses, looks confused, and says,\n\n“How long has what been going on?”",
+      "score": 25,
+      "flair": null,
+      "nsfw": false,
+      "author": "lnc_gomes",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1thu27d/an_old_man_goes_to_the_doctor_and_says_doc_ive/",
+      "createdUtc": 1779212011,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "En gammel mann går til legen og sier: «Doktor, jeg har et alvorlig problem – jeg glemmer ting hele tiden!»",
+          "body": "Legen sier: «Hvor lenge har dette pågått?»\n\nDen gamle mannen stopper opp, ser forvirret ut, og sier:\n\n«Hva er det som har pågått?»",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1ti2259",
+      "subreddit": "3amjokes",
+      "title": "The erection pill",
+      "body": "A man walks into a pharmacy and asks for erection pills.\n\nThe pharmacist gives him a pack and says, “That’ll be $20.”\n\nThe man says, “Alright, the butcher next door will pay for it,” then points toward the butcher shop and walks out with the pills.\n\nThe pharmacist is confused, but he sees the butcher nodding from next door, so he assumes they know each other.\n\nThe next day, another customer comes in and asks,    \n“Be honest with me… are these pills actually any good?”\n\nThe pharmacist replies,    \n“Its so good that a men yesterday before he even swallowed the pill, fucked both me and the butcher .”",
+      "score": 62,
+      "flair": null,
+      "nsfw": false,
+      "author": "Different_Sea_",
+      "permalink": "https://www.reddit.com/r/3amjokes/comments/1ti2259/the_erection_pill/",
+      "createdUtc": 1779228517,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Potensmedisinen",
+          "body": "En mann går inn på et apotek og ber om potensmedisiner.\n\nApotekeren gir ham en pakke og sier: «Det blir 200 kroner.»\n\nMannen sier: «Slakteren her ved siden av betaler», peker mot slakteren og går ut med pillene.\n\nApotekeren blir forvirret, men ser slakteren nikke fra nabobutikken og antar at de kjenner hverandre.\n\nNeste dag kommer en ny kunde inn og spør:\n«Vær ærlig … er disse pillene egentlig noe verdt?»\n\nApotekeren svarer:\n«De er så gode at en fyr i går, før han engang hadde svelget pillen, hadde knullet både meg og slakteren.»",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thlvux",
+      "subreddit": "3amjokes",
+      "title": "What do you call an Indian throuple",
+      "body": "A Bollycule ",
+      "score": 25,
+      "flair": null,
+      "nsfw": false,
+      "author": "Jazzlike_Pass1284",
+      "permalink": "https://www.reddit.com/r/3amjokes/comments/1thlvux/what_do_you_call_an_indian_throuple/",
+      "createdUtc": 1779194736,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Hva kaller man et indisk trepartsforhold?",
+          "body": "En Bollycule [merknad: ordspill på «Bollywood» og «polycule» – begrep for et nettverk av romantiske relasjoner]",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thtg0k",
+      "subreddit": "puns",
+      "title": "I went to a mate's party the other day and all he did was play George Michael songs...",
+      "body": "I'm never going to Dan's again!",
+      "score": 64,
+      "flair": null,
+      "nsfw": false,
+      "author": "ConstantDesmond",
+      "permalink": "https://www.reddit.com/r/puns/comments/1thtg0k/i_went_to_a_mates_party_the_other_day_and_all_he/",
+      "createdUtc": 1779210766,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg var i selskapet til en kompis nylig, og alt han spilte var George Michael-sanger ...",
+          "body": "Jeg drar aldri til Dans igjen!",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thqmm9",
+      "subreddit": "puns",
+      "title": "If a chicken leg can be referred to as a drumstick, can a whole chicken be referred to as a drum kit?",
+      "body": "",
+      "score": 45,
+      "flair": null,
+      "nsfw": false,
+      "author": "anelly96",
+      "permalink": "https://www.reddit.com/r/puns/comments/1thqmm9/if_a_chicken_leg_can_be_referred_to_as_a/",
+      "createdUtc": 1779205015,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Hvis et kyllinglår kalles en trommestikke, kan da en hel kylling kalles et trommesett?",
+          "body": "",
+          "at": "2026-05-20T07:00:24.942Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1thxmbi",
+      "subreddit": "Unclejokes",
+      "title": "When is a penis like a clock",
+      "body": "When it has a pair of hands and a face on it. ",
+      "score": 148,
+      "flair": "sexual",
+      "nsfw": true,
+      "author": "blochow2001",
+      "permalink": "https://www.reddit.com/r/Unclejokes/comments/1thxmbi/when_is_a_penis_like_a_clock/",
+      "createdUtc": 1779219022,
+      "firstSeen": "2026-05-20T07:00:03.337Z",
+      "lastSeen": "2026-05-20T07:00:03.337Z",
+      "localized": {
+        "nb": {
+          "title": "Når er en penis som en klokke?",
+          "body": "Når den har et par hender og et ansikt på seg.",
+          "at": "2026-05-20T07:00:24.942Z",
           "model": "sonnet"
         }
       }
