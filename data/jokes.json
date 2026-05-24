@@ -1,6 +1,6 @@
 {
-  "lastFetched": "2026-05-23T07:00:03.367Z",
-  "count": 527,
+  "lastFetched": "2026-05-24T07:00:03.276Z",
+  "count": 574,
   "jokes": [
     {
       "id": "1tc80lh",
@@ -8380,7 +8380,15 @@
       "permalink": "https://www.reddit.com/r/Jokes/comments/1timf2e/a_woman_who_speaks_spanish_walks_into_a/",
       "createdUtc": 1779285238,
       "firstSeen": "2026-05-21T07:00:02.994Z",
-      "lastSeen": "2026-05-21T07:00:02.994Z"
+      "lastSeen": "2026-05-21T07:00:02.994Z",
+      "localized": {
+        "nb": {
+          "title": "En spansktalende dame går inn i et varehus,",
+          "body": "Hun oppsøker en ekspeditør og spør:\n\n«¿Dónde están los calcetines?»\n\nEkspeditøren snakker ikke spansk, men prøver å hjelpe. Han holder opp en t-skjorte: «Er det dette?»\n\nHun rister på hodet.\n\nHan prøver med et par bukser – igjen hoderysting.\n\nEtter fem-seks forsøk holder han til slutt opp et par sokker med et oppgitt uttrykk.\n\nDamen smiler og sier:\n\n«¡Eso sí que es!»\n\nEkspeditøren rynker pannen og sier:\n\n«Hvis du visste hvordan det staves, hvorfor sa du ikke det med en gang?!»",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tiok7p",
@@ -8452,7 +8460,15 @@
       "permalink": "https://www.reddit.com/r/Jokes/comments/1tidziq/my_wife_got_on_a_flight_to_helsinki_last_week_and/",
       "createdUtc": 1779260891,
       "firstSeen": "2026-05-21T07:00:02.994Z",
-      "lastSeen": "2026-05-21T07:00:02.994Z"
+      "lastSeen": "2026-05-21T07:00:02.994Z",
+      "localized": {
+        "nb": {
+          "title": "Kona mi tok et fly til Helsinki forrige uke, og jeg har ikke hørt fra henne siden.",
+          "body": "Hun forsvant bare inn i Finnair.",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tigbaz",
@@ -9146,7 +9162,15 @@
       "permalink": "https://www.reddit.com/r/dadjokes/comments/1tipbhk/everybody_knows_that_7_8_9_question_is_why_did_7/",
       "createdUtc": 1779291326,
       "firstSeen": "2026-05-21T07:00:02.994Z",
-      "lastSeen": "2026-05-21T07:00:02.994Z"
+      "lastSeen": "2026-05-21T07:00:02.994Z",
+      "localized": {
+        "nb": {
+          "title": "Alle vet at 7 åt 9. Spørsmålet er: Hvorfor åt 7 9?",
+          "body": "Legen hadde bedt 7 om å spise 3² måltider om dagen.",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tinu2r",
@@ -9826,7 +9850,15 @@
       "permalink": "https://www.reddit.com/r/dadjokes/comments/1tjnt9w/farm_life/",
       "createdUtc": 1779376917,
       "firstSeen": "2026-05-22T07:00:03.026Z",
-      "lastSeen": "2026-05-22T07:00:03.026Z"
+      "lastSeen": "2026-05-22T07:00:03.026Z",
+      "localized": {
+        "nb": {
+          "title": "Gårdsliv",
+          "body": "To søstre arver familiegården sin i bygde-Norge.\n\nEtter noen tunge år begynner pengene å bli knappe, og de risikerer å miste alt.\n\nFor å redde gården bestemmer de seg for å skaffe en okse for eget avlsarbeid.\n\nDen eldste sier: «Jeg tar bussen til dyreauksjonen. Du holder pickup-bilen klar. Finner jeg en god okse, sender jeg beskjed, så du kan kjøre og hente meg med hengeren.»\n\nAv sted drar hun.\n\nPå auksjonen finner hun den perfekte oksen.\n\nSelgeren sier: «6 000 kroner – ta det eller la det ligge.»\n\nHun teller pengene, sukker og betaler, og sitter igjen med bare én tikrone.\n\nHun drar inn til tettstedet og stopper ved det gamle telegrafkontoret.\n\n«Jeg trenger å sende en melding til søsteren min,» sier hun.\n\nEkspeditøren svarer: «Selvfølgelig – ni kroner per ord.»\n\nHun tenker seg nøye om og smiler.\n\n«Greit,» sier hun. «Send bare ett ord ... 'komfortabel'.»\n\nEkspeditøren ser undrende ut: «Hvordan i all verden skal hun forstå hva du mener?»\n\nSøsteren smiler: «Å, hun vil nok skjønne det. Hun er ikke den raskeste leseren, så hun vil stave det ut stavelse for stavelse ...\n\nkom – for – ta – bel.»",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tjkra7",
@@ -11400,6 +11432,944 @@
           "title": "En sekretær går inn på sjefens kontor og sier hun har dårlige nyheter",
           "body": "Sjefen svarer: «Sherry, du gir meg bare dårlige nyheter. Gi meg gode nyheter for én gangs skyld.»\n\n«OK,» svarer Sherry. «Du er ikke steril.»",
           "at": "2026-05-23T07:00:18.573Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlgqc5",
+      "subreddit": "Jokes",
+      "title": "An Irishman and a Scotsman walk into a pub. The Scotsman says, \"Drinks for everyone in the house, on me. I'm paying everybody's tab for the night!\" The pub erupts in cheers.",
+      "body": "The next day, the headline of the front page of the newspaper read \"Irish ventriloquist found beaten to death behind local pub.\"",
+      "score": 1587,
+      "flair": "Walks into a bar",
+      "nsfw": false,
+      "author": "Jokeminder42",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tlgqc5/an_irishman_and_a_scotsman_walk_into_a_pub_the/",
+      "createdUtc": 1779543412,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z"
+    },
+    {
+      "id": "1tlymkv",
+      "subreddit": "Jokes",
+      "title": "A wife desperately tries to prove to her husband her illicit affair is over. He'd already forgiven her, but still hadn’t spoken to her in days. The only thing she could think of, is that he must still not trust her...",
+      "body": "In a last ditch attempt to convince him, she cut her ex-lover’s obituary out of the newspaper. Her affair ended long before the accident, but she thought this would ease her husband’s mind once and for all.\n\n“You see.” she told him. “He was struck by a drunk driver.”\n\nHer husband smiled and replied, “I wasn’t drunk.”",
+      "score": 1197,
+      "flair": null,
+      "nsfw": false,
+      "author": "808gecko808",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tlymkv/a_wife_desperately_tries_to_prove_to_her_husband/",
+      "createdUtc": 1779587437,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z"
+    },
+    {
+      "id": "1tltgbq",
+      "subreddit": "Jokes",
+      "title": "A new groom didn’t know what to do on his wedding night…",
+      "body": "… so he went to his father and said, “dad, please, tell me what I’m supposed to do! I don’t wanna make a fool of myself!”\n\nDad said, “don’t worry son, this girl knows a thing or two. You just do what she does, and everything will be just fine.”\n\nSo they get married, they go home, the time comes and the bride gets up and goes into the bedroom. The groom follows her in.\n\nThe bride takes off her clothes, so the groom takes his off.\n\nThe bride lies on the bed, so the groom lies next to her. \n\nThe bride opens her legs and raises them into the air, so the groom, none the wiser, does the same.\n\nThey lie there for few minutes, and finally the bride says, “wouldn’t it be cool if someone came along and fucked us?” ",
+      "score": 943,
+      "flair": "Long",
+      "nsfw": true,
+      "author": "ThatWeirdPlantGuy",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tltgbq/a_new_groom_didnt_know_what_to_do_on_his_wedding/",
+      "createdUtc": 1779573479,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z"
+    },
+    {
+      "id": "1tl9j5u",
+      "subreddit": "Jokes",
+      "title": "All cheaters on the same cruise !",
+      "body": "A woman cheats on her husband after years of happy marriage\n\nRealizing her mistake, she starts praying to God. \"Lord, I know what I did was wrong, but my marriage is the only thing that gives my life purpose and joy. Please, don't let my husband find out.\"\n\nSuddenly she hears a voice from above: \"Okay my child, it will be, but on one condition: years from now, you will die by drowning.\"\n\nThe woman hesitates at first but then responds, \"Alright Lord, if it means he'll never find out, then so be it.\"\n\nThe next years of her life are happy and wonderful. She starts a successful business and lives in comfort with her husband, however, she continues to cheat on him many times, having forgotten her conversation with God.\n\nOne day she decides to book herself a vacation on a cruise ship. A few days into the voyage, a loud BOOM rocks the cruise ship, and it starts to sink. Suddenly remembering her agreement with God, she is struck with grief and begins frantically praying to God again:\n\n\"God, you're not gonna drown an entire cruise ship full of people because of me, right?\"\n\nShe hears a familiar voice: \"Are you kidding me? I've been working to gather all you cheaters here for years.\"\n\nThat's all folks !!!",
+      "score": 757,
+      "flair": "Long",
+      "nsfw": false,
+      "author": "Prashantt1",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tl9j5u/all_cheaters_on_the_same_cruise/",
+      "createdUtc": 1779520995,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z"
+    },
+    {
+      "id": "1tlszmm",
+      "subreddit": "Jokes",
+      "title": "The Golden Telephone",
+      "body": "A man was touring all the great cathedrals of Europe. He starts in Notre-Dame, and he is confused to see a golden telephone on a marble pillar. He asks the bishop what is for.\n\n\"Oui, monsieur. Zat ees a direct line to 'eaven. Pour one thousand Euros, you may speak weeth Dieu.\"\n\nThe man rolls his eyes and moves on.\n\nLater on in Cologne, he sees the same thing. The Bishop gives him the same answer:\n\n\"Ja, mein Herr. Zis iss a direct line to Himmel. Fur ein tousand Euros, you may sprechen mit Gott.\"\n\nLater on in St. Peter's Basilica in Rome, he's shocked and disappointed to see the same thing. The Cardinal tells him, \"Si, signore. Dat isa directa linea to Paradiso. For one thousand Euro, you cana talka to God.\"\n\nUtterly disgusted by the profiteering, he finishes his tour at a tiny chapel in Scotland.\n\nTo his shock, he sees another golden telephone on a marble pillar. \"Lemme guess, a thousand pounds to talk to god?\"\n\n\"Nae, lad. 20 pence.\"\n\n\"What? Everywhere else in Europe it was a thousand euros?\"\n\n\"Aye, but ye're in Scotland, noow, lad. It's a local call.\"",
+      "score": 675,
+      "flair": "Long",
+      "nsfw": false,
+      "author": "RavingRationality",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tlszmm/the_golden_telephone/",
+      "createdUtc": 1779572309,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z"
+    },
+    {
+      "id": "1tliqh1",
+      "subreddit": "Jokes",
+      "title": "The Indian with a great memory",
+      "body": "There was once a man and a woman driving through the desert to Las Vegas on their honeymoon when they came across an Indian teepee with a sign out front that read:\n\n “Indian with amazing memory inside! The husband says to his fiancée, “What the heck, let’s stop and check it out.” So they go inside, and the man asks the Indian, “What did you eat for breakfast three years ago?” Without missing a beat, the Indian replies, “Eggs.” The man looks at his fiancée and says, “Wow… that’s an incredible memory,” and they continue on their trip.\n\nTen years later, now married with kids, the family happens to be traveling through the same desert. They spot the very same teepee. Excited, the husband says to his kids, “Your mom and I stopped here ten years ago! Let’s go see if he remembers me.” So the whole family goes inside. Trying to be funny, the husband raises his hand and says, “How.”\n\nThe Indian looks at him calmly and replies: “scrambled”",
+      "score": 610,
+      "flair": "Long",
+      "nsfw": false,
+      "author": "xdeserted",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tliqh1/the_indian_with_a_great_memory/",
+      "createdUtc": 1779548281,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z"
+    },
+    {
+      "id": "1tlm9f6",
+      "subreddit": "Jokes",
+      "title": "What do women do in the bathroom that I do on the internet?",
+      "body": "Eyebrows",
+      "score": 432,
+      "flair": null,
+      "nsfw": true,
+      "author": "isademigod",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tlm9f6/what_do_women_do_in_the_bathroom_that_i_do_on_the/",
+      "createdUtc": 1779556437,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z"
+    },
+    {
+      "id": "1tlfx1w",
+      "subreddit": "Jokes",
+      "title": "A high school senior with a locked-in 30% went to his teacher before graduation to ask for extra credit....",
+      "body": "Teacher: Spell \"way.\"  \nStudent: W - A - Y.\n\nTeacher: You forgot the F.  \nStudent: There's no F in way!\n\nTeacher: That's right!",
+      "score": 324,
+      "flair": null,
+      "nsfw": false,
+      "author": "simple_onehand",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tlfx1w/a_high_school_senior_with_a_lockedin_30_went_to/",
+      "createdUtc": 1779541354,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "En elev på siste trinn i videregående med sikker stryker oppsøkte læreren sin rett før eksamen for å be om ekstrapoeng...",
+          "body": "Lærer: Stav «an».\nElev: A-N.\nLærer: Du glemte F-en.\nElev: Det er ingen F i «an»!\nLærer: Nettopp!",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlrem7",
+      "subreddit": "Jokes",
+      "title": "[oc] Did you hear about the prostitute that killed a Mexican drink vendor?",
+      "body": "Yeah, the horchata man…\n\n(I came up with this in the car earlier, it got both an eye roll and a groan from my teen)",
+      "score": 306,
+      "flair": null,
+      "nsfw": false,
+      "author": "freelance-t",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tlrem7/oc_did_you_hear_about_the_prostitute_that_killed/",
+      "createdUtc": 1779568424,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z"
+    },
+    {
+      "id": "1tlizbm",
+      "subreddit": "Jokes",
+      "title": "A man did not like his wife’s cat.",
+      "body": "One day, he put the cat in his car and took it to the end of the block and let it go. \n\nWhen he got home he saw that the cat had beat him home.\n\nUndeterred, he put the cat in the car and took it a few miles across the city and let it out of the car again. \n\nUpon returning home, he was astonished to see that the cat had beat him home again.\n\nDetermined at this point, the man took the cat and drove him across the city, over the river, through the woods, and clear across three counties before putting the cat outside and driving off.\n\nSeveral hours later the man’s wife was at home when the phone rang. She picked up and it was her husband.\n\n“Is the cat there?” He asked.\n\n“Yes…” she replied.\n\n“Well put him on the phone, I’m lost”",
+      "score": 246,
+      "flair": "Long",
+      "nsfw": false,
+      "author": "IEnjoyDadJokes",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tlizbm/a_man_did_not_like_his_wifes_cat/",
+      "createdUtc": 1779548849,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "En mann likte ikke sin kones katt.",
+          "body": "En dag satte han katten i bilen og kjørte til enden av gata, der han slapp den løs.\n\nDa han kom hjem, var katten allerede der.\n\nUfortrødent satte han katten i bilen igjen og kjørte noen kilometer gjennom byen.\n\nDa han kom hjem, ble han forbløffet over å se at katten hadde kommet hjem før ham.\n\nBestemt som han var, tok mannen katten med og kjørte tvers over byen, over elva, gjennom skogen og bortover tre kommuner, satte katten ut og kjørte av gårde.\n\nNoen timer senere satt mannens kone hjemme da telefonen ringte. Det var mannen.\n\n– Er katten der? spurte han.\n\n– Ja…, svarte hun.\n\n– Sett ham på telefonen – jeg vet ikke hvor jeg er.",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlb649",
+      "subreddit": "Jokes",
+      "title": "Two female police dog handlers are walking their dogs",
+      "body": "One says to the other, \"I left my panties at the police station.\" \n\nThe other says, \"Let the dog have a whiff of your minge and he'll go and fetch them.\" \n\nFifteen minutes later, the dog returns with her panties, her baton, a broomhandle and two of the inspector's fingers.\n\n",
+      "score": 212,
+      "flair": null,
+      "nsfw": true,
+      "author": "coolidiot2000",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tlb649/two_female_police_dog_handlers_are_walking_their/",
+      "createdUtc": 1779526562,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "To politikvinner med tjenestehunder er ute og går",
+          "body": "Den ene sier til den andre: «Jeg glemte trusa mi på politistasjonen.»\n\nDen andre sier: «La hunden lukte på fissa di – han henter dem nok.»\n\nFemten minutter senere kommer hunden tilbake med trusa hennes, batongen hennes, et kosteskaft og to av inspektørens fingre.",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tl9bvs",
+      "subreddit": "Jokes",
+      "title": "The good news is that I managed to get my penis into the Guinness Book of Records!",
+      "body": "The bad news is that I am banned from the library and there is a policeman at the door.",
+      "score": 173,
+      "flair": null,
+      "nsfw": true,
+      "author": "Gil-Gandel",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tl9bvs/the_good_news_is_that_i_managed_to_get_my_penis/",
+      "createdUtc": 1779520346,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "Den gode nyheten er at jeg klarte å få pikken min inn i Guinness rekordbok!",
+          "body": "Den dårlige nyheten er at jeg er utestengt fra biblioteket, og det står en politimann ved døren.",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlgrzz",
+      "subreddit": "Jokes",
+      "title": "Professor X:  So you want to apply to the X-Men, what's your super power?",
+      "body": "Mutant:  Hindsight!\n\nProfessor X:  Well that's not going to help us at all.\n\nMutant:  Yes, I can see that now.",
+      "score": 158,
+      "flair": null,
+      "nsfw": false,
+      "author": "foss4all",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tlgrzz/professor_x_so_you_want_to_apply_to_the_xmen/",
+      "createdUtc": 1779543532,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "Professor X: Så du vil søke opptak i X-Men? Hva er superkraften din?",
+          "body": "Mutant: Etterpåklokskap!\n\nProfessor X: Det er ikke noe som vil hjelpe oss i det hele tatt.\n\nMutant: Ja, det ser jeg nå.",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tm2os3",
+      "subreddit": "Jokes",
+      "title": "Oedipus is walking down a country lane when he sees Sisyphus pushing an enormous boulder up a hill. Oedipus says, \"That looks heavy. And pointless.\"",
+      "body": "And Sisyphus says, \"Shut up, motherfucker.\"",
+      "score": 140,
+      "flair": null,
+      "nsfw": false,
+      "author": "Jokeminder42",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tm2os3/oedipus_is_walking_down_a_country_lane_when_he/",
+      "createdUtc": 1779599308,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "Ødipus går langs en landevei da han ser Sisyfos dytte en enorm stein opp en bakke. Ødipus sier: «Det der ser tungt ut. Og meningsløst.»",
+          "body": "Og Sisyfos svarer: «Hold kjeft, din morknuller.»",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlkq4m",
+      "subreddit": "Jokes",
+      "title": "A Frenchman, an American, and a Scotsman walk into a bar",
+      "body": "The Frenchman orders,  \"A glass of your finest champagne.\"\n\nThe American, \"I'll take a Jack and Coke.\"\n\nThe Scottish man asks for, \"A pint of the cheapest lager\"\n\nAs the friends enjoy their libations, three flies buzz in through an open window. Each one lands in a drink.\n\nThe Frenchman pushes his away and exclaims, \"Zut alors! It is ruined!\"\n\nThe American shrugs his shoulders and flicks the fly out of his drink, \"Ah shoot, that ain't nothin'.\"\n\nThe Scotsman very gingerly reaches in and lifts up the insect by its tiny wings. Then begins violently shaking it screaming, \"Spit it out! Spit it out ya wee bastard!'",
+      "score": 127,
+      "flair": "Walks into a bar",
+      "nsfw": false,
+      "author": "CoffeeJedi",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tlkq4m/a_frenchman_an_american_and_a_scotsman_walk_into/",
+      "createdUtc": 1779552905,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "En franskmann, en amerikaner og en skott går inn på en bar",
+          "body": "Franskmannen bestiller: «Et glass av deres fineste champagne.»\n\nAmerikaneren: «Jeg tar en Jack og Cola.»\n\nSkotten ber om: «En halvliter av det billigste ølet.»\n\nMens vennene nyter drikkene sine, flyr tre fluer inn gjennom et åpent vindu. Hver av dem lander i et glass.\n\nFranskmannen skyver glasset unna og utbryter: «Zut alors! Det er ødelagt!»\n\nAmerikaneren trekker på skuldrene og plukker flua ut av glasset sitt: «Åh, det er ikke noe særlig.»\n\nSkotten plukker forsiktig insektet opp etter de bittesmå vingene. Så begynner han å riste det voldsomt og skriker: «Spytt ut! Spytt ut, din lille jævel!»",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tl9shh",
+      "subreddit": "Jokes",
+      "title": "A man has to give a urine sample for a check up (Long)",
+      "body": "The doctor says “come here on an empty stomach and we’ll give you a bottle to pee in.   \nOn the day of the exam, the man forgets about not eating and has eggs for breakfast.   \nHe goes to the hospital, pees in the bottle, gives it to the doctor. He’s looks at it and says “I told you to come here on an empty stomach and you eat eggs? Come back in a week time ON AN EMPTY STOMACH”  \nHe’s surprised by his doctor’s ability but slightly taken aback by his tone. \n\nCome next week he’s on his way to the hospital, on an empty stomach. He’s absolutely starving. Unfortunately, someone is selling delicious hot dogs just in front of the hospital door. He can’t resist, he buys one, wolfs it down, then goes to see the doctor.  \nPees in the bottle, the doctor looks at the sample and edgily remarks “Was the hot dog nice? STOP WASTING MY TIME AND COME BACK NEXT WEEK ON AN EMPTY STOMACH”.   \nThe man is mystified by the doctor’s strange gift but mostly angry at his terrible attitude. \n\nSo come next week, he decides to pull a trick. He asks his wife to pee in a bottle , then pops his car bonnet, grabs the oil dipstick and dips it in the bottle too. “I want to see what that jerk says to that”  \nGoes to the hospital, grabs the bottle then secretly pours his own blend in it.   \nGives it to the doctor, who glances at it, then looks closer, then against the window.   \nHe finally says “Hm. This is not a good sign. Your wife is two months pregnant by your brother Steve and your 1989 Accord’s second cylinder is about to fail”",
+      "score": 123,
+      "flair": "Long",
+      "nsfw": false,
+      "author": "trtzbass",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tl9shh/a_man_has_to_give_a_urine_sample_for_a_check_up/",
+      "createdUtc": 1779521887,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "En mann skal avgi urinprøve til en legekontroll (Lang)",
+          "body": "Legen sier: «Kom hit på tom mage, så gir vi deg en flaske å tisse i.»\n\nPå den avtalte dagen glemmer mannen å faste og spiser egg til frokost. Han drar til sykehuset, tisser i flasken og leverer den til legen. Legen ser på den og sier: «Jeg ba deg komme på tom mage, og så spiser du egg? Kom tilbake om en uke – PÅ TOM MAGE.»\n\nMannen er forundret over legens evner, men litt satt ut av tonen hans.\n\nNeste uke er han på vei til sykehuset – på tom mage. Han er skikkelig sulten. Dessverre selger noen hotdogs rett utenfor sykehusdøren. Han klarer ikke å motstå, kjøper en, sluker den ned og går inn til legen.\n\nHan tisser i flasken. Legen ser på prøven og sier irritert: «Var hotdogen god? SLUTT Å KASTE BORT TIDA MI OG KOM TILBAKE NESTE UKE PÅ TOM MAGE.»\n\nMannen er mystifisert av legens merkelige gave, men fremfor alt rasende på den elendige holdningen hans.\n\nSå neste uke bestemmer han seg for å lure legen. Han ber kona om å tisse i en flaske, tar så oljemålestikka ut av bilen og dypper den ned i flasken. «La meg se hva den jævelen sier til det.»\n\nHan drar til sykehuset og blander i hemmelighet sin egen miks ned i flasken.\n\nGir den til legen, som kikker på den, ser nærmere, holder den opp mot vinduet.\n\nTil slutt sier han: «Hm. Dette er ikke et godt tegn. Kona di er to måneder gravid av broren din Steve, og andresylinderen i din 1989 Accord er i ferd med å ryke.»",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tllpir",
+      "subreddit": "Jokes",
+      "title": "Sailor meets disabled woman",
+      "body": "The Merchant Navy sailor was on a run ashore in Union Street, Plymouth, Devon, England. He met a young woman who was disabled, and had no legs.   \n   \nThey had a great evening, and then she wanted sex. He said, ‘How, you have no legs?’ She replied, ‘Just lift me onto the railings, and then you can take me.’ They made love, and then he took her home.  \n   \nHer father answered the door. The young woman said, ‘Father, I would like you to meet Brian.’ The father replied, ‘Come in Brian, the Merchant Navy is welcome here anytime.’   \n   \nBrian said, ‘How do you know that I am in the Merchant Navy?’ The father replied, ‘The Royal Navy always leave her on the bloody railings.’",
+      "score": 111,
+      "flair": "Long",
+      "nsfw": true,
+      "author": "Brigstocke",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tllpir/sailor_meets_disabled_woman/",
+      "createdUtc": 1779555161,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "En sjømann møter en funksjonshemmet dame",
+          "body": "En sjømann fra handelsflåten var på frigang i Plymouth, England. Der møtte han en ung dame uten ben.\n\nDe hadde en strålende kveld, og hun ville ha sex. Han sa: «Hvordan det – du har jo ingen ben?» Hun svarte: «Løft meg opp på rekkverket, så kan du ta meg.» De elsket, og så fulgte han henne hjem.\n\nFaren åpnet døren. Den unge damen sa: «Far, jeg vil gjerne presentere Brian.» Faren svarte: «Kom inn, Brian – folk fra handelsflåten er alltid velkomne her.»\n\nBrian sa: «Hvordan visste du at jeg er i handelsflåten?» Faren svarte: «Marinen hadde alltid latt henne bli hengende på jævla rekkverket.»",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlwvfj",
+      "subreddit": "Jokes",
+      "title": "My doctor said I need to notify my sexual partners that I have Sisyphus",
+      "body": "There's no cure, and the treatment is long, arduous, and never-ending.",
+      "score": 78,
+      "flair": null,
+      "nsfw": false,
+      "author": "Maimonides_vii",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tlwvfj/my_doctor_said_i_need_to_notify_my_sexual/",
+      "createdUtc": 1779582494,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "Legen min sa at jeg må varsle seksualpartnerne mine om at jeg har Sisyfos",
+          "body": "Det finnes ingen kur, og behandlingen er lang, tung og tar aldri slutt.",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlqvt7",
+      "subreddit": "Jokes",
+      "title": "You hear about the prostitute that only serviced golfers?",
+      "body": "She had a John Daly.",
+      "score": 62,
+      "flair": null,
+      "nsfw": false,
+      "author": "ThatDrizzler",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tlqvt7/you_hear_about_the_prostitute_that_only_serviced/",
+      "createdUtc": 1779567184,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z"
+    },
+    {
+      "id": "1tlf2lv",
+      "subreddit": "Jokes",
+      "title": "What's black and white and red all over?",
+      "body": "1: A newspaper.\n\n2: A penguin in a blender.\n\n3: A nun falling down the stairs.\n\n4: A sunburnt skunk.\n\n5: Cruella de Vil.\n\n6: Crosswalk after a hit and run.\n\n7: An embarrassed Betty Boop.\n\n8: The slowest zebra in a herd.\n\n9: A stabbed panda.\n\n10: The Joker's face.\n\n11: A vampire having a midnight snack.\n\n12: The old German flag.\n\n13: A badger eating tomatoes.\n\n14: An orca during lunch.\n\n15: A cow in the slaughterhouse.\n\n16: A rabid lemur.\n\n17: A referee after the game.\n\n18: A map of Russia.\n\n19: A checker board in a prison.\n\n20: ...I got no more........",
+      "score": 43,
+      "flair": null,
+      "nsfw": false,
+      "author": "DaFoxtrot86",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tlf2lv/whats_black_and_white_and_red_all_over/",
+      "createdUtc": 1779539052,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "Hva er svart og hvitt og rødt over det hele?",
+          "body": "1. En avis.\n\n2. En pingvin i en blender.\n\n3. En nonne som faller ned trappa.\n\n4. Et solbrent skunk.\n\n5. Cruella de Vil.\n\n6. Et gangfelt etter en påkjørsel med flukt.\n\n7. En flau Betty Boop.\n\n8. Den treigste sebra i flokken.\n\n9. En stukket panda.\n\n10. Jokerens ansikt.\n\n11. En vampyr på nattmaten.\n\n12. Det gamle tyske flagget.\n\n13. Et grevling som spiser tomater.\n\n14. En spekkhugger til lunsj.\n\n15. En ku i slakteri.\n\n16. En gal lemur.\n\n17. En dommer etter kampen.\n\n18. Et kart over Russland.\n\n19. Et sjakkbrett i et fengsel.\n\n20. …Jeg er tom for ideer...",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tltsf7",
+      "subreddit": "Jokes",
+      "title": "Another old Greek joke",
+      "body": "Two friends Yannis and Giorgos, grew up in Athens, and were practically inseparable. Then when it came time to go to college, one of them moved to Thessaloniki up north, well the other one moved down to Crete. They didn’t see each other for years and years and eventually lost contact with each other until one day they ran into each other while back in Athens for the holidays. \n\n“Yanni!” “Giorgo!” they exclaimed and started catching up. “ Wow,” says Giorgo, “It’s been so long! What have you been up to? I seem to remember hearing that you had a daughter! How is she? She must be grown by now!”\n\n“Yeah,” says Yanni, “She got married to a banker. He was a wonderful guy, made a good living. We celebrated that wedding for three days!  Things went great for a while, but they eventually had problems and they got a divorce. Then she got married to a surgeon. A really smart guy, handsome, and of course he made lots of money. We celebrated that wedding for five days! But you know, kids these days… They just couldn’t see eye to eye on certain things and they ended up getting a divorce. Then she met this son of a shipping family. Really good family, lots of connections, crazy rich. we celebrated that wedding for a whole week! Things went pretty well for about a year, now they’re having some problems, we’ll see how they manage. What about you? I heard that you had a daughter too!\n\n“Yeah, says Giorgos, “our daughter’s a whore too, but we don’t celebrate it…”  \n“",
+      "score": 37,
+      "flair": "Long",
+      "nsfw": true,
+      "author": "ThatWeirdPlantGuy",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tltsf7/another_old_greek_joke/",
+      "createdUtc": 1779574338,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "En gammel gresk vits",
+          "body": "To venner, Yannis og Giorgos, vokste opp i Athen og var praktisk talt uatskillelige. Da det ble tid for å studere, flyttet den ene til Thessaloniki i nord, mens den andre dro ned til Kreta. De så ikke hverandre på årevis og mistet til slutt kontakten – inntil de en dag traff på hverandre i Athen i juletiden.\n\n«Yanni!» «Giorgo!» ropte de og begynte å ta igjen for tapt tid. «Wow,» sier Giorgos, «det er lenge siden! Hva har du drevet med? Jeg husker å ha hørt at du fikk en datter! Hvordan har det gått med henne? Hun må jo være voksen nå!»\n\n«Ja,» sier Yannis. «Hun giftet seg med en bankmann – en vidunderlig fyr som tjente godt. Vi feiret bryllupet i tre dager! Det gikk bra en stund, men de fikk problemer og endte opp med å skille seg. Så giftet hun seg med en kirurg. Veldig smart, flott utseende og selvfølgelig god betalt. Vi feiret det bryllupet i fem dager! Men vet du, ungdommen i dag… De klarte aldri å se øye til øye, og endte med å skille seg. Så møtte hun sønnen til en rederfamilie. Veldig god familie, mange kontakter, steinrik. Vi feiret det bryllupet i en hel uke! Det har gått ganske bra i omtrent et år, men nå har de noen problemer – vi får se. Hva med deg? Jeg hørte at du også fikk en datter!»\n\n«Ja,» sier Giorgos. «Vår datter er også ei hore, men vi feirer det ikke…»",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlqjza",
+      "subreddit": "Jokes",
+      "title": "A traveling salesman breaks down on a country road.",
+      "body": "He goes to the only farmhouse he can see. As he approaching the porch, a dog sits up and says \"good afternoon, how are you?\"\n\n\"OH my, you can talk!\"\n\n\" yeah, I discovered that I could talk when I was a puppy. The government found out about me and trained me to spy for them. Who would think the dog in the room was listening and reporting back what was said? I traveled the world several times over, sometimes helping to stop a war, and sometimes to start one. It was all very exciting but I finally decided to settle down here at this farmhouse and spend my remaining days on this peacful porch.\"\n\n\"WOW, that's amazing!\"\n\nThe salesman knocks on the door and asks the farmer if he's interested in selling the dog. \n\n\"Sure, I'll take 10 bucks for him.\"\n\n\"Why so little, you do know he can talk?\n\n\"Yeah, I know, but he's a liar. He's never been off this porch!\"",
+      "score": 29,
+      "flair": "Long",
+      "nsfw": false,
+      "author": "DareNo857",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tlqjza/a_traveling_salesman_breaks_down_on_a_country_road/",
+      "createdUtc": 1779566419,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "En handelsreisende får motorstopp på en landevei.",
+          "body": "Han går bort til den eneste gården han kan se. Da han nærmer seg verandaen, setter en hund seg opp og sier: «God ettermiddag. Hvordan har du det?»\n\n«Å, du kan snakke!»\n\n«Ja, jeg oppdaget det som valp. Myndighetene fikk høre om meg og trente meg opp som spion. Hvem mistenker vel at hunden i rommet lytter og rapporterer alt som blir sagt? Jeg reiste verden rundt mange ganger, bidro til å stoppe noen kriger – og starte andre. Livet var spennende, men til slutt bestemte jeg meg for å slå meg til ro her på denne fredelige verandaen.»\n\n«Det er utrolig!»\n\nSelgeren banker på døren og spør om bonden vil selge hunden.\n\n«Gjerne, du kan få ham for hundre kroner.»\n\n«Så lite? Vet du ikke at han kan snakke?»\n\n«Jo, det vet jeg – men han lyver. Han har aldri vært av denne verandaen!»",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlse9u",
+      "subreddit": "Jokes",
+      "title": "A hooker killed a guy on Christmas eve right out in public while singing Jingle Bells.",
+      "body": "It was a case of *one whore's open slay.*",
+      "score": 30,
+      "flair": null,
+      "nsfw": false,
+      "author": "The_Safe_For_Work",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tlse9u/a_hooker_killed_a_guy_on_christmas_eve_right_out/",
+      "createdUtc": 1779570859,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z"
+    },
+    {
+      "id": "1tm00d6",
+      "subreddit": "Jokes",
+      "title": "An intern starts his first day at a mental institution.",
+      "body": "When he comes across a patient, he asks \"who are you?\"\n\nThe patient responds \"I'm Napoleon\".\n\nNext, the intern asks \"how do you know?\"\n\nAnd the patient answers \"Jesus told me.\"\n\nThen another patient who'd been hanging around nearby suddenly turns to them and says \"no, I didn't.\"",
+      "score": 27,
+      "flair": null,
+      "nsfw": false,
+      "author": "NoAnt6694",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tm00d6/an_intern_starts_his_first_day_at_a_mental/",
+      "createdUtc": 1779591350,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "En praktikant begynner sin første dag på et psykiatrisk sykehus.",
+          "body": "Da han møter en pasient, spør han: «Hvem er du?»\n\nPasienten svarer: «Jeg er Napoleon.»\n\n«Hvordan vet du det?» spør praktikanten.\n\n«Jesus fortalte meg det,» svarer pasienten.\n\nEn annen pasient som har stått like ved, snur seg plutselig og sier: «Nei, det gjorde jeg ikke.»",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tleot6",
+      "subreddit": "cleanjokes",
+      "title": "The sweater my wife gave me was picking up static electricity, so I went to the store to change it...",
+      "body": "They gave me another one, free of charge.",
+      "score": 118,
+      "flair": null,
+      "nsfw": false,
+      "author": "808gecko808",
+      "permalink": "https://www.reddit.com/r/cleanjokes/comments/1tleot6/the_sweater_my_wife_gave_me_was_picking_up_static/",
+      "createdUtc": 1779537997,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "Genseren jeg fikk av kona ladet seg opp med statisk elektrisitet, så jeg dro til butikken for å bytte den...",
+          "body": "De ga meg en ny, helt uten ladning. [merknad: 'free of charge' betyr både 'gratis' og 'uten elektrisk ladning' på engelsk – 'ladning' beholder bare den elektriske betydningen på norsk]",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlli9x",
+      "subreddit": "cleanjokes",
+      "title": "My friend became a professional mirror cleaner",
+      "body": "I can really see him going places.",
+      "score": 59,
+      "flair": null,
+      "nsfw": false,
+      "author": "Jaw-droppingFunnel15",
+      "permalink": "https://www.reddit.com/r/cleanjokes/comments/1tlli9x/my_friend_became_a_professional_mirror_cleaner/",
+      "createdUtc": 1779554683,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "Vennen min ble profesjonell speilpusser.",
+          "body": "Jeg kan virkelig se ham gå langt.",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlnuwq",
+      "subreddit": "cleanjokes",
+      "title": "Can I help you, sir?",
+      "body": "“A blind man walks into a store with his seeing-eye dog, picks up the dog by the tail, and starts swinging it around over his head. A😃store clerk asks, ‘Can I help you,sir?’ The blind man says, ‘No thanks, I’m just having a look around.’”",
+      "score": 51,
+      "flair": null,
+      "nsfw": false,
+      "author": "DaveinBflo",
+      "permalink": "https://www.reddit.com/r/cleanjokes/comments/1tlnuwq/can_i_help_you_sir/",
+      "createdUtc": 1779560100,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "Kan jeg hjelpe deg?",
+          "body": "En blind mann går inn i en butikk med førerhunden sin, griper tak i hunden etter halen og begynner å svinge den rundt over hodet. En ekspeditør spør: «Kan jeg hjelpe deg?» Den blinde mannen svarer: «Nei takk, jeg bare kikker meg litt rundt.»",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlcqas",
+      "subreddit": "dadjokes",
+      "title": "My daughter said, “Daddy, I saw a deer on the way to school this morning.”",
+      "body": "I said, “That’s great, but how did you know it was on its way to school?”",
+      "score": 528,
+      "flair": null,
+      "nsfw": false,
+      "author": "oeco123",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tlcqas/my_daughter_said_daddy_i_saw_a_deer_on_the_way_to/",
+      "createdUtc": 1779531937,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "Datteren min sa: «Pappa, jeg så en hjort på vei til skolen i morges.»",
+          "body": "Jeg sa: «Det er fint – men hvordan visste du at den var på vei til skolen?»",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tliy91",
+      "subreddit": "dadjokes",
+      "title": "A man did not like his wife’s cat.",
+      "body": "One day, he put the cat in his car and took it to the end of the block and let it go. \n\nWhen he got home he saw that the cat had beat him home.\n\nUndeterred, he put the cat in the car and took it a few miles across the city and let it out of the car again. \n\nUpon returning home, he was astonished to see that the cat had beat him home again.\n\nDetermined at this point, the man took the cat and drove him across the city, over the river, through the woods, and clear across three counties before putting the cat outside and driving off.\n\nSeveral hours later the man’s wife was at home when the phone rang. She picked up and it was her husband.\n\n“Is the cat there?” He asked.\n\n“Yes…” she replied.\n\n“Well put him on the phone, I’m lost”",
+      "score": 294,
+      "flair": null,
+      "nsfw": false,
+      "author": "IEnjoyDadJokes",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tliy91/a_man_did_not_like_his_wifes_cat/",
+      "createdUtc": 1779548779,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "En mann likte ikke konas katt.",
+          "body": "En dag la han katten i bilen og kjørte til enden av gata og slapp den ut.\n\nDa han kom hjem, hadde katten slått ham hjem.\n\nUfortrøden la han katten i bilen igjen og kjørte den noen kilometer på kryss og tvers av byen og slapp den ut igjen.\n\nDa han kom hjem, var han forbløffet over å se at katten hadde slått ham hjem igjen.\n\nNå var han bestemt. Han tok katten med seg og kjørte over elven, gjennom skogen og tvers over tre kommuner før han satte katten ut og kjørte av gårde.\n\nNoen timer senere satt kona hjemme da telefonen ringte. Det var mannen hennes.\n\n«Er katten der?» spurte han.\n\n«Ja…» svarte hun.\n\n«Kan du gi ham telefonen? Jeg har kjørt meg vill.»",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tleheq",
+      "subreddit": "dadjokes",
+      "title": "When my dad walked in my room with some young guy wearing skinny jeans, eating avocado toast, I asked, “Who's this guy?” Pops grinned and said...",
+      "body": "\"This is my hip replacement!\"",
+      "score": 181,
+      "flair": null,
+      "nsfw": false,
+      "author": "808gecko808",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tleheq/when_my_dad_walked_in_my_room_with_some_young_guy/",
+      "createdUtc": 1779537445,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "Da pappa kom inn på rommet mitt med en ung fyr i smale jeans som spiste avokadotoast, spurte jeg: «Hvem er det?» Pappa smilte og sa...",
+          "body": "«Dette er hofteprotesen min!»",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlhpvf",
+      "subreddit": "dadjokes",
+      "title": "I drank holy water with laxatives",
+      "body": "I’m about to start a religious movement ",
+      "score": 153,
+      "flair": null,
+      "nsfw": false,
+      "author": "Healthy_Ladder_6198",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tlhpvf/i_drank_holy_water_with_laxatives/",
+      "createdUtc": 1779545858,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg drakk vievann med avføringsmiddel.",
+          "body": "Nå er jeg i ferd med å starte en religiøs bevegelse.",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlesrj",
+      "subreddit": "dadjokes",
+      "title": "I was rushing out the door to work when my kids came running downstairs yelling, ‘Dad, wait! Play with us!’ Then I noticed they’d drawn all over their faces with permanent marker. One had an ace of clubs, one was a nine of diamonds, one a queen of hearts, and my youngest had a jack of spades.",
+      "body": "I said, “I can’t believe you kids did this… I’ll deal with you later.” ",
+      "score": 146,
+      "flair": null,
+      "nsfw": false,
+      "author": "ilikesidehugs",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tlesrj/i_was_rushing_out_the_door_to_work_when_my_kids/",
+      "createdUtc": 1779538300,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg var på vei ut døren til jobb da ungene kom springende ned trappen og ropte: «Pappa, vent! Lek med oss!» Da la jeg merke til at de hadde tegnet over hele ansiktet med permanent tusj. En hadde et kløver ess, en hadde en ruter ni, en hadde en hjerter dame, og den minste hadde en spar knekt.",
+          "body": "Jeg sa: «Jeg kan ikke tro at dere gjør dette… Jeg deler ut det dere fortjener når jeg kommer hjem.»",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlmla5",
+      "subreddit": "dadjokes",
+      "title": "What are a kidnappers favourite type of shoes?",
+      "body": "White Vans.\n\nI’ll show myself out…",
+      "score": 120,
+      "flair": null,
+      "nsfw": false,
+      "author": "signedupsoicampost",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tlmla5/what_are_a_kidnappers_favourite_type_of_shoes/",
+      "createdUtc": 1779557189,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "Hva er kidnappernes favorittsko?",
+          "body": "Hvite Vans.\n\nJeg viser meg ut…",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tljmxw",
+      "subreddit": "dadjokes",
+      "title": "What do you call a bullet-proof Irish man?",
+      "body": "Rick O'Shea",
+      "score": 118,
+      "flair": null,
+      "nsfw": false,
+      "author": "Liquid_disc_of_shit",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tljmxw/what_do_you_call_a_bulletproof_irish_man/",
+      "createdUtc": 1779550375,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du en skuddsikker irer?",
+          "body": "Rick O'Shea. [merknad: uttales som 'rikosjett' – kulen spretter tilbake]",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlre4y",
+      "subreddit": "dadjokes",
+      "title": "What do you call an Irish alligator?",
+      "body": "Croc O'Doyle! ",
+      "score": 118,
+      "flair": null,
+      "nsfw": false,
+      "author": "xholdsteadyx",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tlre4y/what_do_you_call_an_irish_alligator/",
+      "createdUtc": 1779568393,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du en irsk alligator?",
+          "body": "Croc O'Doyle! [merknad: 'Croc O'Doyle' etterligner uttalen av 'crocodile' på engelsk]",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlu5cq",
+      "subreddit": "dadjokes",
+      "title": "What do you call a bull that’s sleeping?",
+      "body": "A bull dozer. ",
+      "score": 99,
+      "flair": null,
+      "nsfw": false,
+      "author": "Waffler11",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tlu5cq/what_do_you_call_a_bull_thats_sleeping/",
+      "createdUtc": 1779575256,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du en okse som sover?",
+          "body": "En bulldoser.",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlyjy1",
+      "subreddit": "dadjokes",
+      "title": "I’ve resorted to selling shaving kits to support my political campaign.",
+      "body": "Honestly, I’m getting tired of these fund razors.",
+      "score": 80,
+      "flair": null,
+      "nsfw": false,
+      "author": "Masselein",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tlyjy1/ive_resorted_to_selling_shaving_kits_to_support/",
+      "createdUtc": 1779587231,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z"
+    },
+    {
+      "id": "1tlfxme",
+      "subreddit": "dadjokes",
+      "title": "A father asks his daughter: What did you learn in school today?",
+      "body": "She says: “Well, we learned about gravity, math, and history.”\n\nThe father smiles. “That’s great! Can you explain gravity?”\n\nThe girl says: “Sure! It’s the reason you can’t fall off the Earth.”\n\nThe father nods. “Very good.”\n\nThen he asks: “What about math?”\n\nShe replies: “That’s easy. It’s the reason you can’t fall asleep in class.”",
+      "score": 46,
+      "flair": null,
+      "nsfw": false,
+      "author": "lnc_gomes",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tlfxme/a_father_asks_his_daughter_what_did_you_learn_in/",
+      "createdUtc": 1779541394,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "En far spør datteren sin: Hva lærte du på skolen i dag?",
+          "body": "Hun sier: «Vi lærte om tyngdekraft, matte og historie.»\n\nFaren smiler. «Flott! Kan du forklare tyngdekraften?»\n\nJenta sier: «Klart! Det er grunnen til at man ikke kan falle av jordkloden.»\n\nFaren nikker. «Veldig bra.»\n\nSå spør han: «Hva med matte?»\n\nHun svarer: «Det er enkelt. Det er grunnen til at man ikke kan sovne i timen.»",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlmk66",
+      "subreddit": "dadjokes",
+      "title": "I just crumpled up every piece of comedy I ever put on paper, and threw it at my wife",
+      "body": "All my jokes went over her head ",
+      "score": 43,
+      "flair": null,
+      "nsfw": false,
+      "author": "alanmitch34",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tlmk66/i_just_crumpled_up_every_piece_of_comedy_i_ever/",
+      "createdUtc": 1779557117,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg knuste hvert eneste vitseark og kastet dem på kona mi.",
+          "body": "Alle vitsene mine gikk over hodet hennes.",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlij05",
+      "subreddit": "dadjokes",
+      "title": "Why do ducks have tail feathers?",
+      "body": "To cover their butt quacks",
+      "score": 38,
+      "flair": null,
+      "nsfw": false,
+      "author": "vanya_vex",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tlij05/why_do_ducks_have_tail_feathers/",
+      "createdUtc": 1779547782,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "Hvorfor har ender halefjær?",
+          "body": "For å dekke over rumpekvakkene sine. [merknad: «rumpekvakk» er et ordspill på «kvakk» (lyden ender lager) og «rumpesprekk» (bak-sprekk)]",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlil6g",
+      "subreddit": "dadjokes",
+      "title": "If a seagull flies over the sea, what flies over the bay?",
+      "body": "A bagel!",
+      "score": 25,
+      "flair": null,
+      "nsfw": false,
+      "author": "monorico",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tlil6g/if_a_seagull_flies_over_the_sea_what_flies_over/",
+      "createdUtc": 1779547921,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z"
+    },
+    {
+      "id": "1tleklc",
+      "subreddit": "3amjokes",
+      "title": "“Doctor, help me please! I just ate one of those, ‘Do not Eat’ silica packets. Am I going to die?!” He explained, \"Well, everyone is going to die eventually.\"",
+      "body": "I shouted, \"Everyone!? Dear god, what have I done?\"",
+      "score": 284,
+      "flair": null,
+      "nsfw": false,
+      "author": "808gecko808",
+      "permalink": "https://www.reddit.com/r/3amjokes/comments/1tleklc/doctor_help_me_please_i_just_ate_one_of_those_do/",
+      "createdUtc": 1779537675,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "«Doktor, hjelp meg! Jeg spiste akkurat en av de silikaposene med 'Skal ikke spises'. Kommer jeg til å dø?!» Han svarte: «Vel, alle skal dø en dag.»",
+          "body": "Jeg ropte: «Alle!? Herregud, hva har jeg gjort?»",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlw8kh",
+      "subreddit": "3amjokes",
+      "title": "A guy has sex with a prostitute for $5",
+      "body": "The next day he comes back, \"I had sex with you, and now I have crabs.\"\n\nThe prostitute says, \"For $5, what did you expect, lobster?\"",
+      "score": 101,
+      "flair": null,
+      "nsfw": false,
+      "author": "TypicalCherry1529",
+      "permalink": "https://www.reddit.com/r/3amjokes/comments/1tlw8kh/a_guy_has_sex_with_a_prostitute_for_5/",
+      "createdUtc": 1779580810,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "En mann har sex med en prostituert for 50 kroner.",
+          "body": "Dagen etter kommer han tilbake: «Jeg hadde sex med deg, og nå har jeg fått krabbe.»\n\nDen prostituerte sier: «For 50 kroner, hva forventet du – hummer?»",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlkpo6",
+      "subreddit": "3amjokes",
+      "title": "I told myself I’ve got to stop smoking so much weed.",
+      "body": "But I’m not gonna listen to some pothead who talks to himself.",
+      "score": 52,
+      "flair": null,
+      "nsfw": false,
+      "author": "abbyola",
+      "permalink": "https://www.reddit.com/r/3amjokes/comments/1tlkpo6/i_told_myself_ive_got_to_stop_smoking_so_much_weed/",
+      "createdUtc": 1779552877,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg sa til meg selv at jeg må slutte å røyke så mye hasj.",
+          "body": "Men jeg gidder ikke lytte til en hasjrøyker som snakker med seg selv.",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlhhup",
+      "subreddit": "3amjokes",
+      "title": "My son got suspended from school for imitating a chicken.",
+      "body": "When asked, the principal said he was using fowl language.",
+      "score": 27,
+      "flair": null,
+      "nsfw": false,
+      "author": "StrawberryInTheBay",
+      "permalink": "https://www.reddit.com/r/3amjokes/comments/1tlhhup/my_son_got_suspended_from_school_for_imitating_a/",
+      "createdUtc": 1779545316,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "Sønnen min ble utvist fra skolen for å herme etter en høne.",
+          "body": "Da de spurte, sa rektor at han brukte fuglespråk. [merknad: ordspillet er på engelsk «fowl language» (fuglespråk) og «foul language» (banning)]",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlu3y8",
+      "subreddit": "puns",
+      "title": "You gotta hand it to blind prostitutes...",
+      "body": "",
+      "score": 931,
+      "flair": null,
+      "nsfw": true,
+      "author": "dtarias",
+      "permalink": "https://www.reddit.com/r/puns/comments/1tlu3y8/you_gotta_hand_it_to_blind_prostitutes/",
+      "createdUtc": 1779575154,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "Man er bare nødt til å gi blinde prostituerte noe i hånden...",
+          "body": "",
+          "at": "2026-05-24T07:00:25.597Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tlljwh",
+      "subreddit": "Unclejokes",
+      "title": "My wife told me to stop making everything about food",
+      "body": "I said that’s a serious accusation and I need time to digest it.",
+      "score": 47,
+      "flair": null,
+      "nsfw": false,
+      "author": "Jaw-droppingFunnel15",
+      "permalink": "https://www.reddit.com/r/Unclejokes/comments/1tlljwh/my_wife_told_me_to_stop_making_everything_about/",
+      "createdUtc": 1779554786,
+      "firstSeen": "2026-05-24T07:00:03.276Z",
+      "lastSeen": "2026-05-24T07:00:03.276Z",
+      "localized": {
+        "nb": {
+          "title": "Kona mi ba meg slutte å gjøre alt om til mat.",
+          "body": "Jeg sa det er en alvorlig anklage, og at jeg trenger tid til å fordøye den.",
+          "at": "2026-05-24T07:00:25.597Z",
           "model": "sonnet"
         }
       }
