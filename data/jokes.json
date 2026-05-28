@@ -1,6 +1,6 @@
 {
-  "lastFetched": "2026-05-27T07:00:03.181Z",
-  "count": 716,
+  "lastFetched": "2026-05-28T07:00:03.355Z",
+  "count": 761,
   "jokes": [
     {
       "id": "1tc80lh",
@@ -2170,7 +2170,15 @@
       "permalink": "https://www.reddit.com/r/cleanjokes/comments/1ncfto7/a_weasel_walks_into_a_bar_the_bartender_says_wow/",
       "createdUtc": 1757415788,
       "firstSeen": "2026-05-15T19:04:28.066Z",
-      "lastSeen": "2026-05-15T19:04:28.066Z"
+      "lastSeen": "2026-05-15T19:04:28.066Z",
+      "localized": {
+        "nb": {
+          "title": "En røyskatt går inn på en bar. Bartenderen sier: «Wow, jeg har aldri servert en røyskatt før. Hva kan jeg by deg på?»",
+          "body": "«Pop!» sier røyskatten. [merknad: spiller på den engelske barnereglene «Pop! Goes the Weasel» og det engelske slanguttrykket «pop» for brus/leskedrikk]",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1sxz8rl",
@@ -9954,7 +9962,15 @@
       "permalink": "https://www.reddit.com/r/dadjokes/comments/1tjymg8/why_did_the_cowboy_buy_a_dachshund/",
       "createdUtc": 1779399110,
       "firstSeen": "2026-05-22T07:00:03.026Z",
-      "lastSeen": "2026-05-22T07:00:03.026Z"
+      "lastSeen": "2026-05-22T07:00:03.026Z",
+      "localized": {
+        "nb": {
+          "title": "Hvorfor kjøpte cowboyen en dachshund?",
+          "body": "Han ville ha seg en lang liten dogge. [merknad: spiller på cowboysangen «Git Along, Little Dogies» og på at dachshunden er kjent for sin lange kropp]",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tk0rbt",
@@ -11454,7 +11470,15 @@
       "permalink": "https://www.reddit.com/r/puns/comments/1tkm6k1/house_md_he_never_knew_what_hit_him/",
       "createdUtc": 1779463368,
       "firstSeen": "2026-05-23T07:00:03.367Z",
-      "lastSeen": "2026-05-23T07:00:03.367Z"
+      "lastSeen": "2026-05-23T07:00:03.367Z",
+      "localized": {
+        "nb": {
+          "title": "House MD: Han skjønte aldri hva som traff ham",
+          "body": "Original ordspill, så vidt jeg vet. Avvist åpningsscene for House MD.\n\n# Scene\n\nEn pasient bæres inn til akuttmottaket der Dr. House henger ved sykepleierstasjonen.\n\n«*Hva skjedde med ham?*» spurte Dr. House\n«*Han ble truffet av en huge lorry,*» svarte noen\n«*En huge lorry, sier du ...*» gjentok House ettertenksomt. [merknad: «huge lorry» (stor lastebil) uttales tilnærmet likt «Hugh Laurie», skuespilleren som spiller Dr. House]\n\nog resten av episoden der ingen nevner dette ordspillet.",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tknbyq",
@@ -12974,7 +12998,15 @@
       "permalink": "https://www.reddit.com/r/dadjokes/comments/1tm8khr/my_wife_shouted_theres_a_grizzly_in_our_kitchen/",
       "createdUtc": 1779618829,
       "firstSeen": "2026-05-25T07:00:02.949Z",
-      "lastSeen": "2026-05-25T07:00:02.949Z"
+      "lastSeen": "2026-05-25T07:00:02.949Z",
+      "localized": {
+        "nb": {
+          "title": "Kona mi ropte: «Det er en grizzly på kjøkkenet! Hvordan kom den inn?» Jeg forklarte: «Kjære, det er en lang historie du nok ikke tror på, men...»",
+          "body": "«Bjørn er med meg...»",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tmn4q6",
@@ -13032,7 +13064,15 @@
       "permalink": "https://www.reddit.com/r/dadjokes/comments/1tm9lqs/why_did_the_insomniac_get_sent_to_jail/",
       "createdUtc": 1779622099,
       "firstSeen": "2026-05-25T07:00:02.949Z",
-      "lastSeen": "2026-05-25T07:00:02.949Z"
+      "lastSeen": "2026-05-25T07:00:02.949Z",
+      "localized": {
+        "nb": {
+          "title": "Hvorfor ble søvnløsen sendt i fengsel?",
+          "body": "Han nektet å hvile seg. [merknad: ordspillet er på engelsk mellom «resisting arrest» og «resisting a rest»]",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tmbqu2",
@@ -13940,7 +13980,15 @@
       "permalink": "https://www.reddit.com/r/dadjokes/comments/1tnspbk/8_bees_can_kill_you_but_if_you_add_1_more_bee_you/",
       "createdUtc": 1779760216,
       "firstSeen": "2026-05-26T07:00:02.895Z",
-      "lastSeen": "2026-05-26T07:00:02.895Z"
+      "lastSeen": "2026-05-26T07:00:02.895Z",
+      "localized": {
+        "nb": {
+          "title": "8 bier kan drepe deg, men legger du til én til, er du trygg.",
+          "body": "Fordi da er det B-9. [merknad: «B9» uttales «be ni» og ligner på det medisinske «benign» – godartet]",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tn54ya",
@@ -14166,7 +14214,15 @@
       "permalink": "https://www.reddit.com/r/dadjokes/comments/1tn5qjt/what_do_you_call_an_angry_triangle/",
       "createdUtc": 1779706779,
       "firstSeen": "2026-05-26T07:00:02.895Z",
-      "lastSeen": "2026-05-26T07:00:02.895Z"
+      "lastSeen": "2026-05-26T07:00:02.895Z",
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du en sint trekant?",
+          "body": "Et pyramarg!",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tnfjyp",
@@ -14752,7 +14808,15 @@
       "permalink": "https://www.reddit.com/r/Jokes/comments/1to25s5/i_was_going_to_cook_alligator_for_dinner/",
       "createdUtc": 1779789038,
       "firstSeen": "2026-05-27T07:00:03.181Z",
-      "lastSeen": "2026-05-27T07:00:03.181Z"
+      "lastSeen": "2026-05-27T07:00:03.181Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg hadde tenkt å lage alligator til middag...",
+          "body": "Men så innså jeg at jeg bare har en croc-pot.",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1touecx",
@@ -15080,7 +15144,15 @@
       "permalink": "https://www.reddit.com/r/dadjokes/comments/1to94wg/what_did_the_football_player_say_to_the_flight/",
       "createdUtc": 1779806763,
       "firstSeen": "2026-05-27T07:00:03.181Z",
-      "lastSeen": "2026-05-27T07:00:03.181Z"
+      "lastSeen": "2026-05-27T07:00:03.181Z",
+      "localized": {
+        "nb": {
+          "title": "Hva sa fotballspilleren til kabinpersonalet?",
+          "body": "«Sett meg i coach!»",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1to5a7x",
@@ -15196,7 +15268,15 @@
       "permalink": "https://www.reddit.com/r/dadjokes/comments/1to25d5/i_was_going_to_cook_alligator_for_dinner/",
       "createdUtc": 1779788996,
       "firstSeen": "2026-05-27T07:00:03.181Z",
-      "lastSeen": "2026-05-27T07:00:03.181Z"
+      "lastSeen": "2026-05-27T07:00:03.181Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg hadde tenkt å lage alligator til middag...",
+          "body": "Men så innså jeg at jeg bare har en krokpotte.",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tomb57",
@@ -15458,7 +15538,15 @@
       "permalink": "https://www.reddit.com/r/3amjokes/comments/1torjtx/what_does_the_gingerbread_woman_say_at_the_moment/",
       "createdUtc": 1779847194,
       "firstSeen": "2026-05-27T07:00:03.181Z",
-      "lastSeen": "2026-05-27T07:00:03.181Z"
+      "lastSeen": "2026-05-27T07:00:03.181Z",
+      "localized": {
+        "nb": {
+          "title": "Hva sier pepperkakekvinnen i klimaksøyeblikket?",
+          "body": "Smuldre over meg, pappa! [merknad: ordspillet er at «crumb» (smule) lyder som «come» (komme/orgasme) på engelsk]",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1to8xq9",
@@ -15478,6 +15566,916 @@
           "title": "En jente prøvde noen shorts og spurte kjæresten: 'Ser rumpa mi stor ut i disse?' Kjæresten stammet: 'Ehhmm, joooa, altså...'",
           "body": "Kjæresten sa: 'Hør her. Vi har vært sammen så lenge. Du kan si hva som helst til meg uten at jeg blir sur – jeg sverger på alt jeg eier, og du kan få hele sparekontoen min om jeg reagerer. Bare vær ærlig med meg.' 'Ok,' sa kjæresten. 'Jeg har knullet søsteren din.'",
           "at": "2026-05-27T07:00:15.675Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tpf1mz",
+      "subreddit": "Jokes",
+      "title": "So that this woman that’s feeling really depressed",
+      "body": "So there’s this woman that’s feeling really depressed, so she decides to end it all.\n\nShe walks down to the end of a pier and is about to jump in the ocean, when a sailor sees her.\n\n\"Hey, what are you doing?\" the sailor calls out.\n\n\"I have nothing to live for,\" the woman says. \"I’m going to jump in the ocean and drown myself.\"\n\n\"Wait, wait, wait!\" the sailor exclaims. \"I can’t let you do that. Have you ever been to Paris?\"\n\n\"No,\" the woman replies.\n\n\"Listen, we’re leaving tonight. I’ll take you to Paris and take you around, show you a good time. When we come back, you can do what you want, but maybe you’ll enjoy the next few weeks. Come with me to Paris, you have nothing to lose.\"\n\nThe woman thinks for a minute. \"OK, but what’s in it for you?\"\n\n\"Well, if I’m going to sneak you this boat, you gotta put out for me. I’ll hide you on one of the lifeboats, I’ll bring you three meals a day, and every night we have wild sex.\"\n\nThe woman figures that she has nothing to lose, so she agrees to go to Paris in exchange for nightly sex.\n\nAfter about 2 weeks, the captain discovers the woman stowed away under the tarp in one of the lifeboats.\n\n\"What are you doing here?\" the captain asks.\n\n\"Well, one of your crew is hiding me here to bring me to Paris. And exchange . . . well . . . he’s been fucking me.\"\n\n\"He’s been fucking you? He sure has. This is the Staten Island Ferry.\"",
+      "score": 1404,
+      "flair": "Long",
+      "nsfw": true,
+      "author": "External_Structure33",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tpf1mz/so_that_this_woman_thats_feeling_really_depressed/",
+      "createdUtc": 1779908247,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Det var engang en forferdelig deprimert kvinne",
+          "body": "Det var engang en forferdelig deprimert kvinne, og hun bestemte seg for å gjøre slutt på det hele.\n\nHun gikk ned til enden av en brygge og var i ferd med å hoppe i havet da en matros fikk øye på henne.\n\n«Hei, hva holder du på med?» ropte matrosen.\n\n«Jeg har ingenting å leve for,» sa kvinnen. «Jeg skal hoppe i havet og drukne meg.»\n\n«Vent, vent, vent!» utbrøt matrosen. «Det kan jeg ikke la deg gjøre. Har du noen gang vært i Paris?»\n\n«Nei,» svarte kvinnen.\n\n«Hør her, vi legger fra kai i kveld. Jeg tar deg med til Paris og viser deg en god tid. Når vi kommer tilbake kan du gjøre hva du vil, men kanskje de neste ukene vil glede deg. Bli med meg til Paris – du har ingenting å tape.»\n\nKvinnen tenkte seg om et øyeblikk. «Greit, men hva får du ut av det?»\n\n«Vel, hvis jeg skal smugle deg om bord, må du legge deg flat for meg. Jeg gjemmer deg i en av livbåtene, bringer deg tre måltider om dagen, og hver natt har vi vill sex.»\n\nKvinnen tenkte at hun ikke hadde noe å tape, og gikk med på å dra til Paris mot sex hver kveld.\n\nEtter omtrent to uker oppdaget kapteinen kvinnen som lå gjemt under presenningen i en av livbåtene.\n\n«Hva gjør du her?» spurte kapteinen.\n\n«Jo, en av mannskapet ditt gjemmer meg her for å ta meg med til Paris. Og til gjengjeld... vel... han har knullet meg.»\n\n«Knullet deg? Det stemmer nok! Dette er Staten Island-ferja.»",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tp4ual",
+      "subreddit": "Jokes",
+      "title": "Surgery",
+      "body": "An American tourist went on a trip to China. While there he was very sexually promiscuous and didn't use a condom all the time.\n\nA week after arriving back home in the States he woke one morning to find his tool covered with bright green and purple freckles. Horrified, he immediately went\n\n to see a doctor.\n\nThe doctor, never having seen anything like it, orders some tests and told  the man to return in two days. The man returned a couple of days later and the doctor said, \"I've got bad news for you. You've contracted Mongolian VD. It's very rare and almost unheard of here. We know very little about it\".\n\nThe man looked perplexed and said, \"Well, give me a shot or something and fix me up, doc\". The doctor answered, \"I'm sorry, there's no known cure. We're going to have to amputate your penis.\"\n\nThe man screamed,  \"Absolutely not! I want a second opinion!\"\n\nThe doctor replied,  \"Well, it's your choice. Go ahead if you want but surgery is your only choice.\"\n\nThe next day  the man found  a Chinese doctor, figuring he'll know more about the disease. The Chinese doctor examined his tool and proclaimed,  \"Ah yes, Mongolian VD. Very rare disease.\"\n\nThe guy said to the doctor, \"Yeah yeah, I already know that but what we can do? My American doctor wants to operate and amputate my tool.\"\n\nThe Chinese doctor shook his head and laughed. \"Stupid American doctors, always want to operate. They make more money that way. No need to operate!\"\n\n\"Oh Thank God!\" the man replied.\n\n\"Yes\" said the Chinese doctor. \"You no worry! Wait two weeks. Dick fall off by itself! You save money.\"",
+      "score": 927,
+      "flair": "Long",
+      "nsfw": true,
+      "author": "xerxes_dandy",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tp4ual/surgery/",
+      "createdUtc": 1779886753,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Operasjon",
+          "body": "En amerikansk turist dro på tur til Kina. Der levde han veldig seksuelt løssluppen og brukte ikke alltid kondom.\n\nEn uke etter at han kom hjem, våknet han en morgen og fant at tissen var dekket av knallgrønne og lilla flekker. Sjokkert dro han umiddelbart til legen.\n\nLegen, som aldri hadde sett noe lignende, bestilte en rekke prøver og ba mannen komme tilbake om to dager. Mannen kom tilbake, og legen sa: «Jeg har dårlige nyheter. Du har fått mongolsk kjønnssykdom. Den er svært sjelden og nesten uhørt her hjemme. Vi vet lite om den.»\n\nMannen så forvirret ut og sa: «Vel, gi meg en sprøyte eller noe og fikse meg, da, doktor.»\n\nLegen svarte: «Jeg er redd det ikke finnes noen kjent kur. Vi er nødt til å amputere penis.»\n\nMannen skalv: «Absolutt ikke! Jeg vil ha en second opinion!»\n\nLegen repliserte: «Det er ditt valg. Men operasjon er eneste utvei.»\n\nNeste dag oppsøkte mannen en kinesisk lege, i tanken om at han visste mer om sykdommen. Den kinesiske legen undersøkte ham og erklærte: «Ah ja, mongolsk kjønnssykdom. Veldig sjelden sykdom.»\n\nMannen sa: «Ja ja, det vet jeg allerede – men hva kan vi gjøre? Den amerikanske legen min vil amputere.»\n\nDen kinesiske legen ristet på hodet og lo. «Dumme amerikanere, alltid operere. Tjene mer penger slik. Ikke nødvendig!»\n\n«Å, Gud skje lov!» svarte mannen.\n\n«Ja,» sa den kinesiske legen. «Du ikke bekymre deg! Vente to uker. Pikken faller av av seg selv! Du spare penger.»",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tp2wmr",
+      "subreddit": "Jokes",
+      "title": "A guy is late for an important job interview and can't find a parking space.",
+      "body": "He looks up to the heavens and says, \"Lord, if you give me a place to park, I promise to put $100 in the collection plate next Sunday!\"\n\nAll at once the clouds part and a beam of sunlight falls upon an empty space.\n\nThe guy glances heavenward again. \"Never mind, I found one!\"",
+      "score": 458,
+      "flair": null,
+      "nsfw": false,
+      "author": "President_Calhoun",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tp2wmr/a_guy_is_late_for_an_important_job_interview_and/",
+      "createdUtc": 1779881802,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "En mann er sent ute til et viktig jobbintervju og finner ikke parkeringsplass.",
+          "body": "Han ser opp mot himmelen og sier: «Herre, hvis du gir meg en parkeringsplass, lover jeg å legge hundre kroner i kollekten neste søndag!»\n\nPlutselig åpner skyene seg og en solstråle faller over en ledig plass.\n\nMannen ser opp igjen. «Glem det, jeg fant en!»",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tpjzja",
+      "subreddit": "Jokes",
+      "title": "It took a while to convince my wife to get a strap-on.",
+      "body": "Now she’s behind me.",
+      "score": 385,
+      "flair": null,
+      "nsfw": true,
+      "author": "StarsBear75063",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tpjzja/it_took_a_while_to_convince_my_wife_to_get_a/",
+      "createdUtc": 1779918971,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Det tok en stund å overbevise kona mi om å kjøpe en strap-on.",
+          "body": "Nå er hun bak meg.",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tp0nqv",
+      "subreddit": "Jokes",
+      "title": "A man is crawling through the desert, dying of thirst...",
+      "body": "The desert is blazing hot, and he's desperate for water. He comes upon a traveling merchant. He crawls up to the merchant and says \"water, please! Water! Water!\"\n\nThe merchant says \"I don't have any. I'm a tie salesman. Would you like to buy a tie?\" The guy replies \"No! I need water! I'm so thirsty! Water!\"\n\nThe merchant says \"Well I told you I don't have any. But go west about 10 miles or so, and there is a small inn where you can get water.\" The guy crawls off. A couple of days go by, and the guy comes crawling back to the merchant. He looks even worse than before. \n\nThe merchant asks \"what's wrong? Didn't they give you water at the inn?\"\n\nThe guy replies \"they wouldn't let me in without a tie.\"",
+      "score": 376,
+      "flair": "Long",
+      "nsfw": false,
+      "author": "IEnjoyDadJokes",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tp0nqv/a_man_is_crawling_through_the_desert_dying_of/",
+      "createdUtc": 1779874892,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "En mann krabber gjennom ørkenen og holder på å dø av tørst...",
+          "body": "Ørkenen er brennende het, og han er desperat etter vann. Han støter på en omreisende handelsmann. Han krabber bort til ham og sier: «Vann, for svarte! Vann! Vann!»\n\nHandelsmannen sier: «Det har jeg ikke. Jeg selger slips. Vil du kjøpe et slips?» Mannen svarer: «Nei! Jeg trenger vann! Jeg er så tørst! Vann!»\n\nHandelsmannen sier: «Som sagt har jeg ikke noe vann. Men gå mot vest, omtrent ti kilometer, så er det et lite vertshus der du kan få vann.» Mannen krabber av gårde. Et par dager senere kommer han krabbe tilbake til handelsmannen. Han ser enda verre ut enn før.\n\nHandelsmannen spør: «Hva er galt? Fikk du ikke vann på vertshuset?»\n\nMannen svarer: «De slapp meg ikke inn uten slips.»",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tp3nr1",
+      "subreddit": "Jokes",
+      "title": "My husband fell asleep in the garden yesterday and got badly sunburned",
+      "body": "It was so painful, and he said he'd never sleep, so I gave him Viagra.\n\nIt's done nothing for the sunburn but is doing a great job of keeping the sheets off his legs. ",
+      "score": 375,
+      "flair": null,
+      "nsfw": false,
+      "author": "Hot-Course8914",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tp3nr1/my_husband_fell_asleep_in_the_garden_yesterday/",
+      "createdUtc": 1779883804,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Mannen min sovnet i hagen i går og fikk stygg solbrenthet",
+          "body": "Det var så vondt, og han sa han ikke klarte å sove, så jeg ga ham Viagra.\n\nDet hjelper ikke det minste på solbrentheten, men gjør en fantastisk jobb med å holde lakenet borte fra beina hans.",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tp5hrn",
+      "subreddit": "Jokes",
+      "title": "My wife bought herself a Rampant Rabbit.",
+      "body": "I wouldn't say it was her absolute favorite sex toy but it's certainly up there.",
+      "score": 223,
+      "flair": null,
+      "nsfw": true,
+      "author": "StarsBear75063",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tp5hrn/my_wife_bought_herself_a_rampant_rabbit/",
+      "createdUtc": 1779888250,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Kona mi kjøpte seg en Rampant Rabbit.",
+          "body": "Jeg vil ikke si det er hennes absolutte favorittsextoy, men det er i alle fall høyt oppe.",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tpm4bs",
+      "subreddit": "Jokes",
+      "title": "What do you call a cult that’s hard to get into?",
+      "body": "Difficult ",
+      "score": 181,
+      "flair": null,
+      "nsfw": false,
+      "author": "lisle91",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tpm4bs/what_do_you_call_a_cult_thats_hard_to_get_into/",
+      "createdUtc": 1779924056,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du en kult det er vanskelig å bli med i?",
+          "body": "Diffikult.",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tp29du",
+      "subreddit": "Jokes",
+      "title": "An elderly man asks his wife when she knew she loved him.",
+      "body": "She answers.   \n  \n\"That week we spent in Tuscany. You insisted on fixing things around the villa even though we both knew it wasn't your responsibly. You didn't complain once and you still found time to take me out every night even if you were exhausted.\"   \n  \n He takes a moment to consider before asking.\n\n\"Our 20th anniversary?\" ",
+      "score": 174,
+      "flair": null,
+      "nsfw": false,
+      "author": "Vesurel",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tp29du/an_elderly_man_asks_his_wife_when_she_knew_she/",
+      "createdUtc": 1779879927,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "En gammel mann spør kona si når hun innså at hun elsket ham.",
+          "body": "Hun svarer:\n\n«Den uken vi tilbrakte i Toscana. Du insisterte på å fikse ting rundt villaen, selv om vi begge visste at det ikke var ditt ansvar. Du klaget ikke én gang, og fant likevel tid til å ta meg ut hver kveld, selv om du var utslitt.»\n\nHan tar seg et øyeblikk til å tenke, og spør:\n\n«Vår 20-årsdag?»",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1toyc89",
+      "subreddit": "Jokes",
+      "title": "Robert De Niro was getting in to costume on the set of The Deer Hunter.",
+      "body": "Everything was going fine until he got to his boots, for some reason he just couldn't get them to fit right.\n\nHe flagged down the costume manager and told her the problem. She picked up the boots, looked at them, then told him \"of course they don't fit, these boots are made for Walken\".",
+      "score": 100,
+      "flair": null,
+      "nsfw": false,
+      "author": "6ftCastle",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1toyc89/robert_de_niro_was_getting_in_to_costume_on_the/",
+      "createdUtc": 1779866988,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Robert De Niro var i kostyme på settet til The Deer Hunter.",
+          "body": "Alt gikk fint inntil han kom til støvlene – av en eller annen grunn fikk han dem ikke til å sitte riktig.\n\nHan vinket til seg kostymesjefen og fortalte om problemet. Hun tok opp støvlene, så på dem, og sa: «Ikke rart de ikke passer – disse støvlene er laget for Walken.»",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tpie3n",
+      "subreddit": "Jokes",
+      "title": "North Korean kimchi",
+      "body": "A man in North Korea wants to buy some kimchi so he goes out and gets in line. Three days, and when he finally gets to the front, he says I’d like to buy some kimchi. The shop owner looks at him with a quizzical face and says: “Oh my God you’re in the wrong line… we’re out of shoes. The store next door is out of Kimchi. NEXT!” ",
+      "score": 97,
+      "flair": null,
+      "nsfw": false,
+      "author": "Ikonixed",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tpie3n/north_korean_kimchi/",
+      "createdUtc": 1779915395,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Nordkoreansk kimchi",
+          "body": "En mann i Nord-Korea vil kjøpe kimchi, så han går ut og setter seg i kø. Tre dager senere er han endelig fremme og sier: «Jeg vil gjerne kjøpe litt kimchi.» Butikkinnehaveren ser på ham med et forbauset ansikt og sier: «Herre Gud, du har stått i feil kø... vi har ikke sko igjen. Det er butikken ved siden av som ikke har kimchi. NESTE!»",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tpn3vu",
+      "subreddit": "Jokes",
+      "title": "Does anyone know how to turn off a carbon monoxide detector?",
+      "body": "It's been going off for the last 5 minutes and it's starting to give me a headache.",
+      "score": 91,
+      "flair": null,
+      "nsfw": false,
+      "author": "stonetemplefox",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tpn3vu/does_anyone_know_how_to_turn_off_a_carbon/",
+      "createdUtc": 1779926522,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Vet noen hvordan man slår av en karbonmonoksidvarsler?",
+          "body": "Den har gått av de siste 5 minuttene og begynner å gi meg hodepine.",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tpe79v",
+      "subreddit": "Jokes",
+      "title": "I wrote a musical about pasta, but it's not getting much traction...",
+      "body": "Might have to rig a Tony",
+      "score": 51,
+      "flair": null,
+      "nsfw": false,
+      "author": "IDrinkMyOwnSemen",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tpe79v/i_wrote_a_musical_about_pasta_but_its_not_getting/",
+      "createdUtc": 1779906496,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg skrev en musikal om pasta, men den får ikke noe gjennomslag...",
+          "body": "Kanskje jeg må jukse meg til en Tony.",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tptrfb",
+      "subreddit": "Jokes",
+      "title": "A guy tells his buddy, \"I went to that new paraplegic strip club yesterday.\"",
+      "body": "\"How was it?\" his buddy asks.\n\nAnd the guy says, \"It was awesome. The place was crawling with pussy.\"",
+      "score": 52,
+      "flair": null,
+      "nsfw": false,
+      "author": "Jokeminder42",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tptrfb/a_guy_tells_his_buddy_i_went_to_that_new/",
+      "createdUtc": 1779944727,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "En fyr forteller kompisen sin: «Jeg var på den nye strippeklubben for lammede i går.»",
+          "body": "«Hvordan var det?» spør kompisen.\n\n«Fantastisk. Stedet krydde av fitte.»",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tpgy56",
+      "subreddit": "Jokes",
+      "title": "I started a Glen Campbell fan club.",
+      "body": "And now I'm getting cards and letters from people I don't even know!",
+      "score": 45,
+      "flair": null,
+      "nsfw": false,
+      "author": "Gil-Gandel",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tpgy56/i_started_a_glen_campbell_fan_club/",
+      "createdUtc": 1779912257,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg startet en Glen Campbell-fanklubb.",
+          "body": "Nå får jeg kort og brev fra folk jeg ikke engang kjenner!",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tpiovj",
+      "subreddit": "Jokes",
+      "title": "Picking A Date",
+      "body": "Woman Speaking to Fiance:  Have you picked a date for our wedding?\n\nFiance Looking Confused:  I assumed I would be going with you...",
+      "score": 45,
+      "flair": null,
+      "nsfw": false,
+      "author": "dssorg4",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tpiovj/picking_a_date/",
+      "createdUtc": 1779916052,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z"
+    },
+    {
+      "id": "1tpjwb2",
+      "subreddit": "Jokes",
+      "title": "Johns Hopkins University has recently begun a study on cannibalism.",
+      "body": "The head researcher was about to publish his findings but was consumed by his work.",
+      "score": 28,
+      "flair": null,
+      "nsfw": false,
+      "author": "Cleopatra_bones",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tpjwb2/johns_hopkins_university_has_recently_begun_a/",
+      "createdUtc": 1779918773,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Johns Hopkins University har nylig startet en studie om kannibalisme.",
+          "body": "Sjefforskeren var i ferd med å publisere funnene sine, men ble oppslukt av arbeidet.",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tpre1w",
+      "subreddit": "Jokes",
+      "title": "What do you call a nun in a wheelchair?",
+      "body": "Virgin mobile ",
+      "score": 31,
+      "flair": null,
+      "nsfw": false,
+      "author": "AdoreDL",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tpre1w/what_do_you_call_a_nun_in_a_wheelchair/",
+      "createdUtc": 1779937887,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du en nonne i rullestol?",
+          "body": "Virgin Mobile.",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tp1nw1",
+      "subreddit": "Jokes",
+      "title": "In spite of all our disagreements on Jokes, I’m glad about one thing. Every one reading this...",
+      "body": "...is on the same page.",
+      "score": 27,
+      "flair": null,
+      "nsfw": false,
+      "author": "808gecko808",
+      "permalink": "https://www.reddit.com/r/Jokes/comments/1tp1nw1/in_spite_of_all_our_disagreements_on_jokes_im/",
+      "createdUtc": 1779878088,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Til tross for alle uenighetene våre her på Jokes, er jeg glad for én ting. Alle som leser dette...",
+          "body": "...er på samme side.",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tp1tge",
+      "subreddit": "cleanjokes",
+      "title": "My dad always said, “Find a girl with an embarrassing tattoo to marry you.”",
+      "body": "\n\n“She knows how to make a bad decision and stand by it!\"",
+      "score": 371,
+      "flair": null,
+      "nsfw": false,
+      "author": "808gecko808",
+      "permalink": "https://www.reddit.com/r/cleanjokes/comments/1tp1tge/my_dad_always_said_find_a_girl_with_an/",
+      "createdUtc": 1779878583,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Faren min sa alltid: «Finn ei jente med en pinlig tatovering å gifte deg med.»",
+          "body": "«Hun vet hvordan man tar en dårlig avgjørelse og står ved den!»",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tp3758",
+      "subreddit": "cleanjokes",
+      "title": "What do you call a man with a rubber toe?",
+      "body": "Roberto.",
+      "score": 73,
+      "flair": null,
+      "nsfw": false,
+      "author": "Left-Distribution-13",
+      "permalink": "https://www.reddit.com/r/cleanjokes/comments/1tp3758/what_do_you_call_a_man_with_a_rubber_toe/",
+      "createdUtc": 1779882612,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z"
+    },
+    {
+      "id": "1tp1qvw",
+      "subreddit": "dadjokes",
+      "title": "I asked my wife, “Can you help me? I’m stuck on a crossword clue, 'overworked postman'.” She replied, “Sure, how many letters?” I said, “I don't know!\"",
+      "body": "“I’m guessing, too many!”",
+      "score": 1180,
+      "flair": null,
+      "nsfw": false,
+      "author": "808gecko808",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tp1qvw/i_asked_my_wife_can_you_help_me_im_stuck_on_a/",
+      "createdUtc": 1779878355,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z"
+    },
+    {
+      "id": "1tphwzm",
+      "subreddit": "dadjokes",
+      "title": "I want Kenny Loggins to marry Walton Goggins and open up a winter sports supply store in Lousiana",
+      "body": "Come one come all to Loggins-Goggins Toboggans in Nawlins!!",
+      "score": 794,
+      "flair": null,
+      "nsfw": false,
+      "author": "Raisincommafester",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tphwzm/i_want_kenny_loggins_to_marry_walton_goggins_and/",
+      "createdUtc": 1779914354,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z"
+    },
+    {
+      "id": "1tp6seq",
+      "subreddit": "dadjokes",
+      "title": "Our son was feeling a little down, so we decided to get him a puppy",
+      "body": "His mother wanted to get him a Collie.\n\nI wanted to get a Lab\n\nOur daughter wanted to get a Dalmation\n\nWe decided to get a mix of all three\n\nI guess you could call it a Collaboration",
+      "score": 521,
+      "flair": null,
+      "nsfw": false,
+      "author": "TowerLineTrail",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tp6seq/our_son_was_feeling_a_little_down_so_we_decided/",
+      "createdUtc": 1779891142,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z"
+    },
+    {
+      "id": "1tp0n88",
+      "subreddit": "dadjokes",
+      "title": "A man is crawling through the desert, dying of thirst...",
+      "body": "The desert is blazing hot, and he's desperate for water. He comes upon a traveling merchant. He crawls up to the merchant and says \"water, please! Water! Water!\"\n\nThe merchant says \"I don't have any. I'm a tie salesman. Would you like to buy a tie?\" The guy replies \"No! I need water! I'm so thirsty! Water!\"\n\nThe merchant says \"Well I told you I don't have any. But go west about 10 miles or so, and there is a small inn where you can get water.\" The guy crawls off. A couple of days go by, and the guy comes crawling back to the merchant. He looks even worse than before. \n\nThe merchant asks \"what's wrong? Didn't they give you water at the inn?\"\n\nThe guy replies \"they wouldn't let me in without a tie.\"",
+      "score": 398,
+      "flair": null,
+      "nsfw": false,
+      "author": "IEnjoyDadJokes",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tp0n88/a_man_is_crawling_through_the_desert_dying_of/",
+      "createdUtc": 1779874846,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "En mann kravler gjennom ørkenen og er dødtørst...",
+          "body": "Solen brenner, og han er desperat etter vann. Han snubler over en omreisende handelsmann og kravler frem til ham. «Vann, snill! Vann! Vann!» ber han.\n\n«Jeg har ikke noe vann. Jeg selger slips. Vil du ha et?» svarer handelsmannen. «Nei! Jeg trenger vann! Jeg er så tørst!\"\n\n«Vel, det sa jeg jo. Men gå vestover i omtrent ti kilometer – der ligger det et lite vertshus hvor du kan få vann.» Mannen kravler av gårde. Et par dager går. Så kommer han kravlende tilbake, enda verre ute enn før.\n\nHandelsmannen spør: «Hva er galt? Fikk du ikke vann på vertshuset?\"\n\nMannen svarer: «De slapp meg ikke inn uten slips.»",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tponh1",
+      "subreddit": "dadjokes",
+      "title": "How do you spell candy only using two letters?",
+      "body": "\n\n \n\nC and Y.",
+      "score": 217,
+      "flair": null,
+      "nsfw": false,
+      "author": "Vaquero-SASS",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tponh1/how_do_you_spell_candy_only_using_two_letters/",
+      "createdUtc": 1779930524,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Hvordan staver du 'logo' med bare to bokstaver?",
+          "body": "\n\n \n\nL og O.",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tp93mu",
+      "subreddit": "dadjokes",
+      "title": "Why was the little drop of ink crying?",
+      "body": "His dad was in the pen and he didn't know how long the sentence was.",
+      "score": 166,
+      "flair": null,
+      "nsfw": false,
+      "author": "AkbarDelPiombo",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tp93mu/why_was_the_little_drop_of_ink_crying/",
+      "createdUtc": 1779895987,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Hvorfor gråt den lille blekkdråpen?",
+          "body": "Pappaen satt i blekket, og han visste ikke hvor lenge det ville vare.",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tp28vn",
+      "subreddit": "dadjokes",
+      "title": "My kid came home from school upset saying “Our teacher used to let us play outside for 30 minutes, then lately it’s been 25, then 20, and today it was only 10!”",
+      "body": "I kneeled down, put my hand on his shoulder and said, “Son… this is what I’ve been trying to tell you. We’re in a recessession.” ",
+      "score": 154,
+      "flair": null,
+      "nsfw": false,
+      "author": "ilikesidehugs",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tp28vn/my_kid_came_home_from_school_upset_saying_our/",
+      "createdUtc": 1779879883,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z"
+    },
+    {
+      "id": "1tpf8y2",
+      "subreddit": "dadjokes",
+      "title": "What do you call karate for amputees?",
+      "body": "Partial arts",
+      "score": 145,
+      "flair": null,
+      "nsfw": false,
+      "author": "MedicTillar",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tpf8y2/what_do_you_call_karate_for_amputees/",
+      "createdUtc": 1779908657,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z"
+    },
+    {
+      "id": "1tp3j6v",
+      "subreddit": "dadjokes",
+      "title": "I was telling a group of people about the dangers of dried grapes...",
+      "body": "You know, raisin awareness ",
+      "score": 141,
+      "flair": null,
+      "nsfw": false,
+      "author": "Emotional-Block-6734",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tp3j6v/i_was_telling_a_group_of_people_about_the_dangers/",
+      "createdUtc": 1779883484,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z"
+    },
+    {
+      "id": "1tp5lff",
+      "subreddit": "dadjokes",
+      "title": "A photographer was injured when a huge chunk of cheddar fell on him",
+      "body": "All the people in the picture were trying to warn him",
+      "score": 111,
+      "flair": null,
+      "nsfw": false,
+      "author": "Mike_Oxlong25",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tp5lff/a_photographer_was_injured_when_a_huge_chunk_of/",
+      "createdUtc": 1779888482,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "En fotograf ble skadet da en stor bit cheddar falt ned på ham",
+          "body": "Alle i bildet prøvde å advare ham.",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1toyuh0",
+      "subreddit": "dadjokes",
+      "title": "The US government just outlawed duvets, bedsheets, cloaks and any large piece of cloth used for warming",
+      "body": "Its a blanket ban",
+      "score": 104,
+      "flair": null,
+      "nsfw": false,
+      "author": "Liquid_disc_of_shit",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1toyuh0/the_us_government_just_outlawed_duvets_bedsheets/",
+      "createdUtc": 1779868739,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Den amerikanske regjeringen har nettopp forbudt dyner, lakener, kapper og alle store tøystykker brukt til å holde varmen",
+          "body": "Det er et teppeforbud.",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tpomne",
+      "subreddit": "dadjokes",
+      "title": "What do you call a train loaded with bubble gum?",
+      "body": "\n\n \n\nA chew chew train.",
+      "score": 97,
+      "flair": null,
+      "nsfw": false,
+      "author": "Vaquero-SASS",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tpomne/what_do_you_call_a_train_loaded_with_bubble_gum/",
+      "createdUtc": 1779930464,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z"
+    },
+    {
+      "id": "1tpm3g7",
+      "subreddit": "dadjokes",
+      "title": "What do you call a cult that’s hard to get into?",
+      "body": "Difficult ",
+      "score": 83,
+      "flair": null,
+      "nsfw": false,
+      "author": "lisle91",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tpm3g7/what_do_you_call_a_cult_thats_hard_to_get_into/",
+      "createdUtc": 1779923994,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Hva kaller man en kult som er veldig vanskelig å komme inn i?",
+          "body": "Kultur.",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tp5kf8",
+      "subreddit": "dadjokes",
+      "title": "While my wife was in labor, I tried distracting her by telling jokes but she didn’t laugh once",
+      "body": "Must’ve been the delivery",
+      "score": 76,
+      "flair": null,
+      "nsfw": false,
+      "author": "Mike_Oxlong25",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tp5kf8/while_my_wife_was_in_labor_i_tried_distracting/",
+      "createdUtc": 1779888420,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Mens kona mi var i fødsel, prøvde jeg å distrahere henne med å fortelle vitser – men hun lo ikke én gang",
+          "body": "Det var sikkert leveringen. [merknad: 'delivery' på engelsk betyr både 'fødsel' og 'vitseformidling']",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tpo8rb",
+      "subreddit": "dadjokes",
+      "title": "Women cancelled car appointment and I had a perfect comeback",
+      "body": "Yesterday I was waiting for my car repair to get finished at the shop and a customer called in to cancel her appointment and her reason was \"she came down with the sickness\". I immediately chimed in and said she must be Disturbed! Had everybody chuckling and saying it was the perfect Dad jokes to which I replied that I doubt that many people at my age (62) would even get it. Thought I would share it as I rarely have an instant comeback like that.",
+      "score": 74,
+      "flair": null,
+      "nsfw": false,
+      "author": "Solid-Witness-9170",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tpo8rb/women_cancelled_car_appointment_and_i_had_a/",
+      "createdUtc": 1779929451,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Kunde avlyste biltime, og jeg hadde det perfekte svaret",
+          "body": "Jeg ventet på at bilen min ble ferdig på et verksted da en dame ringte og avlyste timen sin – begrunnelsen var at hun hadde «kommet ned med sykdommen». Jeg skøt inn umiddelbart og sa hun måtte jo være Disturbed! Alle lo og mente det var den perfekte pappavits, og da sa jeg at jeg tviler på at mange på min alder (62) ville skjønt den. Sjelden jeg har slike raske svar – måtte bare dele.",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tp2d1r",
+      "subreddit": "dadjokes",
+      "title": "I opened a bag of frozen peas and few rolled onto the floor.",
+      "body": "I guess they were escapeas ",
+      "score": 56,
+      "flair": null,
+      "nsfw": false,
+      "author": "IEnjoyDadJokes",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tp2d1r/i_opened_a_bag_of_frozen_peas_and_few_rolled_onto/",
+      "createdUtc": 1779880230,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg åpnet en pose med frosne erter og noen rullet ut på gulvet.",
+          "body": "De var vel erterømlinger.",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tpq6px",
+      "subreddit": "dadjokes",
+      "title": "What do you call a poor classical musician?",
+      "body": "Baroque.",
+      "score": 49,
+      "flair": null,
+      "nsfw": false,
+      "author": "Game8disco",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tpq6px/what_do_you_call_a_poor_classical_musician/",
+      "createdUtc": 1779934621,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Hva kaller man en fattig klassisk musiker?",
+          "body": "Barokk. [merknad: 'barokk' spiller på engelsk 'broke' (blakk)]",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tplkb5",
+      "subreddit": "dadjokes",
+      "title": "What's the difference between shopping at the truck dealership and shopping at the Disney Store?",
+      "body": "At one you get a Toyota Tacoma\n\nAt the other you get to take home a toy Yoda.",
+      "score": 39,
+      "flair": null,
+      "nsfw": false,
+      "author": "seenhear",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tplkb5/whats_the_difference_between_shopping_at_the/",
+      "createdUtc": 1779922685,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z"
+    },
+    {
+      "id": "1tp85ah",
+      "subreddit": "dadjokes",
+      "title": "My relatives are all qualified police marksman apart from my Grandad who was a bank robber.",
+      "body": "He died recently surrounded by his family ",
+      "score": 31,
+      "flair": null,
+      "nsfw": false,
+      "author": "Healthy_Ladder_6198",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tp85ah/my_relatives_are_all_qualified_police_marksman/",
+      "createdUtc": 1779894019,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Alle slektningene mine er godkjente politiskarpskyttes – bortsett fra bestefar som var bankraner.",
+          "body": "Han gikk nylig bort, omgitt av familien sin.",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tpkwp7",
+      "subreddit": "dadjokes",
+      "title": "How do you fix a broken tuba ?",
+      "body": "With a tuba glue.",
+      "score": 27,
+      "flair": null,
+      "nsfw": false,
+      "author": "TRAKRACER",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tpkwp7/how_do_you_fix_a_broken_tuba/",
+      "createdUtc": 1779921102,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Hvordan fikser du en ødelagt tuba?",
+          "body": "Med tubalim.",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tpbb2h",
+      "subreddit": "dadjokes",
+      "title": "Did you hear about the chameleon that could not change colors?",
+      "body": "He had a reptile dysfunction",
+      "score": 28,
+      "flair": null,
+      "nsfw": false,
+      "author": "formercolloquy",
+      "permalink": "https://www.reddit.com/r/dadjokes/comments/1tpbb2h/did_you_hear_about_the_chameleon_that_could_not/",
+      "createdUtc": 1779900573,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Hørte du om kameleonen som ikke kunne skifte farge?",
+          "body": "Han hadde reptil dysfunksjon",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tp1lla",
+      "subreddit": "3amjokes",
+      "title": "I got the words “jacuzzi” and “yakuza” confused and now...",
+      "body": "...I’m in hot water with the Japanese mafia.",
+      "score": 101,
+      "flair": null,
+      "nsfw": false,
+      "author": "808gecko808",
+      "permalink": "https://www.reddit.com/r/3amjokes/comments/1tp1lla/i_got_the_words_jacuzzi_and_yakuza_confused_and/",
+      "createdUtc": 1779877894,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg blandet sammen ordene «jacuzzi» og «yakuza», og nå...",
+          "body": "...er jeg i varmt vann med den japanske mafiaen.",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tp2eg6",
+      "subreddit": "3amjokes",
+      "title": "I got my first gun when I was only seven. I loved it. I was like so excited. I said, Dad! Dad! Can we get another…",
+      "body": "cat?",
+      "score": 64,
+      "flair": null,
+      "nsfw": false,
+      "author": "Impossible-Orange607",
+      "permalink": "https://www.reddit.com/r/3amjokes/comments/1tp2eg6/i_got_my_first_gun_when_i_was_only_seven_i_loved/",
+      "createdUtc": 1779880342,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg fikk min første pistol da jeg bare var sju år. Jeg elsket den – jeg var helt fra meg av glede. Jeg sa: Pappa! Pappa! Kan vi få en til…",
+          "body": "…katt?",
+          "at": "2026-05-28T07:00:15.602Z",
+          "model": "sonnet"
+        }
+      }
+    },
+    {
+      "id": "1tpcwfd",
+      "subreddit": "3amjokes",
+      "title": "As a youngster we were so poor all we had to eat was Coal",
+      "body": "Whenever I think about it I still get a lump in my throat ",
+      "score": 45,
+      "flair": null,
+      "nsfw": false,
+      "author": "MCDCFC",
+      "permalink": "https://www.reddit.com/r/3amjokes/comments/1tpcwfd/as_a_youngster_we_were_so_poor_all_we_had_to_eat/",
+      "createdUtc": 1779903846,
+      "firstSeen": "2026-05-28T07:00:03.355Z",
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Da jeg var liten, var vi så fattige at vi bare hadde kull å spise",
+          "body": "Hver gang jeg tenker på det, får jeg fortsatt en klump i halsen.",
+          "at": "2026-05-28T07:00:15.602Z",
           "model": "sonnet"
         }
       }
