@@ -70,7 +70,10 @@ function applyFilters() {
     return true;
   });
   if (sort === 'score') out.sort((a, b) => b.score - a.score);
-  else if (sort === 'newest') out.sort((a, b) => (b.firstSeen || '').localeCompare(a.firstSeen || ''));
+  // "newest" = most recently seen in a fetch run (so today's arctic-shift
+  // batch — both truly-new and re-encountered jokes — surfaces first).
+  // "oldest" stays on firstSeen so it means "oldest entry in the archive".
+  else if (sort === 'newest') out.sort((a, b) => (b.lastSeen || b.firstSeen || '').localeCompare(a.lastSeen || a.firstSeen || ''));
   else if (sort === 'oldest') out.sort((a, b) => (a.firstSeen || '').localeCompare(b.firstSeen || ''));
   return out;
 }
