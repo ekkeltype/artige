@@ -8,11 +8,20 @@
     "unclejokes",
     "dirtyjokes"
   ],
-  "sort": "top",
-  "timeframe": "day",
   "limitPerSub": 100,
-  "userAgent": "artige/0.1 (daily joke archive)",
-  "minScore": 25,
+  "userAgent": "artige/0.3 (+https://github.com/ekkeltype/artige)",
+  "minScore": 100,
+  "backfill": {
+    "enabled": true,
+    "chunkDays": 14,
+    "maxPagesPerSub": 20,
+    "floor": "2010-01-01",
+    "start": "2026-05-29"
+  },
+  "live": {
+    "enabled": false,
+    "lookback": "2d"
+  },
   "translate": {
     "enabled": true,
     "promptFile": "prompts/localize.md",
