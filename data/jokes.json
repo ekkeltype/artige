@@ -1,5 +1,5 @@
 {
-  "lastFetched": "2026-05-29T07:00:03.182Z",
+  "lastFetched": "2026-05-30T07:00:03.091Z",
   "count": 761,
   "jokes": [
     {
@@ -15338,7 +15338,15 @@
       "permalink": "https://www.reddit.com/r/dadjokes/comments/1tomb57/what_type_of_dwelling_do_retired_marines_live_in/",
       "createdUtc": 1779834117,
       "firstSeen": "2026-05-27T07:00:03.181Z",
-      "lastSeen": "2026-05-27T07:00:03.181Z"
+      "lastSeen": "2026-05-27T07:00:03.181Z",
+      "localized": {
+        "nb": {
+          "title": "Hva slags bolig bor pensjonerte marinesoldater i?",
+          "body": "En blikkkkk-HYTTE! [merknad: på engelsk lyder «tin hut» (blikkhytte) likt som militærkommandoen «ten-hut!», dratt ut slik en drill-sergeant roper det]",
+          "at": "2026-05-30T07:00:04.511Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tos2rd",
@@ -16310,7 +16318,15 @@
       "permalink": "https://www.reddit.com/r/dadjokes/comments/1tpomne/what_do_you_call_a_train_loaded_with_bubble_gum/",
       "createdUtc": 1779930464,
       "firstSeen": "2026-05-28T07:00:03.355Z",
-      "lastSeen": "2026-05-28T07:00:03.355Z"
+      "lastSeen": "2026-05-28T07:00:03.355Z",
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du et tog lastet med tyggegummi?",
+          "body": "Et tygge-tygge-tog! [merknad: på engelsk lyder «chew chew» (å tygge) likt som «choo choo», lyden et tog lager]",
+          "at": "2026-05-30T07:00:04.511Z",
+          "model": "sonnet"
+        }
+      }
     },
     {
       "id": "1tpm3g7",
