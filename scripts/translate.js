@@ -1,4 +1,4 @@
-import { readFile, writeFile, mkdtemp, rm } from 'node:fs/promises';
+import { readFile, writeFile, rename, mkdtemp, rm } from 'node:fs/promises';
 import { spawn } from 'node:child_process';
 import path from 'node:path';
 import os from 'node:os';
@@ -19,7 +19,25 @@ function parsePrompt(text) {
   return { meta, body: m[2] };
 }
 
-function runClaude({ systemPromptFile, userPrompt, model, maxBudgetUsd }) {
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+// `claude --output-format json` writes its result *and* its errors to stdout
+// (stderr is usually empty), so on failure the real reason is in `out`, not `err`.
+function describeFailure(out, err) {
+  const text = out.trim() || err.trim();
+  if (!text) return '(no output)';
+  try {
+    const j = JSON.parse(text);
+    if (j.error) return typeof j.error === 'string' ? j.error : JSON.stringify(j.error);
+    if (j.is_error && j.result != null) return String(j.result).slice(0, 500);
+    if (j.subtype && j.subtype !== 'success') return `${j.subtype}: ${String(j.result ?? '').slice(0, 300)}`;
+    return text.slice(0, 500);
+  } catch {
+    return text.slice(0, 500);
+  }
+}
+
+function runClaude({ systemPromptFile, userPrompt, model, maxBudgetUsd, timeoutMs = 150000 }) {
   return new Promise((resolve, reject) => {
     const args = [
       '-p',
@@ -35,18 +53,47 @@ function runClaude({ systemPromptFile, userPrompt, model, maxBudgetUsd }) {
     const proc = spawn(claudeCmd, args, {
       stdio: ['ignore', 'pipe', 'pipe'],
     });
-    let out = '', err = '';
+    let out = '', err = '', timedOut = false;
+    const timer = setTimeout(() => {
+      timedOut = true;
+      proc.kill();
+    }, timeoutMs);
     proc.stdout.on('data', (d) => (out += d));
     proc.stderr.on('data', (d) => (err += d));
-    proc.on('error', reject);
+    proc.on('error', (e) => {
+      clearTimeout(timer);
+      reject(e);
+    });
     proc.on('close', (code) => {
-      if (code !== 0) {
-        reject(new Error(`claude exited ${code}: ${err.slice(0, 500)}`));
+      clearTimeout(timer);
+      if (timedOut) {
+        reject(new Error(`timed out after ${Math.round(timeoutMs / 1000)}s`));
+      } else if (code !== 0) {
+        reject(new Error(`claude exited ${code}: ${describeFailure(out, err)}`));
       } else {
         resolve(out);
       }
     });
   });
+}
+
+// Transient failures (API overload/rate-limit, timeouts) are common across a
+// long back-to-back run; retry a few times with linear backoff before skipping.
+async function runClaudeWithRetry(opts, attempts = 3) {
+  let lastErr;
+  for (let attempt = 1; attempt <= attempts; attempt++) {
+    try {
+      return await runClaude(opts);
+    } catch (e) {
+      lastErr = e;
+      if (attempt < attempts) {
+        const backoffMs = 10000 * attempt;
+        console.error(`    attempt ${attempt}/${attempts} failed: ${e.message.slice(0, 160)}; retry in ${backoffMs / 1000}s`);
+        await sleep(backoffMs);
+      }
+    }
+  }
+  throw lastErr;
 }
 
 function findJsonArray(text) {
@@ -100,6 +147,14 @@ function extractTranslations(rawOutput) {
   return { translations: parsed, cost: envelope?.total_cost_usd ?? null };
 }
 
+async function saveArchive(archive) {
+  // Atomic write (temp + rename) so an interrupted/killed run can never leave a
+  // half-written jokes.json behind — important now that we save after each batch.
+  const tmp = `${DATA_PATH}.tmp`;
+  await writeFile(tmp, JSON.stringify(archive, null, 2));
+  await rename(tmp, DATA_PATH);
+}
+
 async function main() {
   const config = JSON.parse(await readFile(CONFIG_PATH, 'utf8'));
   const t = config.translate || {};
@@ -133,6 +188,8 @@ async function main() {
   const batchSize = t.batchSize || 30;
   let translatedCount = 0;
   let totalCost = 0;
+  let consecutiveFailures = 0;
+  const maxConsecutiveFailures = 4;
   const at = new Date().toISOString();
 
   for (let i = 0; i < candidates.length; i += batchSize) {
@@ -143,11 +200,12 @@ async function main() {
     const userPrompt = JSON.stringify(input);
 
     try {
-      const raw = await runClaude({
+      const raw = await runClaudeWithRetry({
         systemPromptFile,
         userPrompt,
         model: t.model,
         maxBudgetUsd: t.maxBudgetUsd,
+        timeoutMs: t.timeoutMs,
       });
       const { translations, cost } = extractTranslations(raw);
       if (cost) totalCost += cost;
@@ -167,14 +225,23 @@ async function main() {
         }
       }
       translatedCount += batchTranslated;
+      consecutiveFailures = 0;
       const costStr = cost != null ? ` ($${cost.toFixed(4)})` : '';
       console.log(`  batch ${batchNum}/${totalBatches}: ${batchTranslated}/${batch.length} translated${costStr}`);
+      // Persist after every productive batch so an interrupted run keeps its
+      // progress instead of discarding everything at a single final write.
+      if (batchTranslated > 0) await saveArchive(archive);
     } catch (e) {
+      consecutiveFailures++;
       console.error(`  batch ${batchNum}/${totalBatches} failed: ${e.message}`);
+      if (consecutiveFailures >= maxConsecutiveFailures) {
+        console.error(`Aborting run after ${consecutiveFailures} consecutive failures (claude/API likely unavailable). Progress saved; remaining jokes retry next run.`);
+        break;
+      }
     }
   }
 
-  await writeFile(DATA_PATH, JSON.stringify(archive, null, 2));
+  await saveArchive(archive);
   await rm(tmpDir, { recursive: true, force: true });
   const costStr = totalCost > 0 ? ` total $${totalCost.toFixed(4)}` : '';
   console.log(`Done. Translated ${translatedCount}/${candidates.length} jokes to ${langName}.${costStr}`);
