@@ -25,8 +25,9 @@
   "translate": {
     "enabled": true,
     "promptFile": "prompts/localize.md",
-    "model": "sonnet",
-    "batchSize": 15,
-    "maxBudgetUsd": 1.0
+    "model": "opus",
+    "batchSize": 6,
+    "maxBudgetUsd": 1.5,
+    "timeoutMs": 180000
   }
 }
