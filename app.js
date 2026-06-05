@@ -59,6 +59,7 @@ function applyFilters() {
   const { search, sort, nsfw, language, includeUntranslated } = state.filters;
   const q = search.trim().toLowerCase();
   let out = state.jokes.filter((j) => {
+    if (j.filtered) return false; // these live on ufiltrert.html
     if (nsfw === 'exclude' && j.nsfw) return false;
     if (nsfw === 'only' && !j.nsfw) return false;
     if (language && !includeUntranslated && !hasTranslation(j)) return false;

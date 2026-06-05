@@ -28,6 +28,7 @@
     "model": "opus",
     "batchSize": 6,
     "maxBudgetUsd": 1.5,
-    "timeoutMs": 180000
+    "timeoutMs": 180000,
+    "maxAttempts": 3
   }
 }

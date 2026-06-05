@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="no">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>ufiltrert — artige</title>
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <h1>artige · ufiltrert</h1>
+      <div class="meta">
+        <a href="./index.html">← arkivet</a>
+        <span class="dot">·</span>
+        <span id="count">0 vitser</span>
+      </div>
+    </header>
+
+    <main style="max-width: 760px; margin: 1.5rem auto; padding: 0 1rem;">
+      <p class="muted">
+        Vitser som ikke lot seg lokalisere — enten stoppet av innholdsfilteret
+        eller for språkbundne til å bære over til norsk. Vist i original.
+      </p>
+      <div id="cards" class="cards"></div>
+    </main>
+
+    <script type="module" src="./ufiltrert.js"></script>
+  </body>
+</html>

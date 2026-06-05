@@ -37,6 +37,10 @@ function describeFailure(out, err) {
   }
 }
 
+// Content-filter rejections are deterministic (same input -> same block), so
+// they're handled specially: never retried, and the joke is set aside.
+const isContentFilter = (msg) => /content filtering|blocked by content|content[ _-]?policy/i.test(String(msg));
+
 function runClaude({ systemPromptFile, userPrompt, model, maxBudgetUsd, timeoutMs = 150000 }) {
   return new Promise((resolve, reject) => {
     const args = [
@@ -86,6 +90,7 @@ async function runClaudeWithRetry(opts, attempts = 3) {
       return await runClaude(opts);
     } catch (e) {
       lastErr = e;
+      if (isContentFilter(e.message)) throw e; // deterministic; retrying won't help
       if (attempt < attempts) {
         const backoffMs = 10000 * attempt;
         console.error(`    attempt ${attempt}/${attempts} failed: ${e.message.slice(0, 160)}; retry in ${backoffMs / 1000}s`);
@@ -176,7 +181,7 @@ async function main() {
 
   const minScore = config.minScore ?? t.minScore ?? 0;
   const candidates = archive.jokes.filter(
-    (j) => !j.localized?.[lang] && (j.score ?? 0) >= minScore,
+    (j) => !j.localized?.[lang] && !j.filtered && (j.score ?? 0) >= minScore,
   );
 
   if (candidates.length === 0) {
@@ -186,65 +191,110 @@ async function main() {
   console.log(`Translating ${candidates.length} jokes to ${langName} (model=${t.model})...`);
 
   const batchSize = t.batchSize || 30;
+  const maxAttempts = t.maxAttempts ?? 3;
   let translatedCount = 0;
+  let filteredCount = 0;
   let totalCost = 0;
   let consecutiveFailures = 0;
   const maxConsecutiveFailures = 4;
   const at = new Date().toISOString();
 
+  // Translate a list of jokes in a single claude call; applies the result
+  // in-place and returns the Set of ids that came back translated. Throws if
+  // the call itself fails (timeout, overload, content filter, ...).
+  async function translateInto(jokes) {
+    const userPrompt = JSON.stringify(jokes.map((j) => ({ id: j.id, title: j.title, body: j.body || '' })));
+    const raw = await runClaudeWithRetry({
+      systemPromptFile, userPrompt, model: t.model, maxBudgetUsd: t.maxBudgetUsd, timeoutMs: t.timeoutMs,
+    });
+    const { translations, cost } = extractTranslations(raw);
+    if (cost) totalCost += cost;
+    const byId = new Map(translations.map((r) => [r.id, r]));
+    const done = new Set();
+    for (const j of jokes) {
+      const r = byId.get(j.id);
+      if (r && typeof r.title === 'string') {
+        j.localized = j.localized || {};
+        j.localized[lang] = { title: r.title, body: typeof r.body === 'string' ? r.body : '', at, model: t.model };
+        done.add(j.id);
+      }
+    }
+    return done;
+  }
+
+  // Give up on a joke that can't be localized — a hard content-filter rejection,
+  // or `maxAttempts` runs of the model omitting it as untranslatable. `filtered`
+  // jokes leave the candidate set and surface on ufiltrert.html.
+  function markFiltered(j, reason) {
+    j.filtered = true;
+    j.filteredReason = reason;
+    j.filteredAt = at;
+    filteredCount++;
+  }
+  function noteOmitted(j) {
+    j.translateAttempts = (j.translateAttempts || 0) + 1;
+    if (j.translateAttempts >= maxAttempts) markFiltered(j, 'untranslatable');
+  }
+
   for (let i = 0; i < candidates.length; i += batchSize) {
     const batch = candidates.slice(i, i + batchSize);
     const batchNum = Math.floor(i / batchSize) + 1;
     const totalBatches = Math.ceil(candidates.length / batchSize);
-    const input = batch.map((j) => ({ id: j.id, title: j.title, body: j.body || '' }));
-    const userPrompt = JSON.stringify(input);
+    const costBefore = totalCost;
 
+    let done;
     try {
-      const raw = await runClaudeWithRetry({
-        systemPromptFile,
-        userPrompt,
-        model: t.model,
-        maxBudgetUsd: t.maxBudgetUsd,
-        timeoutMs: t.timeoutMs,
-      });
-      const { translations, cost } = extractTranslations(raw);
-      if (cost) totalCost += cost;
-      const byId = new Map(translations.map((r) => [r.id, r]));
-      let batchTranslated = 0;
-      for (const j of batch) {
-        const r = byId.get(j.id);
-        if (r && typeof r.title === 'string') {
-          j.localized = j.localized || {};
-          j.localized[lang] = {
-            title: r.title,
-            body: typeof r.body === 'string' ? r.body : '',
-            at,
-            model: t.model,
-          };
-          batchTranslated++;
-        }
-      }
-      translatedCount += batchTranslated;
+      done = await translateInto(batch);
       consecutiveFailures = 0;
-      const costStr = cost != null ? ` ($${cost.toFixed(4)})` : '';
-      console.log(`  batch ${batchNum}/${totalBatches}: ${batchTranslated}/${batch.length} translated${costStr}`);
-      // Persist after every productive batch so an interrupted run keeps its
-      // progress instead of discarding everything at a single final write.
-      if (batchTranslated > 0) await saveArchive(archive);
     } catch (e) {
-      consecutiveFailures++;
-      console.error(`  batch ${batchNum}/${totalBatches} failed: ${e.message}`);
-      if (consecutiveFailures >= maxConsecutiveFailures) {
-        console.error(`Aborting run after ${consecutiveFailures} consecutive failures (claude/API likely unavailable). Progress saved; remaining jokes retry next run.`);
-        break;
+      if (isContentFilter(e.message) && batch.length > 1) {
+        // The whole batch was blocked, but usually only one joke trips the
+        // filter. Re-translate each alone to rescue the innocents and pin the
+        // offender(s).
+        console.error(`  batch ${batchNum}/${totalBatches} content-filtered; isolating ${batch.length} jokes`);
+        done = new Set();
+        for (const j of batch) {
+          try {
+            for (const id of await translateInto([j])) done.add(id);
+          } catch (e2) {
+            if (isContentFilter(e2.message)) markFiltered(j, 'content-filter');
+            // transient single failure: leave as a candidate for next run
+          }
+        }
+        consecutiveFailures = 0;
+      } else if (isContentFilter(e.message)) {
+        markFiltered(batch[0], 'content-filter');
+        done = new Set();
+      } else {
+        consecutiveFailures++;
+        console.error(`  batch ${batchNum}/${totalBatches} failed: ${e.message}`);
+        if (consecutiveFailures >= maxConsecutiveFailures) {
+          console.error(`Aborting run after ${consecutiveFailures} consecutive failures (claude/API likely unavailable). Progress saved; remaining jokes retry next run.`);
+          break;
+        }
+        await saveArchive(archive);
+        continue; // transient — don't penalize the jokes, just retry next run
       }
     }
+
+    // Jokes the model saw but didn't return are omissions (untranslatable);
+    // count them toward the give-up threshold.
+    for (const j of batch) {
+      if (!done.has(j.id) && !j.filtered) noteOmitted(j);
+    }
+
+    translatedCount += done.size;
+    const batchCost = totalCost - costBefore;
+    const nf = batch.filter((j) => j.filtered && j.filteredAt === at).length;
+    console.log(`  batch ${batchNum}/${totalBatches}: ${done.size}/${batch.length} translated` +
+      (nf ? `, ${nf} filtered` : '') + (batchCost > 0 ? ` ($${batchCost.toFixed(4)})` : ''));
+    await saveArchive(archive);
   }
 
   await saveArchive(archive);
   await rm(tmpDir, { recursive: true, force: true });
   const costStr = totalCost > 0 ? ` total $${totalCost.toFixed(4)}` : '';
-  console.log(`Done. Translated ${translatedCount}/${candidates.length} jokes to ${langName}.${costStr}`);
+  console.log(`Done. Translated ${translatedCount}/${candidates.length} to ${langName}, ${filteredCount} marked filtered.${costStr}`);
 }
 
 main().catch((e) => {
