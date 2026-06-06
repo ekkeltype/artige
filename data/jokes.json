@@ -5206,7 +5206,15 @@
       "permalink": "https://www.reddit.com/r/Jokes/comments/1tiok7p/a_guys_pregnant_wife_was_screaming_in_pain_during/",
       "createdUtc": 1779289770,
       "firstSeen": "2026-05-21T07:00:02.994Z",
-      "lastSeen": "2026-05-30T19:35:02.570Z"
+      "lastSeen": "2026-05-30T19:35:02.570Z",
+      "localized": {
+        "nb": {
+          "title": "Mannens gravide kone skriker av smerte under fødsel, så mannen spør: \"Kjære, hva er det?\"",
+          "body": "Kvinnen skriker: \"Disse veiene kommer til å drepe meg!\"\n\nOg mannen sier: \"Unnskyld, kjære. Hva *er* det som er galt?\"",
+          "at": "2026-06-05T22:56:16.208Z",
+          "model": "haiku"
+        }
+      }
     },
     {
       "id": "1tj4rqe",
@@ -6474,7 +6482,16 @@
       "permalink": "https://www.reddit.com/r/Jokes/comments/1tkfpr9/guy_next_door_stopped_by_and_said_so_i_heard_you/",
       "createdUtc": 1779447999,
       "firstSeen": "2026-05-23T07:00:03.367Z",
-      "lastSeen": "2026-05-30T19:35:02.570Z"
+      "lastSeen": "2026-05-30T19:35:02.570Z",
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Naboen stakk innom og sa: «Jeg hørte at dere hadde det kjempegøy med ebraene i oo.»",
+          "body": "Da han gikk, spurte kona mi: «Hvem var det?»\n\nJeg sa: «Bare No-Z-naboen vår.» [merknad: På engelsk høres «No-Z neighbor» ut som «nosy neighbor», altså en nysgjerrig nabo, samtidig som han dropper z-ene i «zebras» og «zoo».]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
+      }
     },
     {
       "id": "1tkuqks",
@@ -6620,7 +6637,16 @@
       "permalink": "https://www.reddit.com/r/dadjokes/comments/1tkfpe3/guy_next_door_stopped_by_and_said_so_i_heard_you/",
       "createdUtc": 1779447968,
       "firstSeen": "2026-05-23T07:00:03.367Z",
-      "lastSeen": "2026-05-30T19:35:02.570Z"
+      "lastSeen": "2026-05-30T19:35:02.570Z",
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Naboen stakk innom og sa: «Jeg hørte at dere hadde det kjempegøy med ebraene i oo.»",
+          "body": "Da han gikk, spurte kona mi: «Hvem var det?»\n\nJeg sa: «Bare No-Z-naboen vår.» [merknad: På engelsk høres «No-Z neighbor» ut som «nosy neighbor», altså en nysgjerrig nabo, samtidig som han dropper z-ene i «zebras» og «zoo».]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
+      }
     },
     {
       "id": "1tkf7c8",
@@ -6700,7 +6726,16 @@
       "permalink": "https://www.reddit.com/r/dadjokes/comments/1tktj1c/when_the_moon_hits_your_knees_and_you/",
       "createdUtc": 1779478662,
       "firstSeen": "2026-05-23T07:00:03.367Z",
-      "lastSeen": "2026-05-30T19:35:02.570Z"
+      "lastSeen": "2026-05-30T19:35:02.570Z",
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "🎶Når månen treffer knær, og du sier «trær» litt sær",
+          "body": "Sycamore🎶 [merknad: «sycamore» er et treslag og lyder som en vridd variant av «That's amore».]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
+      }
     },
     {
       "id": "1tkiqu3",
@@ -9838,7 +9873,15 @@
       "permalink": "https://www.reddit.com/r/dadjokes/comments/1tphwzm/i_want_kenny_loggins_to_marry_walton_goggins_and/",
       "createdUtc": 1779914354,
       "firstSeen": "2026-05-28T07:00:03.355Z",
-      "lastSeen": "2026-05-30T19:35:02.570Z"
+      "lastSeen": "2026-05-30T19:35:02.570Z",
+      "localized": {
+        "nb": {
+          "title": "Jeg vil at Kenny Loggins skal gifte seg med Walton Goggins og åpne en vinteridrettsutstyrbutikk i Louisiana",
+          "body": "Kom alle til Loggins-Goggins Kjelker i Nawlins!!",
+          "at": "2026-06-05T22:56:16.208Z",
+          "model": "haiku"
+        }
+      }
     },
     {
       "id": "1tp6seq",
@@ -10160,7 +10203,16 @@
       "permalink": "https://www.reddit.com/r/Jokes/comments/1tqrcvi/how_do_you_keep_idiots_in_suspense/",
       "createdUtc": 1780030293,
       "firstSeen": "2026-05-30T17:55:57.330Z",
-      "lastSeen": "2026-05-30T17:55:57.330Z"
+      "lastSeen": "2026-05-30T17:55:57.330Z",
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hvordan holder du idioter i spenning?",
+          "body": "Spørsmålet var vanskeligere enn det hørtes ut. I århundrer hadde suskulopeerne sperret sine verste fanger inne i suskulopeiske femkantfengsler, kalt «Sus Pents». De skulle holde alle inne, selv mesterutbrytere.\n\nMen noe var galt. Uansett hvordan fengslene ble bygget, klarte særlig de dummeste fangene å rømme. Til slutt sendte folket en ung mann, Borius, til Orakelet.\n\nOrakelet var en enorm gullstatue langt fra landsbyen. Det ble sagt at det kunne svare på ethvert spørsmål, bare det fikk nok tid. Forrige svar hadde tatt 250 år.\n\nPå reisen møtte Borius mange pilegrimer. De fleste spørsmålene deres klarte han å svare på selv, og de dro glade hjem. Bare Miriam, en ung kvinne fra en naboby, ville ikke si hva hun skulle spørre om.\n\nDe reiste sammen, ble nære, og da de kom frem, sa prestene at Orakelet allerede hadde valgt: Borius skulle få spørre. Miriam protesterte, men presten sa: «Orakelet kjenner spørsmålet ditt. Du vet allerede svaret i hjertet ditt.»\n\nBorius knelte foran statuen og spurte: «Å, Orakel, jeg må vite det: Hvordan holder man idioter i Sus Pents?»\n\nPrestene nikket. «Vi gir deg svaret så snart som mulig.»\n\nPå vei hjem sa Miriam: «Spørsmålet mitt var når jeg skulle finne en jeg virkelig kunne elske. Svaret var: nå.» Så kysset hun ham.\n\nÅrene gikk. Borius og Miriam fikk barn og levde lykkelig. Han tenkte fortsatt på svaret, men trengte det ikke lenger.\n\nAlle andre maste derimot. Til slutt flyttet familien til en landsby langt unna.\n\nSå kom krigen. Landsby etter landsby falt. Orakelets tempel ble plyndret, og den siste som kjente hemmeligheten, ble drept.\n\nRøverne fant gullstatuen og prøvde å knuse den. Den fikk ikke en skramme. De prøvde å smelte den. Ingenting. Til slutt fraktet de den hjem som krigsbytte.\n\nI århundrer prøvde vitenskapsfolk og magikere å forstå den. Ingen klarte det. Etter hvert ble den sentrum i en stor by, så en legende, så et mysterium. Gamle tekster hevdet at den kunne svare på alle spørsmål, bare den fikk nok tid. Folk spurte. Den svarte aldri.\n\nStatuen ble flyttet tilbake til sitt gamle tempel. Fortsatt taus.\n\nTiden gikk. Menneskene dro ut i verdensrommet, møtte andre arter og ble del av en galaktisk union. Orakelet ble berømt i hele galaksen. Så kom nye kriger. Sivilisasjoner stjal det, mistet det, løy om det og døde for det.\n\nTil slutt kom en sykdom som utslettet alt liv. Orakelet styrtet på en øde planet og ble glemt.\n\nDa universet selv begynte å kollapse, fant en mann ved navn Borias legenden. Kanskje Orakelet kunne redde dem. Etter en lang leting fant ekspedisjonen statuen, men skipet bar på smitten. Snart var alle døde, bortsett fra Borias.\n\nHan satt alene ved siden av Orakelet mens universet gikk mot slutten.\n\nDa hørte han en dyp rumling. Statuen kremtet.\n\n«Forfaren din møtte meg en gang.»\n\n«Hva?» sa Borias.\n\n«Borius. Han stilte meg et spørsmål. Det har tatt helt til nå å svare ordentlig.»\n\n«Hva spurte han om?»\n\nOrakelet lo lavt. «Hvordan man holder idioter i Sus Pents.»\n\nSå sukket det, og sa universets siste to ord:\n\n«Sånn der.» [merknad: «Sus Pents» høres ut som engelske «suspense», altså spenning. Hele vitsen holder leseren i spenning før svaret.]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
+      }
     },
     {
       "id": "1tqlkkm",
@@ -10174,7 +10226,15 @@
       "permalink": "https://www.reddit.com/r/3amjokes/comments/1tqlkkm/my_dahter_came_in_13teenth_in_the_speling_bea/",
       "createdUtc": 1780014481,
       "firstSeen": "2026-05-30T17:55:57.330Z",
-      "lastSeen": "2026-05-30T17:55:57.330Z"
+      "lastSeen": "2026-05-30T17:55:57.330Z",
+      "localized": {
+        "nb": {
+          "title": "Datteren min kom på 13ende plas i staavekonkuranssen",
+          "body": "Jeg har ingn aning om koffor",
+          "at": "2026-06-05T22:41:35.276Z",
+          "model": "opus"
+        }
+      }
     },
     {
       "id": "1tqh7ta",
@@ -10192,6 +10252,14 @@
       "sourceWindow": {
         "after": "2026-05-15",
         "before": "2026-05-29"
+      },
+      "localized": {
+        "nb": {
+          "title": "En mann går inn på en bar ...",
+          "body": "Og ber om en rom og cola.\n\nBartenderen sier «kommer straks», og slamrer ned et eple på disken.\n\n«Jeg ville ha en drink, hva er dette?» spør mannen forvirret.\n\nBartenderen svarer: «Stol på meg. Ta en bit.»\n\nMannen tar tvilende en bit. Til hans overraskelse smaker det rom! «Jøss! Dette smaker rom! Helt utrolig!»\n\nBartenderen flirer lurt og legger til: «Hva sa jeg? Snu det rundt nå.»\n\nMannen snur eplet og tar en bit uten å tenke seg om. Det smaker cola. «Og nå smaker det cola! Hvordan får du det til?» spør mannen, ivrig etter å lære hemmeligheten bak eplene.\n\nBartenderen svarer: «Tja ... det kan jeg ikke røpe, men jeg lover deg at jeg har epler som smaker akkurat hva du vil.»\n\nMannen hever et øyenbryn, tenker seg om, og spør stille: «Hva som helst?»\n\n«Hva som helst,» svarer bartenderen selvsikkert.\n\n«Vel ...» legger mannen til hviskende. «Har du et eple som smaker ... jeg vet ikke ... fitte?»\n\n«Å! Jada, selvsagt, her!» Bartenderen slamrer ned et nytt eple. «Ta en bit og se selv.»\n\nMannen tar ivrig en bit, bare for å spytte den voldsomt ut. «DETTE SMAKER DRITT!» brøler mannen rasende, kokende av sinne.\n\nBartenderen ler så han nesten revner, og sier til slutt:\n\n«Vel, snu det rundt da!»",
+          "at": "2026-06-05T22:41:35.276Z",
+          "model": "opus"
+        }
       }
     },
     {
@@ -10730,6 +10798,14 @@
       "sourceWindow": {
         "after": "2026-05-15",
         "before": "2026-05-29"
+      },
+      "localized": {
+        "nb": {
+          "title": "Jeg fylte nettopp 40, og det knaker i hele kroppen hver gang jeg reiser meg",
+          "body": "Jeg er offisielt blitt et knekkebrød.",
+          "at": "2026-06-05T22:41:35.276Z",
+          "model": "opus"
+        }
       }
     },
     {
@@ -10904,6 +10980,14 @@
       "sourceWindow": {
         "after": "2026-05-15",
         "before": "2026-05-29"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du et papirfly som ikke flyr?",
+          "body": "Stasjonært. [merknad: på engelsk er svaret «stationary» (står stille), som uttales likt «stationery» = skrivesaker/papir]",
+          "at": "2026-06-05T22:41:35.276Z",
+          "model": "opus"
+        }
       }
     },
     {
@@ -13522,6 +13606,15 @@
       "sourceWindow": {
         "after": "2026-05-01",
         "before": "2026-05-15"
+      },
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Ganske fornøyd med en visuell pappavits.",
+          "body": "Ingen skjermbilder tillatt, så jeg beskriver meldingene.\n\nEr du ledig kl. 1?\n\nJeg er\n\nNei, kl. 13",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -14814,6 +14907,15 @@
       "sourceWindow": {
         "after": "2026-05-01",
         "before": "2026-05-15"
+      },
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "«Bank, bank.» «Hvem der?» «Hyperkorrekt grammatikknazi.» «Hyperkorrekt grammatikknazi hvem?»",
+          "body": "*hvem sin tur er det å lære kasus?* [merknad: Poenget på engelsk er at «who?» rettes til «whom», en overkorrekt grammatikkrettelse uten naturlig norsk direkteekvivalent.]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -14858,6 +14960,14 @@
       "sourceWindow": {
         "after": "2026-05-01",
         "before": "2026-05-15"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva er forskjellen på houses og horses?",
+          "body": "Du er! [merknad: På engelsk høres «you are» ut som bokstavene U og R, som er forskjellen på ordene.]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -14902,6 +15012,14 @@
       "sourceWindow": {
         "after": "2026-05-01",
         "before": "2026-05-15"
+      },
+      "localized": {
+        "nb": {
+          "title": "Tryllekunstner: «Og i mitt neste nummer skal jeg forsvinne!»",
+          "body": "Tryllekunstneren: *holder opp en pære*\n\n«Du er den verste frukten som finnes!» [merknad: På engelsk høres «disappear» ut som «diss a pear», altså å slenge dritt om en pære.]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -15206,6 +15324,14 @@
       "sourceWindow": {
         "after": "2026-05-01",
         "before": "2026-05-15"
+      },
+      "localized": {
+        "nb": {
+          "title": "Sønnen min kom bort og spurte: «Pappa, kan du forklare meg hva en solformørkelse er?»",
+          "body": "Jeg svarte: «Nei, sønn.» [merknad: På engelsk høres «no son» ut som «no sun», altså ingen sol.]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -15874,6 +16000,14 @@
       "sourceWindow": {
         "after": "2026-04-17",
         "before": "2026-05-01"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva er forskjellen på en tryllekunstners tryllestav og en politimanns elektrosjokkvåpen?",
+          "body": "Tryllestaven er til snedige stunt. [merknad: På engelsk blir «cunning stunts» et grovt ordspill hvis lydene byttes om: «stunning cunts».]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -19376,6 +19510,14 @@
       "sourceWindow": {
         "after": "2026-04-17",
         "before": "2026-05-01"
+      },
+      "localized": {
+        "nb": {
+          "title": "Denne funker nok mest for britisk publikum, men ...",
+          "body": "Noen sa at hvis du tisser i kondensert melk, kan du vekke de døde ... men jeg tror ikke på urin i Carnation. [merknad: På engelsk høres «wee in Carnation» ut som «reincarnation».]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -20252,6 +20394,14 @@
       "sourceWindow": {
         "after": "2026-04-17",
         "before": "2026-05-01"
+      },
+      "localized": {
+        "nb": {
+          "title": "Før operasjonen i dag spurte anestesilegen om jeg ville slås ut med gass, eller om han bare skulle slå meg i hodet med en kanopadle. Så det var vel ...",
+          "body": "\n\n... en eter/åre-situasjon. [merknad: På engelsk høres «ether/oar» ut som «either/or».]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -21154,6 +21304,14 @@
       "sourceWindow": {
         "after": "2026-04-17",
         "before": "2026-05-01"
+      },
+      "localized": {
+        "nb": {
+          "title": "Jeg ringte jobben i morges og hvisket: «Beklager, sjef, jeg kan ikke komme i dag. Jeg har a wee cough.» Han ropte: «Du har a wee cough!?»",
+          "body": "Jeg sa: «Seriøst?! Takk, sjef, vi sees neste uke!» [merknad: På engelsk høres «a wee cough» ut som «a week off», altså en uke fri.]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -21562,6 +21720,14 @@
       "sourceWindow": {
         "after": "2026-04-17",
         "before": "2026-05-01"
+      },
+      "localized": {
+        "nb": {
+          "title": "For å hindre maur i å komme inn i huset, sett en skål melk utenfor. De voksne maurene drikker den, og det påvirker formeringen. Ungene blir født uten tær, så de kan ikke klatre inn i veggene dine.",
+          "body": "Effekten kalles «lacked toes in toddler ants». [merknad: Høres ut som «lactose intolerant», altså laktoseintolerant.]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -23868,6 +24034,14 @@
       "sourceWindow": {
         "after": "2026-04-17",
         "before": "2026-05-01"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hvilke pronomen bruker en sjokoladeplate?",
+          "body": "Her/she [merknad: Høres ut som Hershey, sjokolademerket.]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -24198,6 +24372,14 @@
       "sourceWindow": {
         "after": "2026-04-17",
         "before": "2026-05-01"
+      },
+      "localized": {
+        "nb": {
+          "title": "Politimannen spurte: «Hvem sin bil er dette? Hvor skal du? Hva jobber du med?»",
+          "body": "Gruvearbeideren svarte: «Mine.» [merknad: På engelsk betyr «mine» både min bil, gruve og å grave i gruve.]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -24372,6 +24554,14 @@
       "sourceWindow": {
         "after": "2026-04-17",
         "before": "2026-05-01"
+      },
+      "localized": {
+        "nb": {
+          "title": "Adjektivet for metal er metallic, men ikke for iron...",
+          "body": "...which is ironic. [merknad: På engelsk skjuler «ironic» ordet «iron», altså jern.]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -24598,6 +24788,14 @@
       "sourceWindow": {
         "after": "2026-04-17",
         "before": "2026-05-01"
+      },
+      "localized": {
+        "nb": {
+          "title": "Jeg liker lange avsporinger om å fjerne glidemiddelet fra rasshølet ditt.",
+          "body": "Butt I degrease. [merknad: Høres ut som «but I digress», altså «men jeg sporer av».]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -25448,6 +25646,14 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
+      },
+      "localized": {
+        "nb": {
+          "title": "Gutten dro på college ...",
+          "body": "... og fikk seg fippskjegg, som han var veldig stolt av.\nHan tok en selfie og sendte den til faren sin med teksten:\n«Dette får meg til å se ganske ut som en count, gjør det ikke?»\n\nFaren snur seg mot moren og sier: «Gutten har fått skjegg, men kan fortsatt ikke stave.» [merknad: ordspillet er på engelsk «count» og det grove ordet man får hvis man glemmer én bokstav.]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -25752,6 +25958,14 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
+      },
+      "localized": {
+        "nb": {
+          "title": "En kvinne ble arrestert for å ha prøvd å kutte av penisen til mannen sin",
+          "body": "Hun traff beinet i stedet, så hun ble bare siktet for en bom-på-wiener. [merknad: ordspillet er på engelsk «misdemeanor», som høres ut som «missed da wiener».]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -25770,6 +25984,14 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hvordan hører du forskjell på en forsker og en rørlegger?",
+          "body": "Be dem uttale «uionisert».",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -26334,6 +26556,14 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
+      },
+      "localized": {
+        "nb": {
+          "title": "Jeg datet ei jente fra Eaton.",
+          "body": "Eller kanskje det var omvendt, og hun var fra Dayton. [merknad: på engelsk spiller vitsen på at «dating» og «Dayton», og «eating» og «Eaton», høres like ut.]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -28042,6 +28272,14 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva bør du gjøre hvis du er avhengig av tang?",
+          "body": "Søk kelp. [merknad: ordspillet er på engelsk «sea kelp», som høres ut som «seek help».]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -29334,6 +29572,14 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hvorfor kom kuene tilbake til marihuanaåkeren?",
+          "body": "Potta kalte kveget tilbake. [merknad: ordspillet viser til uttrykket «the pot calling the kettle black».]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -29586,6 +29832,14 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
+      },
+      "localized": {
+        "nb": {
+          "title": "Politimannen spurte: «Hvem sin bil er dette? Hvor skal du? Hva jobber du med?»",
+          "body": "Gruvearbeideren svarte: «Mine.» [merknad: på engelsk betyr «mine» både «min» og «gruve».]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -30644,6 +30898,14 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du en potet som nøler?",
+          "body": "En nølepotet ...",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -31520,6 +31782,14 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
+      },
+      "localized": {
+        "nb": {
+          "title": "Folk tror visst ikke gresset er vått om morgenen.",
+          "body": "Men det er jo dugg.",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -31824,6 +32094,14 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
+      },
+      "localized": {
+        "nb": {
+          "title": "Kaffe ble nylig kåret til landets beste drikk, men valget var rigget ...",
+          "body": "Det var altfor mange fraværs-te-stemmer. [merknad: på engelsk høres «Absent Tea ballots» ut som «absentee ballots», altså forhånds-/fraværsstemmer.]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -32024,6 +32302,14 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
+      },
+      "localized": {
+        "nb": {
+          "title": "Jeg skal tatovere «Terror» på håndleddet.",
+          "body": "Da kan jeg si: «Se, en terror-wrist!» [merknad: på engelsk høres «terror wrist» ut som «terrorist».]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -32432,6 +32718,14 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
+      },
+      "localized": {
+        "nb": {
+          "title": "Jeg meldte meg på et lotteri for å vinne et helt kjøpesenter, men tapte.",
+          "body": "Man kan visst ikke win a mall. [merknad: på engelsk høres «win a mall» ut som «win 'em all», altså vinne dem alle.]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -32450,6 +32744,14 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du en kinesisk amputert?",
+          "body": "TaiWanSko",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -33066,6 +33368,14 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
+      },
+      "localized": {
+        "nb": {
+          "title": "Datteren min spurte hvorfor nesten alle sjøfugler er lesbiske",
+          "body": "Fordi hun ser masse «sea girls», men nesten aldri hører om «sea boys». [merknad: «sea girls» høres ut som «seagulls», måker, mens «sea boys» blir en tullete motpart.]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -33396,6 +33706,14 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva skjer hvis noen klasker deg med høy frekvens?",
+          "body": "Det Hertz! [merknad: «Hertz» er en frekvensenhet og høres ut som engelsk «hurts», altså «gjør vondt».]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -33414,6 +33732,15 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
+      },
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Ford burde lage en kupé og kalle den Oar",
+          "body": "Da blir det en Ford Oar two-door [merknad: høres ut som «four-door», altså firedørs.]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -34134,6 +34461,14 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
+      },
+      "localized": {
+        "nb": {
+          "title": "Jeg hørte at Charles Dickens' «A Tale of Two Cities» først gikk som føljetong i lokalavisa.",
+          "body": "Det var Bicester Times,\n\ndet var Worcester Times. [merknad: uttalt på engelsk høres dette ut som åpningen «It was the best of times, it was the worst of times».]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -34464,6 +34799,14 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva er forskjellen på unlawful og illegal?",
+          "body": "Det ene er lovbrudd, det andre er en syk ørn. [merknad: «illegal» høres ut som «ill eagle», altså en syk ørn.]",
+          "at": "2026-06-06T22:19:44.961Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -34482,6 +34825,14 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
+      },
+      "localized": {
+        "nb": {
+          "title": "Flyvertinnen: «Vindu eller midtgang?»",
+          "body": "«Vindu. Ellers hva?»",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -34578,6 +34929,14 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
+      },
+      "localized": {
+        "nb": {
+          "title": "«Sitter du godt?» spurte servitøren",
+          "body": "«Nei, jeg kom for maten.»",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -34596,6 +34955,14 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
+      },
+      "localized": {
+        "nb": {
+          "title": "Pappa: Bank, bank. Sønn: Hvem der? Pappa: Haik. Sønn: Haik hvem?",
+          "body": "Uvitende sønn\n\nPappa holder pusten nå\n\nFellen er perfekt",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -34640,7 +35007,8 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
-      }
+      },
+      "translateAttempts": 1
     },
     {
       "id": "1sbn4cy",
@@ -34710,6 +35078,14 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
+      },
+      "localized": {
+        "nb": {
+          "title": "På middagen sa daten min oppgitt: «Så soving og sofakos er seriøst de eneste hobbyene dine? Du sa jo at du var interessant!»",
+          "body": "«Nei da,» rettet jeg. «Jeg sa at jeg var interessert i å hvile.»",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -34858,7 +35234,8 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
-      }
+      },
+      "translateAttempts": 1
     },
     {
       "id": "1snauwv",
@@ -35318,7 +35695,8 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
-      }
+      },
+      "translateAttempts": 1
     },
     {
       "id": "1ses24g",
@@ -35336,6 +35714,14 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
+      },
+      "localized": {
+        "nb": {
+          "title": "Sønnen min studerer juss, så jeg sendte ham melding: «Hvis du kiler en mann i hjel ved et uhell ...»",
+          "body": "«Er det uaktsomt latterdrap?»",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -35484,6 +35870,14 @@
       "sourceWindow": {
         "after": "2026-04-03",
         "before": "2026-04-17"
+      },
+      "localized": {
+        "nb": {
+          "title": "Etter at du dør, er pupillene den siste delen av kroppen som slutter å virke, fordi ...",
+          "body": "... de utvider seg!",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -35710,6 +36104,14 @@
       "sourceWindow": {
         "after": "2026-03-20",
         "before": "2026-04-03"
+      },
+      "localized": {
+        "nb": {
+          "title": "Jeg spurte Arnold Schwarzenegger hva favorittferien hans var. Han svarte...",
+          "body": "Det må bli påske, baby [merknad: på engelsk låter «Has to be Easter, baby» som Schwarzeneggers «Hasta la vista, baby».]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -35936,6 +36338,14 @@
       "sourceWindow": {
         "after": "2026-03-20",
         "before": "2026-04-03"
+      },
+      "localized": {
+        "nb": {
+          "title": "Du vet at en løve aldri ville kjørt i fylla...",
+          "body": "Men Tiger Woods. [merknad: på engelsk låter «a tiger would» som navnet Tiger Wood(s).]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -36188,6 +36598,14 @@
       "sourceWindow": {
         "after": "2026-03-20",
         "before": "2026-04-03"
+      },
+      "localized": {
+        "nb": {
+          "title": "Sønnen min spurte: «Hvor kommer poo fra?» Jeg ble litt utilpass, men ga ham en ærlig forklaring. Han så forvirret ut, stirret sjokkert på meg i noen sekunder og sa...",
+          "body": "\n\n«Og Tigger?» [merknad: «poo» høres ut som Pooh i Winnie-the-Pooh.]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -36804,6 +37222,14 @@
       "sourceWindow": {
         "after": "2026-03-20",
         "before": "2026-04-03"
+      },
+      "localized": {
+        "nb": {
+          "title": "En blakk bassist går ut av en musikkbutikk uten instrument",
+          "body": "Bassisten går nedover gata og ser en dame med en flaske Coca-Cola og en boks.\n\nHan spør: «Hvor fikk du den colaen?»\n\nDama forklarer: «Fra denne boksen. Skriv noe på en lapp og putt den inn, så får du det du ba om.» Så gir hun ham penn og papir.\n\nBassisten takker kort, skriver «bass» på lappen og putter den i boksen.\n\nNår dama åpner boksen, blir bassisten skuffet over å finne en fisk inni og sier: «Hva faen?»\n\nDama svarer: «Du må være ekstremt presis og tydelig. Jeg ba ikke om Coca-Cola.»",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -36900,6 +37326,14 @@
       "sourceWindow": {
         "after": "2026-03-20",
         "before": "2026-04-03"
+      },
+      "localized": {
+        "nb": {
+          "title": "Et strengeinstrument går inn på en bar.",
+          "body": "Bartenderen spør: «Hva er du?»\n\nInstrumentet sier: «Jeg er en harpe.»\n\nBartenderen svarer: «Er du ikke litt liten til å være harpe?»\n\nInstrumentet svarer: «Kaller du meg en lyre?»",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -37490,6 +37924,14 @@
       "sourceWindow": {
         "after": "2026-03-20",
         "before": "2026-04-03"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hvilke pronomen identifiserer Reese's Cups seg som?",
+          "body": "Her/she [merknad: «Hershey» er sjokolademerket, og låter som «her/she».]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -37898,6 +38340,14 @@
       "sourceWindow": {
         "after": "2026-03-20",
         "before": "2026-04-03"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva var Whitney Houstons favorittkoordinasjon?",
+          "body": "Hånd-EEEEYYYYY-øye",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -38202,6 +38652,14 @@
       "sourceWindow": {
         "after": "2026-03-20",
         "before": "2026-04-03"
+      },
+      "localized": {
+        "nb": {
+          "title": "Jeg sa til legen at jeg var blitt bitt av en varulv.",
+          "body": "«Var?» spurte hun.\n\n«Nei, bare en helt vanlig ulv,» svarte jeg.",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -38610,6 +39068,14 @@
       "sourceWindow": {
         "after": "2026-03-20",
         "before": "2026-04-03"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du en som bare leser 12,5 % av Bibelen?",
+          "body": "En åttendeteist! [merknad: ordspill på engelsk «atheist» og «eighth» (en åttendedel).]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -38810,6 +39276,14 @@
       "sourceWindow": {
         "after": "2026-03-20",
         "before": "2026-04-03"
+      },
+      "localized": {
+        "nb": {
+          "title": "Jeg sa til datteren min: «Gå og legg deg, kuene sover ute på beitet.» Forvirret spurte hun: «Hva har det med saken å gjøre?» Jeg humret: «Jo, det betyr at...»",
+          "body": "\n\n«Det er past-your bedtime!» [merknad: ordspill på engelsk «pasture» (beite) og «past your bedtime» (over leggetid).]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -38932,6 +39406,14 @@
       "sourceWindow": {
         "after": "2026-03-20",
         "before": "2026-04-03"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hvordan tilfredsstilte Fred Wilma?",
+          "body": "Han fikk senga til å rocke.",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -39444,7 +39926,8 @@
       "sourceWindow": {
         "after": "2026-03-20",
         "before": "2026-04-03"
-      }
+      },
+      "translateAttempts": 1
     },
     {
       "id": "1s1ozgm",
@@ -40320,6 +40803,14 @@
       "sourceWindow": {
         "after": "2026-03-20",
         "before": "2026-04-03"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva slags BH bruker Medusa?",
+          "body": "\\>!En kobra!< [merknad: På engelsk høres «cobra» ut som «co-bra», altså en slags BH.]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -40364,6 +40855,14 @@
       "sourceWindow": {
         "after": "2026-03-20",
         "before": "2026-04-03"
+      },
+      "localized": {
+        "nb": {
+          "title": "En full sjømann gir en prostituert 100 dollar, og de går inn på bakrommet. Etter noen minutter spør sjømannen: «Hvordan går det?»",
+          "body": "«Omtrent tre knop», sier hun.\n\n«Tre knop?» spør sjømannen. «Hva mener du?»\n\nHun svarer: «Du er ikke hard, du er ikke inne, og du får ikke pengene tilbake.» [merknad: På engelsk spiller «knots» på «nots», altså «ikke».]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -40460,6 +40959,14 @@
       "sourceWindow": {
         "after": "2026-03-20",
         "before": "2026-04-03"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hvorfor er store bokstaver viktige?",
+          "body": "De er forskjellen på å hjelpe onkel Jack ned fra en hest og å hjelpe onkel med å runke av en hest. [merknad: På engelsk skiller stor J i «Jack» navnet fra verbfrasen «jack off», altså runke.]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -40660,6 +41167,14 @@
       "sourceWindow": {
         "after": "2026-03-20",
         "before": "2026-04-03"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hørte du om fyren som kollapset da han prøvde å bestige Mount Everest?",
+          "body": "Myndighetene fant ham liggende der. [merknad: På engelsk høres «Himalayan» ut som «him a-lyin'», altså «ham liggende».]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -41094,6 +41609,14 @@
       "sourceWindow": {
         "after": "2026-03-20",
         "before": "2026-04-03"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du en blind måke?",
+          "body": "En ikke-se-måke...",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -41190,6 +41713,14 @@
       "sourceWindow": {
         "after": "2026-03-20",
         "before": "2026-04-03"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du en dør som ikke vil lukke seg helt?",
+          "body": "Mason.\n\nFordi den står på gløtt. [merknad: På engelsk er punchlinen «because it's a jar», som både betyr «på gløtt» og høres ut som «a jar», en krukke av typen mason jar.]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -41494,6 +42025,14 @@
       "sourceWindow": {
         "after": "2026-03-20",
         "before": "2026-04-03"
+      },
+      "localized": {
+        "nb": {
+          "title": "Jeg hørte nettopp en skikkelig skummel vits om matte.",
+          "body": "Men jeg er 2² til å fortelle den videre. [merknad: «2²» leses som «two squared», som på engelsk høres ut som «too scared».]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -42448,6 +42987,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hvordan staver du Hawaii?",
+          "body": "KYKLOPEN: Hvordan staver du Hawaii?\n\nKONA: \\[biter seg i leppa\\] vel ... du trenger to i-er\n\nKYKLOPEN: \\[legger fra seg pennen\\] livet mitt er bare en vits for deg, er det ikke, Linda",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -42570,6 +43117,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Folk som ringer sextelefoner vil bokstavelig talt bare én ting.",
+          "body": "Og jeg synes det er jævlig grisete prat.",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -42718,6 +43273,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Bjørnejakt i Canada",
+          "body": "En amerikansk advokat og den tsjekkiske svogeren hans er på jaktferie i Canada.\n\nIdet de går ut av teltet, kommer de over en hannbjørn og en hunnbjørn midt i en intim stund. Rasende over å bli avbrutt brøler hannbjørnen, reiser seg opp og kaster seg fram. Så sluker den advokatens svoger hel!\n\nAmerikaneren løper etter hjelp og roper på den canadiske skogvokteren, som kommer med jaktrifla si. Amerikaneren peker på hannbjørnen og sier: «Fort! Skyt ham, men vær forsiktig, svogeren min er inni magen hans!»\n\nSkogvokteren løfter rifla, sikter og skyter hunnbjørnen rett ned. Skremt av skuddet løper hannbjørnen av gårde.\n\nAmerikaneren faller på kne, ser på canadieren og spør: «Hvorfor skjøt du feil bjørn?»\n\nSkogvokteren fnyser og sier: «Trodde du virkelig jeg skulle tro på en advokat som sier at tsjekken er i hannen?» [merknad: på engelsk høres «the Czech is in the male» ut som «the check is in the mail», en klassisk løgn.]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -42788,6 +43351,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du en kanin med skjev pikk?",
+          "body": "Fucks Funny. [merknad: ordspillet vrir «Bugs Bunny» til «Fucks Funny», altså at han knuller rart.]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -42806,6 +43377,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "En bygutt flytter på landet med familien ...",
+          "body": "Den første uka kjeder gutten vettet av seg. Internett og mobildekning er elendig, han savner vennene sine, og foreldrene har ennå ikke pakket ut lekene og spillene hans. Men han ser at naboen, en gammel bonde, har en dam på eiendommen. Så gutten får en idé.\n\nHan tar en rull duct tape fra flyttelasset og begynner å gå mot dammen. Den gamle bonden ser opp fra arbeidet og sier: «Gutten min, hva skal du med den teipen?» Gutten sier: «Jeg skal fange noen ducks.» Bonden sier: «Du kan ikke fange ender med duct tape», og fortsetter å jobbe. Noen timer senere kommer gutten tilbake fra dammen med en hel haug ender surret fast i teip. Bonden rister på hodet og jobber videre.\n\nAller neste dag ser bonden gutten krysse gården igjen, denne gangen med hønsenetting. Bonden roper: «Gutten min, hva skal du med den hønsenettingen?» Gutten svarer: «Jeg skal fange noen høns.» Bonden sier: «Du kan ikke fange høns med hønsenetting», og går tilbake til arbeidet. Timer senere ser han gutten igjen, nå med en haug høns viklet inn i nettingen. Bonden rister bare på hodet og jobber videre.\n\nEnda en dag går, og bonden ser gutten krysse gården igjen. Denne gangen bærer gutten en stor bunt pussy willow. Bonden sier: «Vent litt, gutten min! Jeg blir med!»",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -43032,6 +43611,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "En mann gikk gjennom skogen sent en kveld...",
+          "body": "... da han så et lys som flakket unaturlig fram og tilbake i lufta. Plutselig kom lyset mot ham. Redd for at han skulle møte noe overnaturlig, gjemte han seg i høyt gress. Da lyset kom nærmere, så han at det bare var en kvinne til hest. På seletøyet bak på hesten var det festet en lang stang med en lykt. For hvert steg hesten tok, svingte lykten rundt hesten og kvinnen.\n\nMannen følte seg mindre truet og reiste seg opp fra gresset.\n\n«Unnskyld,» spurte han, «hva er det der du har festet på hesten?»\n\n«Å?» sa kvinnen. «Det er bare sal-lyset mitt.» [merknad: «sal-lys» skal høres ut som «satellitt».]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -43128,6 +43715,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva er forskjellen på paraffin og bensin?",
+          "body": "Det er to f-er i paraffin, men ikke en føkkings dråpe bensin.",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -43484,6 +44079,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Lærer: Johnny, lag en setning med «I» i.",
+          "body": "Lærer: Johnny, lag en setning med «I» i.\n\nJohnny: I is...\n\nLærer: Nei, Johnny, når du sier «I», skal det følges av «am».\n\nJohnny: Greit: I am den niende bokstaven i alfabetet. [merknad: på engelsk betyr «I am» «jeg er», men Johnny bruker «I» som bokstaven i.]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -44152,6 +44755,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Jeg fløy nettopp hjem fra en ravioli-messe",
+          "body": "og Boyardee’s armer er slitne. [merknad: «Boyardee’s» høres ut som «boy, are these» i «boy, are these arms tired».]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -44274,6 +44885,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Jeg sa til legen at hørselen min blir dårligere. Han sa: «Beskriv symptomene.»",
+          "body": "Jeg sa: «Vel, Homer er feit, og Marge har blått hår ...»",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -44422,6 +45041,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hvorfor dro den ikke-binære gullgraveren vestover?",
+          "body": "Fordi det er gull i dem/deres åser.",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -44544,6 +45171,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "12,5 % av meg tror på Gud.",
+          "body": "Jeg er en åttendedels teist. [merknad: på engelsk høres “an eighth theist” ut som “an atheist”.]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -44640,6 +45275,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hørte du om gitaren som gjorde folk opphisset når den ble spilt på?",
+          "body": "Den måtte settes på sexy Fender-registeret. [merknad: ordspill på “sex offender register” og gitarmerket Fender.]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -44970,6 +45613,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Et par siamesiske tvillinger gikk gjennom biologilaben på skolen.",
+          "body": "Et par siamesiske tvillinger gikk gjennom biologilaben på skolen.\n\nPlutselig slo den ene tåa så hardt at hun falt i bakken.\n\nPå en eller annen måte skilte støtet tvillingene fra hverandre.\n\nDen andre tvillingen stirret ned på henne og sa:\n\n«Hva var det som skjedde?!»\n\nTvillingen på gulvet, mens hun holdt seg om foten, skrek:\n\n«TÅA MI, SIS!» [merknad: på engelsk høres “my toe, sis” ut som “mitosis”, celledeling.]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -45014,6 +45665,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva er verre enn maur i buksa?",
+          "body": "Onkler. [merknad: på engelsk spiller vitsen på “ants” og “aunts”, altså tanter.]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -45734,6 +46393,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva er laget av skinn og høres ut som et nys?",
+          "body": "En shoe!!!!!! [merknad: “shoe” betyr sko og kan høres ut som et nys på engelsk.]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -46090,6 +46757,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hvor ligger Moscow?",
+          "body": "I fjøset, sammen med kua til far.\n\n(Husker den fortsatt fra da jeg var liten.) [merknad: “Moscow” høres ut som “ma’s cow”, altså mors ku.]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -46498,6 +47173,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hvorfor er bokstaven A som en blomst?",
+          "body": "Fordi det kommer en B etter den! [merknad: på engelsk uttales B som «bee», altså bie]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -46542,6 +47225,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva slags brann gjør rommet fuktig?",
+          "body": "En humidifire. [merknad: ordspill på «humidifier» og «fire»]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -46768,6 +47459,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Peruanske ugler jakter alltid to og to.",
+          "body": "Fordi de er Inca hoots. [merknad: høres ut som «in cahoots», altså i ledtog]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -46838,6 +47537,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva slags sko bruker frosker?",
+          "body": "Open toad shoes. [merknad: ordspill på «open-toed shoes» og «toad», padde]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -46908,6 +47615,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva sa Spartacus da løven spiste kona hans?",
+          "body": "Ingenting. Han var gladiator. [merknad: ordspill på «gladiator» og «glad he ate her»]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -47394,6 +48109,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Ordet «brain» er 40 % AI.",
+          "body": "Resten er BRN.",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -47594,6 +48317,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du en feit klarsynt?",
+          "body": "En firehakers spåkone. [merknad: «four-chin teller» høres ut som «fortune teller», altså spåkone]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -47846,6 +48577,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Con er det motsatte av pro.",
+          "body": "Så det motsatte av progress er congress. [merknad: ordspillet bygger på at «pro» og «con» er motsetninger på engelsk]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -47916,6 +48655,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Fotball",
+          "body": "I dag fant jeg ut to ting om skuespilleren Yul Bruner: 1) Han var Liverpool-supporter hele livet. 2) Han brukte aldri aftershave. Stemmer: Yul never wore cologne. [merknad: uttales omtrent som «You'll Never Walk Alone», Liverpool-sangen]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -48220,6 +48967,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Jeg fløy nettopp hjem fra en raviolimesse ...",
+          "body": "og Boyardee var armene slitne! [merknad: spiller på «boy, are these arms tired!» og Chef Boyardee]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -48394,6 +49149,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du en mann med spade på hodet?",
+          "body": "Doug. [merknad: høres ut som «dug», altså gravd, på engelsk]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -48906,6 +49669,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva er forskjellen på en indisk og en vietnamesisk restaurant?",
+          "body": "Vietnamesiske restauranter er pho profit, indiske er naan profit. [merknad: spiller på «for profit» og «nonprofit», med rettene pho og naan]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -49054,6 +49825,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hvordan tilfredsstiller en alkymist kona si?",
+          "body": "Eliksir. [merknad: På engelsk høres «elixir» ut som «he licks her».]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -49176,6 +49955,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hvis du noen gang vil bygge et stort skip for å redde dyr fra en flom, kom til meg.",
+          "body": "Jeg kjenner en Noa.\n\nHan er arkitekt. [merknad: På engelsk spiller «I Noah guy» på «I know a guy», og «arkitect» på «ark».]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -49402,6 +50189,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva får du hvis du blander en elefant, et neshorn og et helikopter?",
+          "body": "Hel-e-faen-ikke. [merknad: Originalen spiller på «hell if I know».]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -49602,6 +50397,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Folk sier jeg ikke bør ha «Short Skirt/Long Jacket» på Weird Al-spillelista mi.",
+          "body": "Men jeg vil både ha Cake og «Eat It» også.",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -49776,6 +50579,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Fun fact: Koifisk svømmer alltid i grupper på fire.",
+          "body": "Hvis de blir angrepet, stikker A-, B- og C-koien, og lar D-koien bli igjen. [merknad: «D koi» høres ut som engelske «decoy», altså lokkedue.]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -49872,6 +50683,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Jeg kjøpte mandaloriansk stål på svartebørsen for å lage en bil.",
+          "body": "Det er den beste beskar jeg noen gang har laget. [merknad: På engelsk høres «beskar» ut som «best car».]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -49916,6 +50735,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "En lama med én L er en religiøs leder. En llama med to L-er er et dyr med pukkel. Hva er en lama med tre L-er?",
+          "body": "En skikkelig stor brann. [merknad: på engelsk høres «three L lama» ut som «three-alarm fire», en storbrann.]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -50012,6 +50839,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva gjør du med en elefant som har tre baller?",
+          "body": "Gir ham walk og pitcher til sjiraffen.",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -50134,6 +50969,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva er forskjellen på Black Eyed Peas og kikerter?",
+          "body": "Black Eyed Peas kan synge en låt for oss, mens kikerter bare kan hummus en. [merknad: ordspillet er på «hum us» og «hummus».]",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -50230,7 +51073,8 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
-      }
+      },
+      "translateAttempts": 1
     },
     {
       "id": "1rnfnww",
@@ -50820,6 +51664,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Ordet «brain» er 40 % AI.",
+          "body": "Resten er BRN.",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -50994,6 +51846,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hvis 6 er redd for 7 fordi 7 8 9, hva betyr det?",
+          "body": "7,4",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -51194,6 +52054,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du Abel med brukket bein?",
+          "body": "U-Abel. [merknad: ordspillet bygger på engelsk «disabled» og navnet Abel]\n\n  \n",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -51238,6 +52106,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Jeg viste legen en mus på pikken",
+          "body": " og han så veldig bekymret ut og ringte Dyrebeskyttelsen med én gang.\n\n  \n",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
@@ -51256,6 +52132,14 @@
       "sourceWindow": {
         "after": "2026-03-06",
         "before": "2026-03-20"
+      },
+      "localized": {
+        "nb": {
+          "title": "Jeg fjernet midten av ordboka mi.",
+          "body": "Nå er den bare ei dagbok.",
+          "at": "2026-06-06T22:56:44.355Z",
+          "model": "codex default"
+        }
       }
     },
     {
