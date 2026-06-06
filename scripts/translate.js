@@ -1,5 +1,6 @@
-import { readFile, writeFile, rename, mkdtemp, rm } from 'node:fs/promises';
+import { readFile, writeFile, rename, mkdtemp, rm, readdir, stat } from 'node:fs/promises';
 import { spawn } from 'node:child_process';
+import { existsSync } from 'node:fs';
 import path from 'node:path';
 import os from 'node:os';
 import { fileURLToPath } from 'node:url';
@@ -41,6 +42,11 @@ function describeFailure(out, err) {
 // they're handled specially: never retried, and the joke is set aside.
 const isContentFilter = (msg) => /content filtering|blocked by content|content[ _-]?policy/i.test(String(msg));
 
+// Codex on a ChatGPT session can hit an expired/invalidated login that only a
+// human browser re-login fixes — fatal for an unattended cron, so surface it
+// loudly (and never retry it).
+const isCodexAuthError = (msg) => /not logged in|run `?codex login|please (sign|log) ?in|unauthorized|\b401\b|authentication (failed|required|error)|session (has )?expired|token (has )?expired|re-?authenticate|invalid_grant|refresh token/i.test(String(msg));
+
 function runClaude({ systemPromptFile, userPrompt, model, maxBudgetUsd, timeoutMs = 150000 }) {
   return new Promise((resolve, reject) => {
     const args = [
@@ -81,16 +87,84 @@ function runClaude({ systemPromptFile, userPrompt, model, maxBudgetUsd, timeoutM
   });
 }
 
-// Transient failures (API overload/rate-limit, timeouts) are common across a
-// long back-to-back run; retry a few times with linear backoff before skipping.
-async function runClaudeWithRetry(opts, attempts = 3) {
+// --- Codex (OpenAI) provider -------------------------------------------------
+// Resolve the codex binary. The Windows install lives under a per-version hash
+// dir (%LOCALAPPDATA%\OpenAI\Codex\bin\<hash>\codex.exe) that is NOT on PATH and
+// changes on every auto-update, so pick the newest one (override via config).
+let CODEX_BIN = null;
+async function resolveCodex(explicit) {
+  if (CODEX_BIN) return CODEX_BIN;
+  const onPath = process.platform === 'win32' ? 'codex.exe' : 'codex';
+  const candidates = [];
+  if (explicit) candidates.push(explicit);
+  try {
+    const base = path.join(process.env.LOCALAPPDATA || '', 'OpenAI', 'Codex', 'bin');
+    const found = [];
+    for (const s of await readdir(base)) {
+      const exe = path.join(base, s, onPath);
+      if (existsSync(exe)) found.push([exe, (await stat(exe)).mtimeMs]);
+    }
+    found.sort((a, b) => b[1] - a[1]); // newest install first
+    if (found[0]) candidates.push(found[0][0]);
+  } catch {}
+  candidates.push(onPath); // last resort: let spawn resolve via PATH
+  CODEX_BIN = candidates.find((p) => p === onPath || existsSync(p)) || onPath;
+  return CODEX_BIN;
+}
+
+// Run a one-shot translation through `codex exec` (read-only, non-interactive).
+// Codex has no --system-prompt-file, so the guidelines are folded into the
+// prompt; the final assistant message (the JSON array) is read back from -o.
+function runCodex({ systemPrompt, userPrompt, model, timeoutMs = 150000, codexPath }) {
+  return new Promise((resolve, reject) => {
+    (async () => {
+      let bin, tmp, outFile;
+      try {
+        bin = await resolveCodex(codexPath);
+        tmp = await mkdtemp(path.join(os.tmpdir(), 'artige-codex-'));
+        outFile = path.join(tmp, 'out.txt');
+      } catch (e) { return reject(new Error(`codex setup failed: ${e.message}`)); }
+      const prompt = systemPrompt +
+        '\n\nThis is a one-shot translation task. Do not plan, do not use any tools, do not read or write files, do not ask questions. ' +
+        'Translate the following JSON array of jokes and respond with ONLY the resulting JSON array — no markdown fences, no commentary:\n\n' +
+        userPrompt;
+      const args = ['exec', '-s', 'read-only', '--skip-git-repo-check', '-C', tmp, '--color', 'never', '-o', outFile];
+      if (model) args.push('--model', model);
+      args.push(prompt);
+      const proc = spawn(bin, args, { stdio: ['ignore', 'pipe', 'pipe'] });
+      let out = '', err = '', timedOut = false;
+      const timer = setTimeout(() => { timedOut = true; proc.kill(); }, timeoutMs);
+      proc.stdout.on('data', (d) => (out += d));
+      proc.stderr.on('data', (d) => (err += d));
+      const cleanup = () => rm(tmp, { recursive: true, force: true }).catch(() => {});
+      proc.on('error', (e) => { clearTimeout(timer); cleanup(); reject(new Error(`codex spawn failed (${bin}): ${e.message}`)); });
+      proc.on('close', async (code) => {
+        clearTimeout(timer);
+        let finalMsg = '';
+        try { finalMsg = await readFile(outFile, 'utf8'); } catch {}
+        cleanup();
+        const blob = finalMsg.trim() || out.trim();
+        if (timedOut) return reject(new Error(`codex timed out after ${Math.round(timeoutMs / 1000)}s`));
+        if (isCodexAuthError(`${blob} ${err}`)) return reject(new Error(`codex auth/login needed — re-run \`codex login\` (an unattended cron cannot browser-login): ${(err || blob).slice(0, 200)}`));
+        if (code !== 0 && !blob) return reject(new Error(`codex exited ${code}: ${(err || '(no output)').slice(0, 300)}`));
+        if (!blob) return reject(new Error('codex produced no output'));
+        resolve(blob);
+      });
+    })();
+  });
+}
+
+// Transient failures (overload/rate-limit, timeouts) are common across a long
+// back-to-back run; retry a few times with linear backoff. Content-filter and
+// auth errors are deterministic / need a human, so they're never retried.
+async function withRetry(fn, attempts = 3) {
   let lastErr;
   for (let attempt = 1; attempt <= attempts; attempt++) {
     try {
-      return await runClaude(opts);
+      return await fn();
     } catch (e) {
       lastErr = e;
-      if (isContentFilter(e.message)) throw e; // deterministic; retrying won't help
+      if (isContentFilter(e.message) || isCodexAuthError(e.message)) throw e;
       if (attempt < attempts) {
         const backoffMs = 10000 * attempt;
         console.error(`    attempt ${attempt}/${attempts} failed: ${e.message.slice(0, 160)}; retry in ${backoffMs / 1000}s`);
@@ -163,6 +237,7 @@ async function saveArchive(archive) {
 async function main() {
   const config = JSON.parse(await readFile(CONFIG_PATH, 'utf8'));
   const t = config.translate || {};
+  const provider = (t.provider || 'claude').toLowerCase();
   if (!t.enabled) {
     console.log('translate.enabled=false; skipping');
     return;
@@ -188,7 +263,8 @@ async function main() {
     console.log(`Nothing new to translate to ${langName}.`);
     return;
   }
-  console.log(`Translating ${candidates.length} jokes to ${langName} (model=${t.model})...`);
+  const modelLabel = provider === 'codex' ? (t.codexModel || 'codex default') : t.model;
+  console.log(`Translating ${candidates.length} jokes to ${langName} (provider=${provider}, model=${modelLabel})...`);
 
   const batchSize = t.batchSize || 30;
   const maxAttempts = t.maxAttempts ?? 3;
@@ -204,9 +280,11 @@ async function main() {
   // the call itself fails (timeout, overload, content filter, ...).
   async function translateInto(jokes) {
     const userPrompt = JSON.stringify(jokes.map((j) => ({ id: j.id, title: j.title, body: j.body || '' })));
-    const raw = await runClaudeWithRetry({
-      systemPromptFile, userPrompt, model: t.model, maxBudgetUsd: t.maxBudgetUsd, timeoutMs: t.timeoutMs,
-    });
+    const raw = await withRetry(() =>
+      provider === 'codex'
+        ? runCodex({ systemPrompt, userPrompt, model: t.codexModel, timeoutMs: t.timeoutMs, codexPath: t.codexPath })
+        : runClaude({ systemPromptFile, userPrompt, model: t.model, maxBudgetUsd: t.maxBudgetUsd, timeoutMs: t.timeoutMs }),
+    );
     const { translations, cost } = extractTranslations(raw);
     if (cost) totalCost += cost;
     const byId = new Map(translations.map((r) => [r.id, r]));
@@ -215,7 +293,7 @@ async function main() {
       const r = byId.get(j.id);
       if (r && typeof r.title === 'string') {
         j.localized = j.localized || {};
-        j.localized[lang] = { title: r.title, body: typeof r.body === 'string' ? r.body : '', at, model: t.model };
+        j.localized[lang] = { title: r.title, body: typeof r.body === 'string' ? r.body : '', at, model: modelLabel };
         done.add(j.id);
       }
     }
@@ -269,7 +347,7 @@ async function main() {
         consecutiveFailures++;
         console.error(`  batch ${batchNum}/${totalBatches} failed: ${e.message}`);
         if (consecutiveFailures >= maxConsecutiveFailures) {
-          console.error(`Aborting run after ${consecutiveFailures} consecutive failures (claude/API likely unavailable). Progress saved; remaining jokes retry next run.`);
+          console.error(`Aborting run after ${consecutiveFailures} consecutive failures (${provider} API likely unavailable). Progress saved; remaining jokes retry next run.`);
           break;
         }
         await saveArchive(archive);

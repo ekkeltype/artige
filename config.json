@@ -25,7 +25,10 @@
   "translate": {
     "enabled": true,
     "promptFile": "prompts/localize.md",
-    "model": "opus",
+    "provider": "codex",
+    "model": "haiku",
+    "codexModel": "",
+    "codexPath": "",
     "batchSize": 6,
     "maxBudgetUsd": 1.5,
     "timeoutMs": 180000,
