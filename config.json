@@ -31,7 +31,7 @@
     "codexPath": "",
     "batchSize": 12,
     "maxBudgetUsd": 1.5,
-    "timeoutMs": 180000,
+    "timeoutMs": 360000,
     "maxAttempts": 3
   }
 }
