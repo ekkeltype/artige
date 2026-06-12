@@ -25,11 +25,11 @@
   "translate": {
     "enabled": true,
     "promptFile": "prompts/localize.md",
-    "provider": "codex",
+    "provider": "claude",
     "model": "haiku",
     "codexModel": "",
     "codexPath": "",
-    "batchSize": 6,
+    "batchSize": 12,
     "maxBudgetUsd": 1.5,
     "timeoutMs": 180000,
     "maxAttempts": 3
