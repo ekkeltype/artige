@@ -47,6 +47,10 @@ const isContentFilter = (msg) => /content filtering|blocked by content|content[ 
 // loudly (and never retry it).
 const isCodexAuthError = (msg) => /not logged in|run `?codex login|please (sign|log) ?in|unauthorized|\b401\b|authentication (failed|required|error)|session (has )?expired|token (has )?expired|re-?authenticate|invalid_grant|refresh token/i.test(String(msg));
 
+// Plan-quota exhaustion (e.g. ChatGPT free tier) doesn't recover within a run,
+// so don't retry batches against it — report the reset date and stop.
+const isUsageLimit = (msg) => /usage limit|hit your usage|upgrade to plus|try again at/i.test(String(msg));
+
 function runClaude({ systemPromptFile, userPrompt, model, maxBudgetUsd, timeoutMs = 150000 }) {
   return new Promise((resolve, reject) => {
     const args = [
@@ -144,9 +148,13 @@ function runCodex({ systemPrompt, userPrompt, model, timeoutMs = 150000, codexPa
         try { finalMsg = await readFile(outFile, 'utf8'); } catch {}
         cleanup();
         const blob = finalMsg.trim() || out.trim();
+        // codex prefixes stderr with banner/stdin noise; its real errors are
+        // the `ERROR:` lines, so prefer those when reporting failures.
+        const errorLines = (err.match(/^\s*ERROR:.*$/gm) || []).map((s) => s.trim()).join(' ') || (err || blob).slice(0, 300);
         if (timedOut) return reject(new Error(`codex timed out after ${Math.round(timeoutMs / 1000)}s`));
-        if (isCodexAuthError(`${blob} ${err}`)) return reject(new Error(`codex auth/login needed — re-run \`codex login\` (an unattended cron cannot browser-login): ${(err || blob).slice(0, 200)}`));
-        if (code !== 0 && !blob) return reject(new Error(`codex exited ${code}: ${(err || '(no output)').slice(0, 300)}`));
+        if (isUsageLimit(`${blob} ${err}`)) return reject(new Error(`codex usage limit: ${errorLines.slice(0, 300)}`));
+        if (isCodexAuthError(`${blob} ${err}`)) return reject(new Error(`codex auth/login needed — re-run \`codex login\` (an unattended cron cannot browser-login): ${errorLines.slice(0, 300)}`));
+        if (code !== 0 && !blob) return reject(new Error(`codex exited ${code}: ${errorLines.slice(0, 300) || '(no output)'}`));
         if (!blob) return reject(new Error('codex produced no output'));
         resolve(blob);
       });
@@ -164,7 +172,7 @@ async function withRetry(fn, attempts = 3) {
       return await fn();
     } catch (e) {
       lastErr = e;
-      if (isContentFilter(e.message) || isCodexAuthError(e.message)) throw e;
+      if (isContentFilter(e.message) || isCodexAuthError(e.message) || isUsageLimit(e.message)) throw e;
       if (attempt < attempts) {
         const backoffMs = 10000 * attempt;
         console.error(`    attempt ${attempt}/${attempts} failed: ${e.message.slice(0, 160)}; retry in ${backoffMs / 1000}s`);
@@ -343,6 +351,12 @@ async function main() {
       } else if (isContentFilter(e.message)) {
         markFiltered(batch[0], 'content-filter');
         done = new Set();
+      } else if (isUsageLimit(e.message) || isCodexAuthError(e.message)) {
+        // Neither recovers within a run — stop immediately instead of burning
+        // the circuit breaker on every remaining batch. Jokes are untouched.
+        console.error(`  batch ${batchNum}/${totalBatches} failed: ${e.message}`);
+        console.error('Aborting run: provider quota/auth must be resolved before translations can resume.');
+        break;
       } else {
         consecutiveFailures++;
         console.error(`  batch ${batchNum}/${totalBatches} failed: ${e.message}`);
