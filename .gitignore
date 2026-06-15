@@ -2,3 +2,9 @@ node_modules/
 node/
 .DS_Store
 *.log
+
+# scratch files for the manual translation procedure (ops/translate-backlog.md)
+data/_*.json
+
+# local jokes.json backups (incl. apply's .bak_manual_*)
+data/jokes.json.bak_*

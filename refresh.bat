@@ -16,10 +16,10 @@ if errorlevel 1 (
     exit /b 1
 )
 
-node\node.exe scripts\translate.js >> refresh.log 2>&1
-if errorlevel 1 (
-    echo Translate failed; continuing with fetched data >> refresh.log
-)
+REM Translation is no longer run here. It is done manually in a Claude Code
+REM session via ops\translate-backlog.md ("do the thing"): claude -p + haiku was
+REM unreliable and low quality. This task only downloads new jokes; the manual
+REM procedure adds the Norwegian translations and commits them separately.
 
 git add data/jokes.json
 git diff --staged --quiet
