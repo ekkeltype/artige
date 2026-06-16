@@ -66,9 +66,12 @@ async function arcticGet(url, userAgent) {
 // Paginate posts in [after, before), newest-first. Each page uses the previous
 // page's oldest created_utc as the next `before`. Stops on a short page or
 // when maxPages is hit. The is_self/!stickied filter is applied client-side.
+// Returns { posts, ok }, where `ok` is true iff at least one request actually
+// reached the API — letting the caller tell an empty window apart from an outage.
 async function fetchPaginated(name, after, before, limit, maxPages, userAgent) {
   const all = [];
   let cursorBefore = before;
+  let ok = false;
   for (let page = 1; page <= maxPages; page++) {
     const url =
       `${ARCTIC_BASE}?subreddit=${encodeURIComponent(name)}` +
@@ -78,6 +81,7 @@ async function fetchPaginated(name, after, before, limit, maxPages, userAgent) {
     let items;
     try {
       const data = await arcticGet(url, userAgent);
+      ok = true; // reached the API (even if it returned zero items)
       items = data.data ?? [];
     } catch (err) {
       // Stop paginating on a per-page error but keep what we already have,
@@ -91,7 +95,7 @@ async function fetchPaginated(name, after, before, limit, maxPages, userAgent) {
     cursorBefore = new Date(oldest * 1000).toISOString();
     await sleep(1000);
   }
-  return all.filter((p) => !p.stickied && p.is_self);
+  return { posts: all.filter((p) => !p.stickied && p.is_self), ok };
 }
 
 function ingest(posts, byId, fetchedAt, extraFields = {}) {
@@ -124,13 +128,15 @@ async function runBackfill(config, byId, fetchedAt) {
   let added = 0;
   let updated = 0;
   let considered = 0;
+  let anyReachable = false; // did at least one sub's request actually succeed?
   for (const sub of config.subreddits) {
     try {
       process.stdout.write(`  r/${sub} ...`);
-      const posts = await fetchPaginated(
+      const { posts, ok } = await fetchPaginated(
         sub, windowAfter, windowBefore,
         config.limitPerSub, maxPagesPerSub, config.userAgent,
       );
+      if (ok) anyReachable = true;
       considered += posts.length;
       const r = ingest(posts, byId, fetchedAt, {
         sourceWindow: { after: windowAfter, before: windowBefore },
@@ -142,6 +148,16 @@ async function runBackfill(config, byId, fetchedAt) {
     } catch (err) {
       console.error(`  r/${sub} FAILED: ${err.message}`);
     }
+  }
+
+  // If every sub's request failed (e.g. an arctic-shift outage — HTTP 522), we
+  // harvested nothing because the source was unreachable, not because the window
+  // was empty. Leave the cursor untouched so this window is retried next run
+  // instead of being silently skipped — which would punch a permanent hole in
+  // the backfill.
+  if (!anyReachable) {
+    console.error(`[backfill] all subs unreachable; cursor stays at ${windowBefore} (window retried next run)`);
+    return { added, updated };
   }
 
   // advance cursor; loop to "yesterday" when we hit the floor
