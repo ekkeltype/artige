@@ -14,7 +14,7 @@
 // apply flags (optional):
 //   --model <tag>   provenance stamped on localized.<lang>.model (default: opus-4.8-manual)
 
-import { readFile, writeFile, rename, copyFile } from 'node:fs/promises';
+import { readFile, writeFile, rename, copyFile, rm } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -25,6 +25,8 @@ const DATA_PATH = path.join(ROOT, 'data', 'jokes.json');
 const BACKLOG_PATH = path.join(ROOT, 'data', '_backlog.json');
 const TRANSLATIONS_PATH = path.join(ROOT, 'data', '_translations.json');
 const FILTER_PATH = path.join(ROOT, 'data', '_filter.json');
+const LOCK_PATH = path.join(ROOT, 'data', '.manual-lock');
+const LOCK_TTL_MS = 8 * 60 * 60 * 1000; // a manual lock older than this = a crashed/stale run
 
 // Mirror of translate.js: lift language/languageName off the localize prompt's
 // frontmatter so we target the same `localized.<lang>` key.
@@ -78,6 +80,8 @@ async function cmdCandidates() {
 
   const payload = candidates.map((j) => ({ id: j.id, title: j.title, body: j.body || '' }));
   await writeFile(BACKLOG_PATH, JSON.stringify(payload, null, 2));
+  // Take a lock so the nightly cron (refresh.bat) defers while this run is active.
+  if (candidates.length > 0) await writeFile(LOCK_PATH, new Date().toISOString());
 
   const nsfw = candidates.filter((j) => j.nsfw).length;
   const att = {};
@@ -168,10 +172,34 @@ async function cmdApply() {
   console.log(`  backup -> ${path.relative(ROOT, backupPath)}`);
 }
 
+// Lock helpers so refresh.bat can defer to an in-progress manual run.
+async function cmdLocked() {
+  // exit 0 = a FRESH manual lock is held (caller should skip); exit 1 = clear to run
+  if (!existsSync(LOCK_PATH)) process.exit(1);
+  let ts = NaN;
+  try { ts = new Date((await readFile(LOCK_PATH, 'utf8')).trim()).getTime(); } catch {}
+  const age = Date.now() - ts;
+  if (Number.isFinite(age) && age >= 0 && age < LOCK_TTL_MS) {
+    console.log(`manual translation lock held (age ${Math.round(age / 60000)}m); defer`);
+    process.exit(0);
+  }
+  console.log('no fresh manual lock; clear to run');
+  process.exit(1);
+}
+
+async function cmdRelease() {
+  if (existsSync(LOCK_PATH)) await rm(LOCK_PATH, { force: true });
+  console.log('manual lock released');
+}
+
 const cmd = process.argv[2];
-const run = cmd === 'candidates' ? cmdCandidates : cmd === 'apply' ? cmdApply : null;
+const run = cmd === 'candidates' ? cmdCandidates
+  : cmd === 'apply' ? cmdApply
+  : cmd === 'locked' ? cmdLocked
+  : cmd === 'release' ? cmdRelease
+  : null;
 if (!run) {
-  console.error('usage: node scripts/manual-translate.js <candidates|apply> [--model <tag>]');
+  console.error('usage: node scripts/manual-translate.js <candidates|apply|locked|release> [--model <tag>]');
   process.exit(2);
 }
 run().catch((e) => { console.error(e.message || e); process.exit(1); });

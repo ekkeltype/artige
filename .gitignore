@@ -8,3 +8,9 @@ data/_*.json
 
 # local jokes.json backups (incl. apply's .bak_manual_*)
 data/jokes.json.bak_*
+
+# manual-run lock (ops/translate-backlog.md); never committed
+data/.manual-lock
+
+# research / working notes — kept local, not published
+research/

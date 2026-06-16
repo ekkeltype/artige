@@ -33,8 +33,9 @@ now; this runbook is the translation half.
    node scripts/manual-translate.js candidates
    ```
    Writes `data/_backlog.json` (`[{id,title,body}]`) and prints the count plus how
-   many are one omission from auto-filter. **If the count is 0, report "backlog
-   empty" and stop.**
+   many are one omission from auto-filter. It also takes `data/.manual-lock` so the
+   nightly cron defers while you work (auto-expires after 8h). **If the count is 0,
+   report "backlog empty" and stop.**
 
 2. **Translate every candidate.** Read `data/_backlog.json` and translate **all**
    of them per `prompts/localize.md`. You are a strong model with no timeout, so
@@ -63,22 +64,30 @@ now; this runbook is the translation half.
 
 4. **Commit + push** (the live site updates from `main`):
    ```
+   git pull --ff-only
    git add data/jokes.json
    git commit -m "chore: manual in-session backlog translation (<N> jokes)"
    git push
    ```
+   `git pull --ff-only` first picks up any commit the cron landed while you worked.
    Commit **only** `data/jokes.json` (match refresh.bat's convention).
 
-5. **Clean up** the scratch files so a later run starts fresh and can't
-   double-apply: `data/_backlog.json`, `data/_translations.json`,
-   `data/_filter.json`.
+5. **Clean up**: release the lock and delete the scratch files so a later run
+   starts fresh and can't double-apply:
+   ```
+   node scripts/manual-translate.js release
+   ```
+   then remove `data/_backlog.json`, `data/_translations.json`, `data/_filter.json`.
 
 6. **Report** to the user: N translated, M omitted (K newly filtered), the commit
    hash, and the backup filename.
 
 ## Notes
 - Re-running is safe: `apply` skips jokes already translated/filtered.
-- Scratch files (`data/_*.json`) are gitignored; only `data/jokes.json` is ever
-  committed.
+- Scratch files (`data/_*.json`) and `data/.manual-lock` are gitignored; only
+  `data/jokes.json` is ever committed.
+- The cron (`refresh.bat`) skips its run while `data/.manual-lock` is held, so it
+  won't race you on `jokes.json`/git. The lock auto-expires after 8h; if a run
+  crashed, `node scripts/manual-translate.js release` clears it immediately.
 - Nothing is written to `jokes.json` until step 3 — if translation is interrupted,
   just re-run from step 1.
