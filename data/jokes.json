@@ -121181,7 +121181,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Jeg fingerte en graviditet, og kjæresten min fikk helt hetta, så jeg gjorde det slutt.",
+          "body": "Overreagerer jeg?\n\n[merknad: på engelsk «ovary acting» (eggstokk) høres ut som «over-reacting» – overreagerer]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p8a9pu",
@@ -121330,7 +121338,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Hvis aprilregn gir maiblomster, hva gir maiblomster?",
+          "body": "Pilegrimer!\n\n[merknad: «May flowers» spiller på skipet «Mayflower», som fraktet pilegrimene til Amerika]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p81of7",
@@ -121557,7 +121573,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Hva sier en kåt padde?",
+          "body": "Gni-kvakk … gni-kvakk.\n\n[merknad: «rubbit» er en blanding av «rub» (gni) og «ribbit» (froskens kvekkelyd)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p7g0hy",
@@ -121628,7 +121652,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "En mann kom på et jobbintervju for en mulighet som byr seg én gang i livet, men med et fire års hull i CV-en.",
+          "body": "Intervjuer: «Du har gjort et glimrende intervju og er helt klart kvalifisert for stillingen, men jeg ser at du har et fire års hull i CV-en. Kan du fortelle meg hva det dreier seg om?»\n\nMannen: «Jo, jeg var på Yale de fire årene.»\n\nIntervjuer: «Imponerende! Vi tar kontakt så snart vi har bestemt oss.»\n\nMannen: «Vær så snill, jeg trenger virkelig denne jåbben.»\n\n[merknad: med aksenten sin uttaler mannen «jail» (fengsel) som «Yale» og «job» som «yob» – han røper at han egentlig satt inne]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p71zag",
@@ -121777,7 +121809,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Forskere har oppdaget en ny bjørneart.",
+          "body": "Forskere har oppdaget en ny bjørneart. Dyret finnes verken i Arktis eller Antarktis, det er utsatt for manisk-depressive episoder, og det parer seg med både hanner og hunner av sin egen art.\n\nDe er bipolare, bi-polare, bi, isbjørner.\n\n[merknad: ordspillet leker med «bipolar» og «polar bear» (isbjørn)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p6mrtc",
@@ -122030,7 +122070,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Jeg prøver å klare The Legend of Zelda: Breath of the Wild, men våpnene mine knekker hele tiden.",
+          "body": "Det er Hylian upraktisk.\n\n[merknad: «Hylian» (folkeslaget i Zelda) høres ut som «highly» – «highly inconvenient», altså svært upraktisk]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p61m4v",
@@ -122075,7 +122123,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Professorens midtlivskrise",
+          "body": "Den fast ansatte universitetsprofessoren gikk inn i midtlivskrisen ved å skille seg fra kona og kjøpe en ny Corvette. Han spurte en attraktiv kvinnelig student om hun ville være med på en kjøretur i den nye sportsbilen. Hun sa ja, og snart suste de nedover veien.\n\nDen unge studenten la merke til at professoren alltid spant dekkene hver gang lyset slo om til grønt, så det stod en tykk røyksky etter dem. Hun la også merke til høye hvin fra dekkene hver gang professoren tok svinger.\n\nBrennende gummi og hvinende dekk. Hun ble fort bekymret, og litt redd. «Jøss, professor», sa den skremte studenten, «jeg vedder på at du er hard med dekkene.» Professoren snudde seg og smilte: «Jeg vedder på at den ikke blir det.»\n\n[merknad: «hard on tires» spiller på «hard-on» (ståpikk) som «tires» – blir trøtt; han svarer at den ikke blir det]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p61bm4",
@@ -122432,7 +122488,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Hørte du at noen brøt seg inn på politistasjonen og stjal alle toalettene?",
+          "body": "Politiet sier de ikke har noe å gå etter.\n\n[merknad: «nothing to go on» betyr både «ingen spor» og «ingenting å gjøre fra seg på»]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p4z9t6",
@@ -123522,7 +123586,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hva slags selgere er prostituerte?",
+          "body": "Høl-salg.\n\n[merknad: «holesale» er ordspill på «wholesale» (engros) og «hole» (hull)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p23dfw",
@@ -123567,7 +123639,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "En ganske mager isbjørn går bort til en svær, feit isbjørn – en lokal jaktlegende.",
+          "body": "Han sier: «Å, store jeger, jeg har hørt om dyktigheten din og har prøvd å herme etter den, men som du ser av den spinkle skikkelsen min, har jeg ikke oppnådd din suksess. Vær så snill, hjelp meg!»\n\nDen svære bjørnen spør hva den tynne gjør når den jakter, og den svarer: «Jeg danser rundt, forteller vitser og lager grimaser, akkurat som jeg hørte at du gjør.»\n\nDen svære bjørnen sukker og sier: «Du må høre bedre etter. Jeg lykkes med jakten fordi jeg oppfører meg selete!»\n\n[merknad: «sealy» spiller på «silly» (fjollete) og «seal» (sel) – isbjørnen jakter på sel]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p211ry",
@@ -123690,7 +123770,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Gullskruen",
+          "body": "Dette er mitt forsøk på en klassiker. Eller i hvert fall tror jeg det er en klassiker? Jeg vet jeg har sett lignende vitser før.\n\nDet var en gang en mann som ble født med en gullskrue i navlen. Familien tar ham fra lege til lege. De tar prøve etter prøve, gir ham pille etter pille. De prøver til og med å fjerne den kirurgisk, men selv det fører ingensteds hen.\n\nMannen hater dette livet. Å traske av gårde til alle disse legene bare for å møte det samme resultatet hver gang. Til slutt blir han nummen av det. Helt til han en dag våkner, dødslei alt sammen. Han bestemmer seg for å gi opp legene, medisinene og operasjonene, og leter etter andre måter å få svar på spørsmålene sine.\n\nFørst vender han seg til religionen, men ingen prest kan hjelpe. Så vender han seg til pseudovitenskap, og deretter heksekunst, og så medier og orakler og det paranormale. Snart står han overfor den samme veggen som han møtte hos alle legene. Ingen har et svar på gullskruen i navlen hans.\n\nFortvilet vandrer han i gatene og drukner sorgene sine i drikke.\n\nMen så en dag møter han en munk. I et siste desperat rop bønnfaller han munken om hjelp. Munken ser på ham med kjærlighet, løfter ham opp fra bakken og tar ham med til klosteret der han bor.\n\nHan tar seg av mannen, gir ham mat, rene klær og en varm seng. Mannen er takknemlig, men han beundrer også munken for levesettet hans. Munken lever et enkelt liv med å stelle hagen, meditere og hjelpe dem som trenger det. Han ser at munken er lykkelig, og mannen bestemmer seg for å gi opp livet han kjente, til fordel for dette enkle munkelivet.\n\nMannen blir hos munken i flere år, mediterer, steller hagen og hjelper dem som trenger det. Endelig er han lykkelig.\n\nMen han glemte aldri gullskruen i navlen.\n\nEn dag studerer mannen eldgamle tekster og kommer over en fortelling om en gullskrutrekker. Hjertet begynner å hamre når han skjønner at dette er svaret han har lett etter alle disse årene. Han bare må finne denne gullskrutrekkeren.\n\nSå han legger ut på en reise. Han bestiger fjell, krysser elver, vandrer gjennom ørkener og svømmer over hav. Nå er han en gammel mann med langt grått skjegg og kloke, gamle øyne. Til slutt kommer han til håpets sted, hvilestedet til gullskrutrekkeren.\n\nDet er eldgamle ruiner, dekket av forseggjorte utskjæringer og malerier. Hvert rom flommer over av smykker laget av det reneste gull og de mest fullkomne juveler, og kapper av den fineste silke. Stedet er fullstendig urørt av moderne menneskehender, gjemt bort i hundrevis av år.\n\nHan runder et hjørne og befinner seg i en mektig tronsal. Veggene er femten meter høye og laget av gull. Han ser et enormt portrett av en konge og en dronning. Portrettet er bemerkelsesverdig, med utrolig detaljrikdom. Og de to kongelige selv? De er de vakreste menneskene han noensinne har sett. Han kjenner tårene fylle øynene, men så, i øyekroken, får han øye på det.\n\nHan roper av glede og nærmer seg gullskrutrekkeren. Han plukker den opp, og den virker! Skruen vrir seg for første gang i hele hans liv! Han kan nesten ikke tro miraklet foran seg. Han vrir og vrir og vrir, og i samme øyeblikk som skruen kommer ut …\n\nfaller ræva av ham.",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p1rl2j",
@@ -123735,7 +123823,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "En politimann etterforsker en forbrytelse på et populært campingområde.",
+          "body": "En camper sier: «Jeg så dem. De kom løpandes gjennom her for omtrent ti minutter siden.»\n\nPolitimannen sier: «Løpandes? Mener du løpende?»\n\n«Nei, dette er en teltplass – det er for-tid.»\n\n[merknad: «past tents» (forbi teltene) høres ut som «past tense» (fortid/preteritum) – et stikk til den feilbøyde «ranning»]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p1l2lc",
@@ -123989,7 +124085,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Jeg har en 8 cm penis som er kjempetynn og ender i en grusomt skarp spiss. Samme det – jeg holder kjæresten min fornøyd.",
+          "body": "Jeg gir henne sylen min!\n\n[merknad: «my awl» (sylen min, et spisst verktøy) høres ut som «my all» (alt jeg har)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p10x2r",
@@ -124164,7 +124268,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du en grønnsak som er sånn passe flink på skateboard?",
+          "body": "Reddik.\n\n[merknad: «radish» (reddik) inneholder «rad» (kult) + «-ish» (sånn passe) – altså «sånn passe kul»]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p0pp42",
@@ -124783,7 +124895,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Det er færre stavelser i uttrykket «world wide web» enn i forkortelsen WWW.",
+          "body": "Liksom, WTF.\n\n[merknad: «W» uttales «double-u» (tre stavelser) på engelsk, så «WWW» har ni stavelser mot fire i «world wide web»]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1ozg9pa",
@@ -124802,7 +124922,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Før de ble temmet av mennesker, gjorde hester flere forsøk på å styre seg selv.",
+          "body": "Dessverre mislyktes de hver gang. I hver avstemning vant nei-vrinskene.\n\n[merknad: «the neighs won» spiller på «the nays» (nei-stemmene) og «neigh» (vrinsk)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1ozdf1n",
@@ -125237,7 +125365,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Det finnes et uttrykk for når slektsledd får færre og færre barn.",
+          "body": "Det kalles en vikende arvelinje.\n\n[merknad: «heirline» spiller på «hairline» (hårfeste) og «heir» (arving)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oya2pi",
@@ -125492,7 +125628,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Folk sier ofte at de fire siste bokstavene i «queue» er stumme.",
+          "body": "De er ikke stumme – de venter bare på tur.\n\n[merknad: «queue» (kø) uttales som «Q»; de fire siste bokstavene står i kø og venter på tur]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oxorc3",
@@ -125668,7 +125812,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Har du hørt at de har sluttet å lage pennymynter?",
+          "body": "Finansdepartementet sa at de rett og slett ikke ga mening lenger.\n\n[merknad: «make sense» (gi mening) høres ut som «make cents» – en penny er én cent]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1ox9q0k",
@@ -125713,7 +125865,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Hva sa monsterknulleren til den avskyelige snømannen?",
+          "body": ">!Yeti eller ei, her kommer jeg!<\n\n[merknad: «Yeti or not, here I cum» spiller på «Ready or not, here I come» (klar eller ei, her kommer jeg)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1ox73af",
@@ -125732,7 +125892,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Morsom historie fra begravelsesbyrået:",
+          "body": "En fyr kom innom begravelsesbyrået i dag sammen med moren sin for å hente farens aske. Han spurte om jeg kunne sette av litt til ham som han ville legge i en liten eske han hadde laget. Jeg sa det går fint. Jeg setter av litt og legger resten i beholderen moren din har bestilt. Moren sa absolutt ikke – sønnen hennes skulle være den som la dem oppi. Jeg forsikret henne om at det gikk fint, og at det var jobben min. Hun insisterte på at sønnen skulle gjøre det. Hun sa at hvis sønnen ville ha litt av farens aske, måtte han urne den.\n\n[merknad: «urn them» (legge i urne) høres ut som «earn them» (gjøre seg fortjent til dem)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1ox0yy6",
@@ -126406,7 +126574,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du en lege som spesialiserer seg på adamsepler?",
+          "body": "En guy-nekolog.\n\n[merknad: «guyneckologist» spiller på «gynecologist» (gynekolog), «guy» (mann) og «neck» (hals) – adamseplet sitter på halsen]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p865ka",
@@ -126529,7 +126705,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Hvilken delstat har flest selverklærte prostituerte per innbygger?",
+          "body": "Idaho.\n\n[merknad: «Idaho» høres ut som «Ida-ho» – «ho» er engelsk slang for hore]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p7pmgv",
@@ -126705,7 +126889,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Da jeg var bortreist nylig, betalte jeg ekstra for et større og finere rom på hotellet. Da jeg kom inn på rommet, lå det søtpoteter overalt. Jeg gikk ned i resepsjonen for å spørre hvorfor det lå søtpoteter på rommet mitt, og jenta i resepsjonen sa: «Det er ikke søtpoteter …",
+          "body": "… det er suite-poteter!»\n\n[merknad: «suite potatoes» (suite-poteter) høres ut som «sweet potatoes» (søtpoteter)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p76oww",
@@ -126880,7 +127072,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Jeg hadde en venn som alltid kom for sent, helt til legen anbefalte ham å sove i en urtehage.",
+          "body": "Nå våkner han på timian.\n\n[merknad: «on thyme» (på timian) høres ut som «on time» (presis)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p6ouof",
@@ -126899,7 +127099,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Jeg tok ungene mine i å leke med strømledninger uten beskyttelse.",
+          "body": "Så jeg jordet dem.\n\n[merknad: «grounded» betyr både «jordet» (elektrisk) og «satt i husarrest»]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p6l3e4",
@@ -126996,7 +127204,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Jeg fortalte kona at hvis jeg noen gang fikk en seilbåt, skulle jeg kalle den Ccccccc.",
+          "body": "Da kan jeg seile de syv C-ene.\n\n[merknad: «the seven C's» (syv C-er) høres ut som «the seven seas» (de syv hav)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p6gsbf",
@@ -127171,7 +127387,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Jeg skjønner ikke hvorfor kvinner bærer på en baby i ni måneder.",
+          "body": "Det hadde gitt mer mening om det var gestate.\n\n[merknad: «gestate» (å være gravid) inneholder lyden «eight» (åtte) – det burde altså vart åtte måneder]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p5xzao",
@@ -127294,7 +127518,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Jeg leide en gutt til å male verandaen min. Da han kom tilbake til døra timer senere for å få betalt …",
+          "body": "… fortalte han meg at det var en BMW, ikke en Porsche.\n\n[merknad: «porch» (veranda) høres ut som «Porsche»]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p5iys8",
@@ -127547,7 +127779,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Hva mener Gollum om røyking?",
+          "body": "Dumme, ekle vaner.\n\n[merknad: «Habbits» spiller på «habits» (vaner) og «Hobbits» – Gollums forhatte hobbiter]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p4v5sf",
@@ -127670,7 +127910,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "En mann kommer inn på en bar med en liten salamander på skulderen. Bartenderen sier: «For et spennende kjæledyr. Hva heter den?» «Bitteliten», svarer mannen. Bartenderen sier: «Det var et rart navn. Hvorfor kalte du den Bitteliten?»",
+          "body": "«Fordi den er salamanderen min.»\n\n[merknad: «my newt» (salamanderen min) høres ut som «minute» (minutt) – noe bittelite]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p4kxre",
@@ -127871,7 +128119,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Hva er raskere enn en rulletrapp?",
+          "body": "En rullenå!\n\n[merknad: endelsen i «escalator» tolkes som «later» (senere); «escanow» bytter den med «now» (nå)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p3xxju",
@@ -127916,7 +128172,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Jeg fortalte en vits til en hawaiianer for å få ham til å le, men jeg tror ikke han likte den.",
+          "body": "Han bare slapp ut et lavt «ha».\n\n[merknad: «a low ha» (et lavt ha) høres ut som «aloha»]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p3tvb5",
@@ -127961,7 +128225,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Jeg leide en kunstmaler til å lage et familieportrett, men han tegner oss stadig som Star Trek-skurker.",
+          "body": "Det viser seg at han er en Khan-kunstner.\n\n[merknad: «Khan artist» (Khan – skurken i Star Trek) høres ut som «con artist» (svindler)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p3n8x7",
@@ -127980,7 +128252,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Hvordan lager du et hormon?",
+          "body": "Ikke betal henne.\n\nPappas vits til meg da jeg var åtte år gammel i 1982 – den vitenskapelige hjernen min jobbet på spreng!\n\n[merknad: «make a hormone» høres ut som «make a whore moan» (få en hore til å stønne) – ikke betal henne]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p3mhaa",
@@ -128025,7 +128305,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du en eldre mann som ikke har blitt skallet?",
+          "body": "Harald.\n\n[merknad: «Harold» høres ut som «hair-old» (gammel, men med håret i behold)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p3fxqy",
@@ -128044,7 +128332,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Hvor havner regnbuer når de er slemme?",
+          "body": "I prisme.\n\nDet er en mild straff, men den gir dem tid til å reflektere.\n\n[merknad: «prism» (prisme) høres ut som «prison» (fengsel); «light sentence» = mild dom, men også «lys-setning»; «reflect» = både reflektere lys og tenke seg om]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p3eocl",
@@ -128115,7 +128411,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Hvorfor underviser mattetimer i debutalbumet til tidligere visepresident Al Gore?",
+          "body": "Fordi det er en Al Gore-rytme.\n\n[merknad: «Al Gore Rhythm» høres ut som «algorithm» (algoritme)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p38rx7",
@@ -128160,7 +128464,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Da jeg la ut på reisen min til India, tok jeg farvel med moren min.",
+          "body": "Jeg sa «Mumbai».\n\n[merknad: «Mumbai» høres ut som «mum, bye» (ha det, mamma)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p2x2p3",
@@ -128231,7 +128543,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Den nye skandinaviske presten virker hyggelig, men jeg tror han kan være besatt av Mortal Kombat.",
+          "body": "Han avslutter hver gudstjeneste med en «FINSK SALME!»\n\n[merknad: «Finnish hymn» (finsk salme) høres ut som «Finish him!» – det berømte ropet fra Mortal Kombat]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p2l9aw",
@@ -128328,7 +128648,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Jeg fikk en e-post her om dagen om hvordan man leser kart baklengs.",
+          "body": "Det viste seg å bare være spam.\n\n[merknad: «maps» (kart) stavet baklengs blir «spam»]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p2fkli",
@@ -128347,7 +128675,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du en hund som bor i kjelleren?",
+          "body": "En subwoofer.\n\n[merknad: «sub» = under (kjeller) og «woof» = voff – en kjellerbjeffer]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p2c78s",
@@ -128731,7 +129067,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du en hund som graver opp kjempegamle bein?",
+          "body": "En barkeolog.\n\n[merknad: «barkaeologist» spiller på «bark» (bjeff) og «archaeologist» (arkeolog)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1p18mo8",
@@ -129454,7 +129798,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Kom på denne skikkelige stønneren bare for å irritere sønnen min i kveld.",
+          "body": "*Den går sånn:*\n\nSå det finnes disse nye vindmøllene, ikke sant? De er helautomatiske og har til og med blitt laget for å snakke. Det rare er at de bare snakker babyspråk.\n\nOg pengene til å utvikle dem kom ikke akkurat fra ærlige kilder. Resultatet er at sikkerheten er knallhard, og bare en håndfull mafiabosser har nøklene til å komme inn i vindmøllene.\n\nOg det er dømt til å gå galt. Vet du hvorfor?\n\nFordi ingen ser ironien i en gjeng vindmøller som sier «Don key? Otay!»\n\n[merknad: på babyspråk blir «donkey, okay» til «Don key? Otay!» – en «Don» (mafiaboss) med en «key» (nøkkel)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oz44ur",
@@ -129473,7 +129825,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Hvorfor er det ingen klokke på biblioteket?",
+          "body": "Fordi den tikker for mye.\n\n[merknad: «tocks too much» (takker for mye) høres ut som «talks too much» (snakker for mye) – forbudt på bibliotek]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oz2x7d",
@@ -129622,7 +129982,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Hørte du hvem som vant konkurransen i vaskemiddel?",
+          "body": "De Tide … men ga det så absolutt sitt All.\n\n[merknad: «Tide» og «All» er amerikanske vaskemiddelmerker; «Tide» høres ut som «tied» (uavgjort) og «All» betyr «alt»]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oynkpn",
@@ -129719,7 +130087,15 @@
         "after": "2025-11-14",
         "before": "2025-11-28"
       },
-      "translateAttempts": 2
+      "translateAttempts": 2,
+      "localized": {
+        "nb": {
+          "title": "Etter kroningen av kong Charles har det vært diskusjon om rettskrivningsmodernisering (å forkorte ord som «colour» og «labour»), men den britiske regjeringen svarte",
+          "body": "Never gonna give «u» up.\n\n[merknad: «u»-en som skal fjernes fra «colour/labour», spiller på Rick Astleys «Never Gonna Give You Up» – «give u up»]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oyb5jn",
@@ -131132,7 +131508,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hva sa fyren fra Village People da han spurte fyren fra Beastie Boys om artistnavnet hans?",
+          "body": "Why MCA?\n\n[merknad: «Why MCA?» høres ut som «YMCA», Village People-hiten; MCA var et medlem av Beastie Boys]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1owd4om",
@@ -131177,7 +131561,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hva ropte den dyslektiske bankraneren da han begynte å rane banken?",
+          "body": "Hender ned, motherstikkere. Dette er en kødd opp.\n\n[merknad: dyslektikeren roter om ordene – egentlig «Hands up motherfuckers, this is a stick-up» (hendene opp, dette er et ran)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1owb5ea",
@@ -131300,7 +131692,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "New York er den rake motsetningen til Minnesota. New York er der det store eplet (Big Apple) er, og Minnesota er der",
+          "body": "Minneapolis.\n\n[merknad: «Minneapolis» høres ut som «mini-apple-is» – det lille eplet, motsatt av «Big Apple»]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1ovw4hp",
@@ -131345,7 +131745,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Jeg dro til legen med en mistenkelig føflekk.",
+          "body": "Men han ba meg bare legge den fordømte tingen tilbake i hagen og ikke plage ham mer.\n\n[merknad: «mole» betyr både «føflekk» og «muldvarp»]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1ovpji2",
@@ -131754,7 +132162,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "En kvinne på badet roper til mannen sin",
+          "body": "«Jeg trenger hjelp med noe!»\n\nHan kommer inn og finner kona sittende på toalettet.\n\n«Kan du knyte skoen min, er du snill?»\n\n«Nå må du tøyse …», svarer mannen.\n\n«Nei da! Jeg bæsjer, du knyter.»\n\n[merknad: «I shit, you knot» (jeg bæsjer, du knyter) høres ut som «I shit you not» (jeg lyver ikke)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oumhuf",
@@ -131955,7 +132371,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hørte du at Lorena Bobbitt ble drept i en bilulykke her om dagen?",
+          "body": "En eller annen pikk kjørte rett foran henne!\n\n[merknad: «cut her off» betyr å snike seg foran i trafikken; Lorena Bobbitt er kjent for å ha kuttet av mannens penis]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1ou0vvy",
@@ -132052,7 +132476,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Helios, solguden, hevet den bare, glødende, gylne baken sin over horisonten …",
+          "body": "Det var ved daggry.\n🥁 Ba dum TSS 🥁\n\n[merknad: «the crack of dawn» betyr daggry, men «crack» er også rumpesprekken]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1otn7lo",
@@ -132227,7 +132659,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Jeg har begynt å investere i aksjer. Okse, kylling og grønnsak.",
+          "body": "En dag håper jeg å bli buljonær.\n\n[merknad: «bouillonaire» spiller på «bouillon» (buljong) og «billionaire» (milliardær)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1otcwfx",
@@ -132402,7 +132842,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "De fleste har hørt om Karl Marx",
+          "body": "Men få husker at søsteren hans, Onya, var en olympisk løper. Vi hedrer henne ved å si navnet hennes ved starten av hvert løp.\n\n[merknad: «Onya Marx» høres ut som «On your marks» (klar … ferdig) – startropet i et løp]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1osytad",
@@ -132447,7 +132895,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du en mann med en gummitå?",
+          "body": "Roberto.\n\n[merknad: «Roberto» høres ut som «rubber toe» (gummitå)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1osrarn",
@@ -132492,7 +132948,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "En blondine går inn på en bar.",
+          "body": "Hun bestiller en drink akkurat idet bartenderen slår på TV-en. Nyhetene går, og det meldes at seks brasilianske fotballspillere er omkommet i en flystyrt. Blondinen ser ut som hun er på gråten. Bartenderen sier: «Å, så leit, kjente du en av dem?» Hun sier: «Nei, men seks brasiljarder høres ut som veldig mange.»\n\n[merknad: «six Brazilian» (seks brasilianere) høres ut som «six brazillion» – et oppdiktet kjempetall]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1ospcn4",
@@ -132563,7 +133027,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hva sa bøddelen to uker ut i den nye jobben?",
+          "body": "Jada, jeg begynner å få hengen på det.\n\n[merknad: «getting the hang of it» (begynne å mestre noe) spiller på «hanging» (henging)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oshw50",
@@ -132582,7 +133054,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Dr. Frankenstein går inn i butikken for kroppsdeler …",
+          "body": "Han spør hva de har av hjerner. Ekspeditøren sier: «Vi har bare tre akkurat nå … en rørleggerhjerne til 300 dollar, en fysikerhjerne til 500 dollar og en advokathjerne til 2000 dollar.» Forundret spør han: «Hvorfor er advokathjernen så dyr?» «Å …», svarer hun, «den har aldri vært brukt.»",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1osfpwc",
@@ -132679,7 +133159,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hørte du at Mary Poppins sluttet å bruke leppestift når hun gir munnsex?",
+          "body": "Superfarge-skjør leppestift gjør pikken grusom.\n\n[merknad: forvrengning av «Supercalifragilisticexpialidocious» fra Mary Poppins – «super-colour-fragile … the dick atrocious»]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1os8c1a",
@@ -132698,7 +133186,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "En skatterevisor reviderer regnskapet til et sykehus",
+          "body": "Han spør finansdirektøren hva de gjør med bandasjer til overs, og finansdirektøren sier at de sender dem tilbake til firmaet for en og annen gratis eske. Revisoren spør så om gips til overs fra støpninger, og finansdirektøren gir et lignende svar: de sender det tilbake til produsenten for en og annen gratis pakke. Revisoren, som prøver å sette finansdirektøren fast, spør hva de gjør med forhud til overs fra omskjæringer. Finansdirektøren svarer at de samler dem opp, sender dem til skattekontoret, og omtrent en gang i året sender skattekontoret dem en komplett drittsekk.\n\n[merknad: «a complete dick» betyr både «en hel penis» og «en komplett drittsekk» – et stikk til skattekontoret]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1os4ggv",
@@ -132873,7 +133369,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hva sa den blinde jenta etter at hun falt ned i brønnen?",
+          "body": "Jeg så ikke den brønnen så godt.\n\n[merknad: «well» betyr både «brønn» og «godt» – «couldn't see that well»]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1orgxgl",
@@ -132944,7 +133448,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Visste du at åtseletermaur legger igjen et duftspor når de finner mat, så kolonien kan følge det?",
+          "body": "Når maten tar slutt, kommer andre maur for å fjerne duften. De kalles deodoranter.\n\n[merknad: «deodorants» inneholder «de-odor-ants» – maur som fjerner lukt]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1or95f3",
@@ -133223,7 +133735,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Tok med den blonde kjæresten min på hennes første fotballkamp.",
+          "body": "Jeg tok med den blonde kjæresten min på hennes første amerikanske fotballkamp. Etterpå spurte jeg hvordan hun likte den.\n\n«Å, jeg likte den virkelig», svarte hun. «Spesielt de stramme buksene og alle de store, harde musklene. Men jeg skjønte bare ikke hvorfor de drepte hverandre for 25 øre.»\n\nJeg spurte: «Hva mener du?»\n\n«Jo, de kaster en mynt, det ene laget får den, og resten av kampen var alt de skrek bare «Ta quarterbacken! Ta quarterbacken!» Liksom, hallo? Det er jo bare 25 øre!»\n\n[merknad: «quarterback» (en spillerposisjon) høres ut som «quarter back» – få igjen en kvarting (25 cent)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oqr22i",
@@ -133528,7 +134048,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Pennymynter smaker grusomt nå for tiden. Før i tiden smakte de nesten som tannkrem for meg …",
+          "body": "Jeg antar det er fordi de ikke blir preget lenger.\n\n[merknad: «minted» betyr «preget» (om mynt), men «mint» er også peppermynte – smaken av tannkrem]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1opsgb3",
@@ -133573,7 +134101,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "NASA skyter opp en satellitt for å si unnskyld til romvesenene.",
+          "body": "De kaller den Apollo G.\n\n[merknad: «Apollo G» høres ut som «apology» (unnskyldning)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oppj6q",
@@ -133644,7 +134180,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hva er forskjellen på en maskulin lesbe og en riktig lav fyr som jobber i kjøttdisken?",
+          "body": "Den ene er ganske butch, men den andre er en liten slakter.\n\n[merknad: «butch» (maskulin) og «butcher» (slakter) – «a little butcher» = litt mer butch / en liten slakter]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1opk6fk",
@@ -134079,7 +134623,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "STEM-jenter er så hot.",
+          "body": "Jeg var heldig og kapret meg en fysiker.\n\nVi begynte med karbondatering. Koste oss med fisjonschips ved sjøen og avrundet med en grundig studie av «øyeblikk som par opplever ute på jordet».\nLykkelig dag.\n\n[merknad: fysikkordspill – «carbon dating» (karbondatering/det å date), «fission chips» høres ut som «fish and chips», «moments in fields» (moment/felt)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oocjis",
@@ -134202,7 +134754,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hva har en puls og en orgasme til felles?",
+          "body": "Det spiller ingen rolle om hun hadde den.",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oo3sef",
@@ -134247,7 +134807,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "«Doktor, hjelp meg. Jeg er avhengig av å kjøpe yachter. Er det noe du kan gi meg for det?»",
+          "body": "«Jeg kan gi deg et anti-by-yachtikum.»\n\n[merknad: «anti-buy-yachtic» høres ut som «antibiotic» (antibiotika)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oo13pu",
@@ -134578,7 +135146,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Fant ut i går kveld at jeg både er homofil og dyslektiker.",
+          "body": "Jeg er fremdeles inne i Daniel.\n\n[merknad: «in daniel» høres ut som «in denial» (i fornektelse)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1onbzcg",
@@ -134727,7 +135303,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hvem setter «P»-en i R-E-S-P-E-C-T?",
+          "body": "Urethra Franklin.\n\n[merknad: «Urethra» (urinrør) høres ut som «Aretha» Franklin – og «P» = tiss]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1on1hmb",
@@ -134798,7 +135382,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "En mann er til kontroll, og etterpå kommer legen inn og forteller ham dystert at nyrene hans svikter.",
+          "body": "Mannen svarer muntert: «Det går fint, jeg er 41. Voksenknærne mine burde komme når som helst nå!»\n\n[merknad: «kidneys» (nyrer) høres ut som «kid-knees» (barneknær); «adult knees» = voksenknær]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1omywd0",
@@ -134869,7 +135461,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Under andre verdenskrig fikk en general en idé til hvordan han kunne muntre opp troppene",
+          "body": "Etter D-dagen ville en general feire seieren for å holde momentet oppe blant troppene. Han valgte en mektig statue av en soldat, laget utelukkende av smeltede patronhylser samlet fra strendene i Normandie.\n\nHan satte sammen et lag av de mest anerkjente metallarbeiderne i hele Frankrike, mestere i skulptur som hadde laget monumenter over hele Europa.\n\nMen det var et problem. Generalens visjon krevde tusenvis av hylser, og selv om hele forsyningsavdelinger ble satt inn for å finkjemme slagmarkene, kom de katastrofalt til kort. Uker med leting ga knapt en brøkdel av det de trengte.\n\nSkulptørene gransket den sølle messinghaugen og visste ikke hva de skulle gjøre. «Dette er langt fra nok til en hel statue.»\n\nGeneralen forlangte: «Dere begynner likevel. Få det til med det dere har.»\n\nMetallarbeiderne jobbet døgnet rundt. Til avdukingsseremonien hadde de bare rukket å fullføre en del av den.\n\nMen det viste seg å være akkurat det de trengte for å vinne krigen.\n\nDe smidde et hode.\n\n[merknad: «they forged a head» (de smidde et hode) høres ut som «they forged ahead» (de gikk djervt videre)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oms9et",
@@ -135044,7 +135644,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hvorfor kjenner alle Muffinsmannen, men ikke Muffinskvinnen?",
+          "body": "På grunn av bakariarkatet.\n\n[merknad: «pastriarchy» spiller på «pastry» (bakverk) og «patriarchy» (patriarkat)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1om8nml",
@@ -135089,7 +135697,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "En pothue, en jedi og en akuttkirurg går inn på en bar",
+          "body": "det var stump, kraft, traume.\n\n[merknad: «blunt force trauma» = stump vold; «blunt» = jointen til pothuet, «force» = Kraften til jedien, «trauma» = kirurgens fag]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1om3laj",
@@ -135316,7 +135932,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "En fyr går inn på en bar",
+          "body": "Han tar fram en 23 cm pianist og et lite piano, og setter dem på baren.\nBartenderen sier: «Hvor fant du ham?»\n\nMannen forteller at det står en ånd utenfor og oppfyller ønsker gratis.\n\nBartenderen løper raskt ut og sier til ånden at han ønsker seg en million dollar.\nPøff – plutselig kommer det en million Dolly-er rullende nedover gata.\n\nHan går inn igjen og forteller mannen hva som skjedde.\nMannen svarer: «Tror du virkelig at jeg ønsket meg en 23 cm pianist?»\n\n[merknad: ånden hører feil – «a million dollars» blir «a million Dollys», og «a 9-inch penis» blir «a 9-inch pianist»]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1olcx69",
@@ -135335,7 +135959,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "En lastebil som fraktet flere rhesusaper, veltet.",
+          "body": "29. oktober 2025: En lastebil som fraktet flere rhesusaper, veltet tirsdag ettermiddag på Interstate 59 nord for Heidelberg i Mississippi, og utløste en hektisk leteaksjon etter at flere dyr slapp ut av kassene sine. Ifølge sheriffkontoret i Jasper County fraktet lastebilen 21 aper da den mistet kontrollen og veltet nær milemarkør 117. Minst seks aper klarte å rømme etter ulykken, og politi og viltmyndigheter jobbet raskt for å sikre stedet …\n\nJeg er glad ingen av apene ble skadet; ellers hadde vi hatt en motorvei dekket av Rhesus Pieces.\n\n[merknad: «Rhesus Pieces» høres ut som «Reese's Pieces», det amerikanske godteriet]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1olc7vj",
@@ -135692,7 +136324,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Et tau går inn på en bar …",
+          "body": "Et tau går inn på en bar og setter seg, snur seg til bartenderen og sier: «Jeg tar en halvliter av det beste du har.»\n\nBartender: «Kom deg ut, vi serverer ikke tau.»\n\nIrritert, men fast bestemt på å få seg en drink i kveld, går tauet ut. Så knyter det seg rundt midten og tvinner endene sine hit og dit, før det går tilbake til baren og prøver å bestille en øl igjen.\n\nBartender: «Hei, vent litt. Er du et tau?»\n\n«Nope, jeg er en frynsete knute.»\n\n[merknad: «a frayed knot» (en frynsete knute) høres ut som «afraid not» (dessverre ikke)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1okij6j",
@@ -135789,7 +136429,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Jeg innså nettopp at ordet «seven» har «even» i seg.",
+          "body": "Det er rart.\n\n[merknad: «even» = partall, «odd» = oddetall, men «odd» betyr også «rart» – sju er jo et oddetall]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oqijjt",
@@ -135808,7 +136456,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hva begynner med E, slutter med E, men har bare én bokstav i seg?",
+          "body": "En konvolutt.\n\n[merknad: «envelope» begynner og slutter med E og inneholder ett «letter» – som betyr både «bokstav» og «brev»]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1opo0ob",
@@ -135905,7 +136561,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Når jeg lager Eggs Benedict, bruker jeg bare metalltallerkener …",
+          "body": "For det fins ingen tallerkener som krom til hollandaisen.\n\n[merknad: «no plates like chrome for the hollandaise» spiller på julesangen «(there's) no place like home for the holidays»]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1omgzre",
@@ -136132,7 +136796,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Onkelen min hadde en tragisk ulykke på jobben – han falt ned i møbeltrekkmaskinen.",
+          "body": "Døde han?\n\nNei, han er fullstendig trukket om igjen.\n\n[merknad: «fully recovered» betyr «helt frisk igjen», men «re-covered» = trukket om på nytt (om møbler)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1ow188o",
@@ -136541,7 +137213,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hvilken av kong Arthurs riddere designet det runde bordet?",
+          "body": "Sir Cumference.\n\n[merknad: «Sir Cumference» høres ut som «circumference» (omkrets)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1ov32el",
@@ -136586,7 +137266,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "For å drepe en fransk vampyr må du drive en baguett gjennom hjertet hans.",
+          "body": "Høres lett ut, men prosessen er smertefull.\n\n[merknad: «painstaking» (møysommelig) inneholder «pain» – som betyr «brød» på fransk, altså baguetten]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1ouwkcy",
@@ -136683,7 +137371,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Jeg skulle fortalt en kjemivits, men",
+          "body": "alle de gode er argon.\n\n[merknad: «argon» (grunnstoffet) høres ut som «are gone» (er borte)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oun8rh",
@@ -136702,7 +137398,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Jeg tror jenta i innsjekkingen på flyplassen akkurat truet meg",
+          "body": "Hun så meg stivt inn i øynene og sa: «Vindu eller midtgang?»\nJeg lo henne opp i ansiktet og svarte: «Vindu eller hva da?»\n\n[merknad: «aisle» (midtgang) høres ut som «I'll» – «window or I'll …» (vindu, ellers skal jeg …)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1ouivpi",
@@ -136747,7 +137451,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Da kona mi skulle føde, kom legen inn og sa: «Jeg skal være den som forløser babyen.» Jeg sa nei takk …",
+          "body": "Vi vil gjerne at babyen får beholde leveren sin.\n\n[merknad: «deliver» (forløse) høres ut som «de-liver» – å fjerne leveren]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oufiq6",
@@ -137026,7 +137738,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "En våkefugl med en død pungrotte under hver vinge prøver å gå om bord i et fly, men …",
+          "body": "… flyverten sier:\n\n«Beklager, sir, det er bare tillatt med ett åtsel per passasjer.»\n\n[merknad: «carrion» (åtsel) høres ut som «carry-on» (håndbagasje)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1othjfl",
@@ -137071,7 +137791,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du en falsk penis?",
+          "body": "En fallasi.\n\n[merknad: «phallusy» spiller på «phallus» (fallos) og «fallacy» (feilslutning)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1otdowj",
@@ -137298,7 +138026,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Husker dere den vitsen jeg fortalte om kiropraktoren?",
+          "body": "Den handlet om en svak (uke) rygg!\n\n[merknad: «weak back» (svak rygg) høres ut som «week back» (en uke tilbake)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1ot02wr",
@@ -137317,7 +138053,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hver dag dro en lege til den samme baren og bestilte en kastanje-daiquiri. En dag gikk bartenderen tom for kastanje og brukte hickory i stedet. Legen kom inn, tok en slurk og utbrøt: «Æsj! Hva er dette?!» …",
+          "body": "Bartenderen svarte:\n\n«Det er en hickory-daiquiri, doc!»\n\n[merknad: «hickory daiquiri, doc» høres ut som barnereglen «Hickory Dickory Dock»]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1ossobb",
@@ -137336,7 +138080,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Til kunsttimen skulle jeg tegne en okse, men i stedet tegnet jeg en ku …",
+          "body": "Jeg lagde en frøken biff.\n\n[merknad: «Miss Steak» (frøken biff) høres ut som «mistake» (feil)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1osrx97",
@@ -137381,7 +138133,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "I underholdningsnyhetene: Billy Joel ble sint da han fant noe vått tøy.",
+          "body": "Han hadde visstnok ikke startet tørketrommelen.\n\n[merknad: «he didn't start the dryer» spiller på Billy Joel-hiten «We Didn't Start the Fire»]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1osl4vx",
@@ -137400,7 +138160,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "På kontrollen sa sykepleieren: «Legen har bedt om at jeg tegner noen blodprøver av deg.»",
+          "body": "Jeg bare: «Nei takk … jeg har sett nok av bilder.»\n\n[merknad: «draw» betyr både «ta» (en prøve) og «tegne» – han tror hun skal tegne ham]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1osi96s",
@@ -137497,7 +138265,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Jeg vil ha et gevær som skyter ut trebenker i stedet for kuler.",
+          "body": "Da kunne jeg gått inn i en kirke uten sitteplasser og bare: kirkebenk, kirkebenk, kirkebenk. Kirkebenk, kirkebenk. Kirkebenk, kirkebenk, kirkebenk.\n\n[merknad: «pew» betyr «kirkebenk», men «pew pew» er også lyden av skudd]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1os5zf2",
@@ -137516,7 +138292,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Kjæresten min: «Jeg skjønner ikke hvorfor de kaller dem minibank-maskiner.»",
+          "body": "«M-en står jo allerede for «maskin». Hvorfor ikke bare kalle dem AT-maskiner?»\n\nMeg: «Fordi det er mer enn åtti av dem.»\n\n[merknad: «ATM» uten M blir «AT machines», men «ATM» høres også ut som «eighty 'em» – mer enn åtti av dem]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1os3m3q",
@@ -137587,7 +138371,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Kona mi fødte nettopp tvillingjenter. Jeg har kalt dem Kate og …",
+          "body": "Duplikate.\n\n[merknad: «Duplikate» høres ut som «duplicate» (kopi) og inneholder navnet Kate]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1orndo1",
@@ -137606,7 +138398,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Victoria's Secret og Smith & Wesson slår seg sammen",
+          "body": "Det nye selskapet heter Titty Titty Bang Bang.\n\n[merknad: spiller på filmtittelen «Chitty Chitty Bang Bang» – «titty» (pupp) fra Victoria's Secret, «bang» fra våpenprodusenten Smith & Wesson]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1orgsjo",
@@ -137625,7 +138425,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Tok med den thailandske kjæresten min på en taiwansk restaurant i kveld, og de kom med regningen til henne.",
+          "body": "Da jeg spurte hvorfor, svarte servitøren: «Taipei.»\n\n[merknad: «Taipei» (hovedstaden i Taiwan) høres ut som «Thai pay» – at thailenderen skal betale]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1orfknp",
@@ -137748,7 +138556,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Sønnen min spurte om jeg kunne forklare hva en solformørkelse er.",
+          "body": "Jeg sa: «Nei, sønn, jeg kan ikke se den akkurat nå.»\n\n[merknad: «No sun» (ingen sol) høres ut som «No, son» (nei, sønn)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1or3453",
@@ -137767,7 +138583,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "To hjorter går ut av en homsebar",
+          "body": "Den ene snur seg til den andre og sier: «Jeg kan ikke tro at jeg blåste 40 bukker der inne.»\n\n[merknad: «bucks» betyr både «dollar» og «hannhjort»; «blew 40 bucks» = brukte 40 dollar / blåste (ga oralsex til) 40 bukker]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1or1pit",
@@ -137942,7 +138766,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Når du dør, hvilken del av kroppen dør sist?",
+          "body": "Pupillene. De utvider seg.\n\n[merknad: «they dilate» (de utvider seg) høres ut som «they die late» (de dør sent)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oqhl8m",
@@ -137961,7 +138793,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Da jeg mistet ordboka, spurte kona om jeg hadde sett etter oppe.",
+          "body": "Jeg bare: «Jeg får jo ikke slått opp noe som helst!»\n\n[merknad: «look up» betyr både «se oppover» og «slå opp» (i en ordbok)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oqb7oo",
@@ -138058,7 +138898,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hvordan får du tallet én til å forsvinne?",
+          "body": "Du legger til en «g», og da er den gone.\n\n[merknad: «one» + «g» = «gone» (borte)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oq4zsf",
@@ -138077,7 +138925,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "NASA skyter opp en satellitt for å si unnskyld til romvesenene.",
+          "body": "De kaller den «Apollo G».\n\n[merknad: «Apollo G» høres ut som «apology» (unnskyldning)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oq2mmw",
@@ -138122,7 +138978,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hvor drar slemme regnbuer?",
+          "body": "I prisme. Det er en mild straff, men den gir dem tid til å reflektere.\n\n[merknad: «prism» (prisme) høres ut som «prison» (fengsel); «light sentence» = mild dom / lys-setning; «reflect» = reflektere lys / tenke seg om]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1opxsp1",
@@ -138141,7 +139005,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Kona mi spurte hvordan første dag på kondomfabrikken gikk. Jeg sa: «Ikke så bra. Sjefen kalte meg inn på kontoret for å kjefte, og sa jeg burde få sparken fordi de jeg lagde, var altfor tynne og skjøre.»",
+          "body": "Hun gispet og sa: «Å nei, det høres jo rivende ut!»\n\n[merknad: «tearable» (som kan rives i stykker) høres ut som «terrible» (forferdelig)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1opv40a",
@@ -138160,7 +139032,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "SISTE NYTT: Count Chocula, Stay Puft-marshmallowmannen og Teddy Grahams-bjørnen har alle holdt ut i en brann.",
+          "body": "Mer (s'more) klokka 11.\n\n[merknad: «S'more» (marshmallow-godteriet) høres ut som «some more» (litt mer); «more at 11» er en vanlig amerikansk nyhetsfrase]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1optave",
@@ -138205,7 +139085,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hver gang jeg lager mat med hvete, bygg eller ris, får kona forferdelig hodepine.",
+          "body": "Det viser seg at hun lider av kornene mine.\n\n[merknad: «my grains» (kornene mine) høres ut som «migraines» (migrene)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oprt6i",
@@ -138380,7 +139268,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Jeg så «Dirty Dancing» mens jeg spiste middag med partneren min her om kvelden, og jeg snek til meg urtene fra tallerkenen hennes.",
+          "body": "Jeg har tatt timian fra kona …\n\n[merknad: «thyme off my wife» (timian fra kona) høres ut som «time of my life» – fra sangen «(I've Had) The Time of My Life» i Dirty Dancing]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1op48k0",
@@ -138399,7 +139295,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Maiskolben snakket med bonden og tryglet: «Vær så snill, ikke spis meg! Jeg har tjent med ære i forsvaret.»",
+          "body": "«Jeg var en gang en kjerne.»\n\n[merknad: «kernel» (maiskjerne) høres ut som «colonel» (oberst)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1op3gvo",
@@ -138548,7 +139452,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hvilken skrifttype er best til å skrive banneord?",
+          "body": "Skjønnskrift.\n\n[merknad: «cursive» (løkkeskrift) inneholder «curse» (å banne)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1ooof14",
@@ -138567,7 +139479,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Jeg var på en grusom pub i går kveld som het «The Fiddle» (Fela) …",
+          "body": "Det var virkelig et motbydelig vertshus.\n\n[merknad: «a Vile Inn» (et motbydelig vertshus) høres ut som «violin» (fiolin) – passende for en pub som heter «The Fiddle» (fela)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oontcf",
@@ -138612,7 +139532,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Trump innførte toll på en øy som bare er bebodd av pingviner.",
+          "body": "Pingvinene var tollskremte.\n\n[merknad: «tarrified» spiller på «tariff» (toll) og «terrified» (skrekkslagen)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oohr16",
@@ -138657,7 +139585,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Mike Tyson er SÅ religiøs",
+          "body": "at han slår folk rett i troen.\n\n[merknad: «punches people in the faith» (slår folk i troen) spiller på «in the face» (i ansiktet)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1ooejdx",
@@ -138702,7 +139638,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Lær vurderes etter teksturen. Kyr med rikelig tilgang på vann har mykere skinn, gradert A.",
+          "body": "Men skinn fra kyr som lever i varmt, tørt klima, er D-hud-gradert.\n\n[merknad: «D Hide-Rated» (D-hud-gradert) høres ut som «dehydrated» (uttørket)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oodrrd",
@@ -138721,7 +139665,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hørte du om fyren som bare trodde på 12,5 % av Bibelen?",
+          "body": "Han var en åttendeist.\n\n[merknad: 12,5 % = en åttedel; «eighthiest» spiller på «eighth» (åttedel) og «atheist» (ateist)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oo8o2y",
@@ -138792,7 +139744,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Legen sa at jeg kan ta på meg selv når jeg vil.",
+          "body": "Vel, de eksakte ordene hans var: «Du kan få et slag når som helst.»\n\n[merknad: «have a stroke» betyr «få hjerneslag», men «stroke» betyr også å stryke/onanere]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1onz4in",
@@ -138837,7 +139797,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Tok med datteren min på «knask eller knep», og etter at vi stoppet ved et bestemt hus og hun fikk godteri av en søt, eldre dame, sa hun: «Pappa. Hun er enke.» Jeg spurte: «Hvordan vet du det?»",
+          "body": "Hun sa: «Fordi hun er ei enkje-dame.»\n\nTouché, jenta mi. Touché.\n\n[merknad: barnet sier «widow owed wadey» – barnespråk for «widowed lady» (enkedame)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1onz23v",
@@ -138856,7 +139824,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Jeg innså nettopp at ordet «seven» har «even» i seg.",
+          "body": "Det er rart.\n\n[merknad: «even» = partall, «odd» = oddetall, men «odd» betyr også «rart» – sju er et oddetall]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1onxy11",
@@ -138875,7 +139851,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Jeg så en annonse som sa: «Radio til salgs, 1 krone, volumet sitter fast på maks.»",
+          "body": "Jeg tenkte: «Det kan jeg ikke takke nei til.»\n\n[merknad: «turn that down» betyr både «skru ned (lyden)» og «takke nei til»]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1onpmg8",
@@ -138946,7 +139930,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Bueskyting er kjempegøy!",
+          "body": "Men for meg har det rett og slett for mange ulemper.\n\n[merknad: «drawbacks» betyr «ulemper», men «draw» er også å spenne buen]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1onhgg0",
@@ -138965,7 +139957,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Jeg begynte å trene for å bli kvitt dadkroppen, men jeg måtte slutte",
+          "body": "Kroppen min taklet ikke mage-bruken.\n\n[merknad: «ab use» (bruk av magemusklene) høres ut som «abuse» (mishandling)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1onf13f",
@@ -139036,7 +140036,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Jeg så en skilpadde som stadig gjentok den tredje bokstaven i alfabetet.",
+          "body": "Det var en C-skilpadde.\n\n[merknad: «C turtle» høres ut som «sea turtle» (havskilpadde)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1on9zyz",
@@ -139081,7 +140089,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Uansett hvor mange sokker du tar på en bjørn …",
+          "body": "… har den fortsatt bjørneføtter.\n\n[merknad: «bear feet» (bjørneføtter) høres ut som «bare feet» (bare føtter)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1omzssz",
@@ -139360,7 +140376,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hva er raskere enn en kalkulator?",
+          "body": "En kalkulnå.\n\n[merknad: «calculator» tolkes som «calcu-later» (senere); «calcunow» bytter til «now» (nå)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1omaq11",
@@ -139379,7 +140403,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Jeg tåler ikke folk uten føtter.",
+          "body": "Jeg er mangel-tå-intolerant.\n\n[merknad: «lack-toes intolerant» (mangel-på-tær-intolerant) høres ut som «lactose intolerant» (laktoseintolerant)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1oma7nl",
@@ -139398,7 +140430,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hørte du om dronningen som var 30 cm høy?",
+          "body": "Hun var en fantastisk hersker.\n\n[merknad: «ruler» betyr både «hersker» og «linjal» – 12 tommer = en fot, lengden på en linjal]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1om60x6",
@@ -139417,7 +140457,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hva sa piraten da han fylte 80?",
+          "body": "Aye Matey …\n\n[merknad: «Aye Matey» (ja, kamerat – piratspråk) høres ut som «I'm eighty» (jeg er åtti)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1om088l",
@@ -139488,7 +140536,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hvis en ku ikke klarer å produsere melk …",
+          "body": "Er det da en melkefiasko, eller en jurfeil?\n\n[merknad: «milk dud» er et godteri, men «dud» = blink; «udder failure» (jurfeil) høres ut som «utter failure» (total fiasko)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1olw5e9",
@@ -139507,7 +140563,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Michigan har nylig tatt i bruk «Michiganders» som den offisielle betegnelsen på innbyggerne sine …",
+          "body": "Burde ikke da kvinner fra delstaten kalles Michigjess?\n\n[merknad: «gander» = hanngås, «geese» = gjess; «Michiganders» → «Michigeese» for kvinnene]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1olrhas",
@@ -139630,7 +140694,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Jeg fant nettopp ut at jeg er fargeblind",
+          "body": "Den nyheten kom som lyn fra klar lilla himmel.\n\n[merknad: «out of the purple» (ut av det lilla) spiller på «out of the blue» (som lyn fra klar himmel)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1ol2d1p",
@@ -139675,7 +140747,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hvor mange Trump-tilhengere skal til for å skifte en lyspære?",
+          "body": "Ingen. Det er en gasslampe.\n\n[merknad: «gaslight» betyr «gasslampe», men «gaslighting» er også å manipulere noen til å tvile på sin egen virkelighet]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1okt3iz",
@@ -139876,7 +140956,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hva er det motsatte av Parkinsons?",
+          "body": "Kjøreutdatters.\n\n[merknad: «Parkinson's» høres ut som «park-in-son» (parkere-i-sønn); det motsatte blir «drive-in-daughter's» (kjøre-ut-datter)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1ouh9z6",
@@ -139895,7 +140983,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "I parken kastet en tenåring noe i retning av meg, og kona ba meg ta imot det.",
+          "body": "Så skjønte jeg at hun sa «kattemøkk!»\n\n[merknad: «catch it» (ta imot det) høres ut som «cat shit» (kattemøkk)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1ou25yi",
@@ -139914,7 +141010,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Vet du hva det heter når du tisser og får utløsning samtidig?",
+          "body": "Et mestertiss.\n\n[merknad: «masterpees» høres ut som «masterpiece» (mesterverk), med «pee» (tiss)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1otn9ye",
@@ -140011,7 +141115,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hva kaller du et rådyr uten øyne?",
+          "body": "Aner ikke.\n\n[merknad: «No Idea» (aner ikke) høres ut som «no eye-deer» – et rådyr uten øyne]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1on8cw4",
@@ -140056,7 +141168,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hva er raskere enn en kalkulator?",
+          "body": "En kalkulnå.\n\n[merknad: «calculator» tolkes som «calcu-later» (senere); «calcunow» bytter til «now» (nå)]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1olf1hs",
@@ -140075,7 +141195,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Kona mi prøvde",
+          "body": "Kona mi prøvde å pule meg i ræva i dag, og jeg bare «wtf nei, hva er galt med deg», og hun bare «baby, det er Halloween, det er en pegge-høytid».\n\n[merknad: «pegging» = analsex der kvinnen penetrerer mannen med strap-on; kona spøker med at Halloween er en «pegge-høytid»]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     },
     {
       "id": "1olcnaj",
@@ -140224,7 +141352,15 @@
         "after": "2025-10-31",
         "before": "2025-11-14"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Jeg skjønner ikke hvorfor folk liker analsex.",
+          "body": "Det høres ut som en pine i ræva.\n\n[merknad: «a pain in the ass» betyr «noe irriterende», men her ment bokstavelig]",
+          "at": "2026-06-16T00:03:23.895Z",
+          "model": "opus-4.8-manual"
+        }
+      }
     }
   ]
 }
