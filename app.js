@@ -50,9 +50,30 @@ function availableLanguages() {
 
 function renderHeader(data) {
   $('totalCount').textContent = `${(data.count ?? state.jokes.length).toLocaleString()} jokes`;
-  $('lastFetched').textContent = state.lastFetched
-    ? `updated ${timeAgo(new Date(state.lastFetched))}`
+  // "updated" must reflect when something new actually became visible here — i.e.
+  // the most recent translation — NOT the nightly fetch. The cron rewrites
+  // data.lastFetched every run but only adds *untranslated* jokes, which are
+  // hidden by default (see applyFilters), so lastFetched over-promises freshness.
+  const updated = newestTranslationAt();
+  $('lastFetched').textContent = updated
+    ? `updated ${timeAgo(updated)}`
     : 'no data yet';
+}
+
+// Newest localized-translation timestamp across the archive, any language. This
+// is the honest "new on the page" signal: untranslated fetches don't move it,
+// manual translation runs do. fetch.js preserves each joke's localized block, so
+// this survives nightly refreshes and only advances when translations land.
+function newestTranslationAt() {
+  let newest = 0;
+  for (const j of state.jokes) {
+    if (!j.localized) continue;
+    for (const loc of Object.values(j.localized)) {
+      const t = loc?.at ? Date.parse(loc.at) : NaN;
+      if (Number.isFinite(t) && t > newest) newest = t;
+    }
+  }
+  return newest ? new Date(newest) : null;
 }
 
 function applyFilters() {
