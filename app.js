@@ -1,3 +1,5 @@
+import { malform } from './lib/malform.js';
+
 const PAGE_SIZE = 50;
 
 const state = {
@@ -7,24 +9,35 @@ const state = {
     search: '',
     sort: 'newest',
     nsfw: 'exclude',
-    language: '',
     includeUntranslated: false,
   },
   showOriginal: new Set(),
   shown: PAGE_SIZE,
 };
 
+// Each joke renders in its assigned målform — ≈25% Nynorsk, the rest Bokmål
+// (lib/malform.js, stable per id). If the assigned målform isn't translated yet,
+// fall back to the other one, then to the English original, so a joke is never
+// hidden merely because its målform is still pending the Nynorsk backfill.
+function locOf(j) {
+  if (!j.localized) return null;
+  const want = malform(j.id);
+  const other = want === 'nn' ? 'nb' : 'nn';
+  const loc = j.localized[want] || j.localized[other];
+  if (!loc) return null;
+  return { ...loc, lang: j.localized[want] ? want : other };
+}
+
 function hasTranslation(j) {
-  const lang = state.filters.language;
-  return !!(lang && j.localized?.[lang]);
+  return !!locOf(j);
 }
 
 function viewOf(j) {
-  if (hasTranslation(j) && !state.showOriginal.has(j.id)) {
-    const loc = j.localized[state.filters.language];
-    return { title: loc.title, body: loc.body || '' };
+  const loc = locOf(j);
+  if (loc && !state.showOriginal.has(j.id)) {
+    return { title: loc.title, body: loc.body || '', lang: loc.lang };
   }
-  return { title: j.title, body: j.body || '' };
+  return { title: j.title, body: j.body || '', lang: null };
 }
 
 const $ = (id) => document.getElementById(id);
@@ -34,18 +47,8 @@ async function load() {
   const data = await res.json();
   state.jokes = data.jokes || [];
   state.lastFetched = data.lastFetched;
-  const langs = availableLanguages();
-  if (langs.length > 0) state.filters.language = langs[0];
   renderHeader(data);
   render();
-}
-
-function availableLanguages() {
-  const set = new Set();
-  for (const j of state.jokes) {
-    if (j.localized) for (const k of Object.keys(j.localized)) set.add(k);
-  }
-  return Array.from(set).sort();
 }
 
 function renderHeader(data) {
@@ -77,13 +80,13 @@ function newestTranslationAt() {
 }
 
 function applyFilters() {
-  const { search, sort, nsfw, language, includeUntranslated } = state.filters;
+  const { search, sort, nsfw, includeUntranslated } = state.filters;
   const q = search.trim().toLowerCase();
   let out = state.jokes.filter((j) => {
     if (j.filtered) return false; // these live on ufiltrert.html
     if (nsfw === 'exclude' && j.nsfw) return false;
     if (nsfw === 'only' && !j.nsfw) return false;
-    if (language && !includeUntranslated && !hasTranslation(j)) return false;
+    if (!includeUntranslated && !hasTranslation(j)) return false;
     if (q) {
       const v = viewOf(j);
       const hay = `${v.title} ${v.body}`.toLowerCase();
@@ -118,13 +121,13 @@ function card(j) {
   el.className = 'card';
   const v = viewOf(j);
   const translated = hasTranslation(j);
-  const langSelected = !!state.filters.language;
   const showingOriginal = translated && state.showOriginal.has(j.id);
 
   const pills = document.createElement('div');
   pills.className = 'pills';
   if (j.nsfw) pills.appendChild(pill('NSFW', 'nsfw'));
-  if (langSelected && !translated) pills.appendChild(pill('original', 'fallback'));
+  if (v.lang === 'nn') pills.appendChild(pill('nynorsk', 'nn'));
+  if (!translated) pills.appendChild(pill('original', 'fallback'));
   if (pills.children.length > 0) el.appendChild(pills);
 
   const title = document.createElement('div');

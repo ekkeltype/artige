@@ -12,19 +12,33 @@ silently, times out, and produces mediocre Norwegian. Translation is now done
 no timeout, better quality. The scheduled task (`refresh.bat`) only downloads
 now; this runbook is the translation half.
 
-## Contract — match the cron exactly
-- **Candidate set** = the same jokes `scripts/translate.js` would pick:
-  `!localized.<lang> && !filtered && score >= minScore`. `manual-translate.js`
-  computes this — do **not** hand-roll the filter.
-- **Give-up / filter rules** are applied by `manual-translate.js apply`, identical
-  to translate.js: a joke you omit gets `translateAttempts++`, and at `maxAttempts`
-  (`config.json`, currently 3) it becomes `filtered` / `untranslatable`, drops off
-  the live page, and surfaces on `ufiltrert.html`. Do **not** set these fields by
-  hand.
-- **Translation spec** = `prompts/localize.md` (its body). Obey it as your system
-  prompt: idiomatic Bokmål, preserve the joke's *effect*, match register, **do not
-  bowdlerize**, `[merknad: …]` for puns with no Norwegian analogue. Per-joke output
-  schema: `{"id","title","body"}`.
+## Målform split — Bokmål vs Nynorsk
+Each joke is permanently assigned a målform: ≈25% **Nynorsk** (`nn`), the rest
+**Bokmål** (`nb`). The assignment is a pure function of the joke id in
+`lib/malform.js`, imported by *both* the site (`app.js`) and the pipeline, so they
+never disagree. A joke is stored under `localized.nb` **or** `localized.nn`
+according to that function; the site renders a joke's assigned målform and falls
+back to the other (then the English original) if the assigned one isn't written
+yet. You never choose a joke's målform — `malform(id)` does.
+
+## Contract
+- **Candidate set** = jokes missing the translation in their **assigned** målform:
+  `!localized[malform(id)] && !filtered && score >= minScore`. `manual-translate.js`
+  computes this — do **not** hand-roll the filter. Each `_backlog.json` entry carries
+  a `lang` field (`nb`/`nn`) telling you which målform to write it in.
+- **Give-up / filter rules** are applied by `manual-translate.js apply`: a joke you
+  omit gets `translateAttempts++`, and at `maxAttempts` (`config.json`, currently 3)
+  it becomes `filtered` / `untranslatable`, drops off the live page, and surfaces on
+  `ufiltrert.html`. Do **not** set these fields by hand.
+- **Translation spec** depends on the entry's `lang`:
+  - `nb` → `prompts/localize.md` (Bokmål).
+  - `nn` → `prompts/localize.nn.md` (Nynorsk, with the **locked** house norm — obey
+    it exactly so Nynorsk stays consistent across the archive).
+  Both share the same rules otherwise: idiomatic, preserve the joke's *effect*, match
+  register, **do not bowdlerize**, localize the whole joke, `[merknad: …]` for puns
+  with no Norwegian analogue. Per-joke output schema is always `{"id","title","body"}`
+  — `apply` routes each id to the right `localized` key via `malform(id)`, so you do
+  **not** put `lang` in `_translations.json`.
 
 ## Steps
 
@@ -38,7 +52,8 @@ now; this runbook is the translation half.
    report "backlog empty" and stop.**
 
 2. **Translate every candidate.** Read `data/_backlog.json` and translate **all**
-   of them per `prompts/localize.md`. You are a strong model with no timeout, so
+   of them, each into the målform named in its `lang` field (`nb` →
+   `prompts/localize.md`, `nn` → `prompts/localize.nn.md`). You are a strong model with no timeout, so
    the default is to *land every joke* — the omit path is only for a joke that is
    genuinely impossible (a pun resting entirely on English phonetics with no
    Norwegian analogue). Prefer literal + `[merknad: …]` over omitting.
@@ -64,13 +79,14 @@ now; this runbook is the translation half.
 
 4. **Commit + push** (the live site updates from `main`):
    ```
-   git pull --ff-only
    git add data/jokes.json
    git commit -m "chore: manual in-session backlog translation (<N> jokes)"
+   git pull --rebase --autostash origin main
    git push
    ```
-   `git pull --ff-only` first picks up any commit the cron landed while you worked.
-   Commit **only** `data/jokes.json` (match refresh.bat's convention).
+   `--rebase --autostash` picks up any commit the cron landed while you worked and
+   stashes the cron's dirty `data/backfill.json` across the rebase. Commit **only**
+   `data/jokes.json` (match refresh.bat's convention; `backfill.json` stays uncommitted).
 
 5. **Clean up**: release the lock and delete the scratch files so a later run
    starts fresh and can't double-apply:

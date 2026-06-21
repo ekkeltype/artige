@@ -18,6 +18,7 @@ import { readFile, writeFile, rename, copyFile, rm } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { malform } from '../lib/malform.js';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const CONFIG_PATH = path.join(ROOT, 'config.json');
@@ -56,9 +57,13 @@ async function loadContext() {
   };
 }
 
-// Identical predicate to translate.js's candidate filter.
-function isCandidate(j, lang, minScore) {
-  return !j.localized?.[lang] && !j.filtered && (j.score ?? 0) >= minScore;
+// A joke is a candidate when it lacks the translation in its ASSIGNED målform.
+// lib/malform.js routes ~25% of jokes to Nynorsk ('nn') and the rest to Bokmål
+// ('nb'), keyed by id. We only ever fill a joke's assigned målform; an existing
+// translation in the other målform (e.g. an old nb on an nn-assigned joke) is
+// left in place as a fallback and does not make the joke "done".
+function isCandidate(j, minScore) {
+  return !j.localized?.[malform(j.id)] && !j.filtered && (j.score ?? 0) >= minScore;
 }
 
 // Atomic write (temp + rename), same as translate.js's saveArchive.
@@ -74,15 +79,17 @@ function parseArg(name, fallback) {
 }
 
 async function cmdCandidates() {
-  const { lang, langName, minScore, maxAttempts } = await loadContext();
+  const { minScore, maxAttempts } = await loadContext();
   const archive = JSON.parse(await readFile(DATA_PATH, 'utf8'));
-  const candidates = archive.jokes.filter((j) => isCandidate(j, lang, minScore));
+  const candidates = archive.jokes.filter((j) => isCandidate(j, minScore));
 
-  const payload = candidates.map((j) => ({ id: j.id, title: j.title, body: j.body || '' }));
+  // Each entry carries the målform the model must write it in (nb or nn).
+  const payload = candidates.map((j) => ({ id: j.id, title: j.title, body: j.body || '', lang: malform(j.id) }));
   await writeFile(BACKLOG_PATH, JSON.stringify(payload, null, 2));
   // Take a lock so the nightly cron (refresh.bat) defers while this run is active.
   if (candidates.length > 0) await writeFile(LOCK_PATH, new Date().toISOString());
 
+  const nn = payload.filter((p) => p.lang === 'nn').length;
   const nsfw = candidates.filter((j) => j.nsfw).length;
   const att = {};
   for (const j of candidates) {
@@ -90,16 +97,16 @@ async function cmdCandidates() {
     att[a] = (att[a] || 0) + 1;
   }
   const nearCliff = candidates.filter((j) => (j.translateAttempts || 0) >= maxAttempts - 1).length;
-  console.log(`Candidates for ${langName} (${lang}): ${candidates.length}`);
+  console.log(`Candidates: ${candidates.length}  (nb ${candidates.length - nn}, nn ${nn})`);
   console.log(`  clean ${candidates.length - nsfw}, nsfw ${nsfw}`);
   console.log(`  by prior translateAttempts: ${JSON.stringify(att)}`);
   console.log(`  ${nearCliff} one omission from auto-filter (maxAttempts=${maxAttempts})`);
-  console.log(`  -> wrote ${path.relative(ROOT, BACKLOG_PATH)}`);
+  console.log(`  -> wrote ${path.relative(ROOT, BACKLOG_PATH)} — translate each entry into its "lang" (nb → prompts/localize.md, nn → prompts/localize.nn.md)`);
   if (candidates.length === 0) console.log('Nothing to translate.');
 }
 
 async function cmdApply() {
-  const { lang, langName, minScore, maxAttempts } = await loadContext();
+  const { minScore, maxAttempts } = await loadContext();
   const model = parseArg('--model', 'opus-4.8-manual');
 
   if (!existsSync(BACKLOG_PATH)) throw new Error(`missing ${path.relative(ROOT, BACKLOG_PATH)} — run "candidates" first`);
@@ -124,13 +131,13 @@ async function cmdApply() {
   const backupPath = `${DATA_PATH}.bak_manual_${stamp}`;
   await copyFile(DATA_PATH, backupPath);
 
-  let translated = 0, omitted = 0, newlyFiltered = 0, immediate = 0, skipped = 0, stale = 0;
+  let translated = 0, omitted = 0, newlyFiltered = 0, immediate = 0, skipped = 0, stale = 0, nnTranslated = 0;
 
   for (const id of consideredIds) {
     const j = jokeById.get(id);
     if (!j) { stale++; continue; }
     // Re-check candidacy — guards against an accidental double-apply.
-    if (!isCandidate(j, lang, minScore)) { skipped++; continue; }
+    if (!isCandidate(j, minScore)) { skipped++; continue; }
 
     if (filterById.has(id)) {
       j.filtered = true;
@@ -140,11 +147,13 @@ async function cmdApply() {
       continue;
     }
 
+    const lang = malform(id); // the joke's assigned målform — where the translation lands
     const r = byId.get(id);
     if (r && typeof r.title === 'string') {
       j.localized = j.localized || {};
       j.localized[lang] = { title: r.title, body: typeof r.body === 'string' ? r.body : '', at, model };
       translated++;
+      if (lang === 'nn') nnTranslated++;
     } else {
       // Omission == untranslatable this pass; identical give-up rule to translate.js.
       j.translateAttempts = (j.translateAttempts || 0) + 1;
@@ -162,8 +171,8 @@ async function cmdApply() {
 
   await saveArchive(archive);
 
-  console.log(`Applied ${langName} (${lang}) translations [model=${model}]:`);
-  console.log(`  translated     ${translated}`);
+  console.log(`Applied translations [model=${model}]:`);
+  console.log(`  translated     ${translated} (nn ${nnTranslated}, nb ${translated - nnTranslated})`);
   console.log(`  omitted        ${omitted} (attempts bumped; ${newlyFiltered} hit maxAttempts -> filtered)`);
   if (immediate) console.log(`  hard-filtered  ${immediate} (from _filter.json)`);
   if (skipped) console.log(`  skipped        ${skipped} (already translated/filtered)`);

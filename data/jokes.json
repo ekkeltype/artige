@@ -65,6 +65,12 @@
           "body": "Han er bare et hode. De kalte ham Steffen. Steffen var et lykkelig barn og levde et så normalt liv som omstendighetene tillot. Da han fylte 21 sa faren: «Kom igjen, sønn, vi tar en øl for å feire bursdagen din!\"\n\nFaren satte hodet på bardisken og bestilte to pils. Han skålte og helte en slurk i sønnens munn. Til alles forbauselse skjøt det opp en nakke og to skuldre – som blåste seg opp som ballonger. Tårene rant. Faren ga ham en slurk til, og poff! To armer! En slurk til – poff! En overkropp! Den fjerde slurken – poff! Ben! De måtte kjapt ut for å skaffe klær, for det hadde han aldri trengt. Faren hjalp ham mot døren, vaklende på splitter nye bein og full av øl.\n\nHan snublet ut i gaten og ble truffet av en bil. Øyeblikkelig død.\n\nBartenderen sukket: «Stakkars fyr. Han burde stoppet mens han var et hode.» [merknad: på engelsk er ordspillet «quit while he was a head» – «a head» betyr både «et hode» og «i tet/i forkant»]",
           "at": "2026-05-14T13:16:37.052Z",
           "model": "sonnet"
+        },
+        "nn": {
+          "title": "Eit barn blir fødd utan kropp",
+          "body": "Han er berre eit hovud. Dei kalla han Steffen. Steffen var eit lukkeleg barn og levde eit så normalt liv som mogleg. Då han fylte 21, sa faren: «Kom igjen, son, vi tek ein øl for å feire bursdagen din!»\n\nFaren sette hovudet på bardisken og bestilte to pils. Han skåla og helte ein slurk i munnen på sonen. Til alles forundring skaut det opp ein nakke og to skuldrer – som blåste seg opp som ballongar. Tårene rann. Faren gav han ein slurk til, og poff! To armar! Ein slurk til – poff! Ein overkropp! Den fjerde slurken – poff! Bein! Dei måtte kjapt ut for å skaffe klede, for det hadde han aldri trengt. Faren hjelpte han mot døra, vaklande på splitter nye bein og full av øl.\n\nHan snubla ut i gata og blei treft av ein bil. Død på flekken.\n\nBartenderen sukka: «Stakkars fyr. Han burde ha stoppa medan han var eit hovud.» [merknad: på engelsk er ordspelet «quit while he was a head» – «a head» tyder både «eit hovud» og «i tet/i forkant» (ahead).]",
+          "at": "2026-06-21T23:45:58.997Z",
+          "model": "opus-4.8-manual"
         }
       }
     },
@@ -131,6 +137,12 @@
           "body": "Av ren kjedsomhet sier han til den andre: «Hei, spis den haugen der, så gir jeg deg 100 000 kroner med en gang.\"\n\nNaturligvis klyper mannen seg for nesen og spiser. Den første holder ord og trekker frem lommeboken – stor lommebok.\n\nEn kilometer lenger nede oppdager de en ny haug. Nå er det den andre som sier: «100 000 kroner for å spise den!\"\n\nSelvfølgelig tar den første utfordringen. Lett penger.\n\nDe fortsetter å gå, og etter en stund sier den første: «Vet du, det slår meg at vi begge nettopp spiste hundebæsj uten å bli en eneste krone rikere.\"\n\nEtter en pause svarer den andre: «Nei – men vi økte BNP med 200 000 kroner.\"",
           "at": "2026-05-14T13:16:37.052Z",
           "model": "sonnet"
+        },
+        "nn": {
+          "title": "To forretningsfolk gjekk nedover gata då den eine fekk auge på ein haug med hundebæsj.",
+          "body": "Av rein keisemd seier han til den andre: «Hei, et den haugen der, så gir eg deg 100 000 kroner med ein gong.»\n\nNaturleg nok klyper mannen seg for nasen og et. Den første held ord og dreg fram lommeboka – stor lommebok.\n\nEin kilometer lenger nede oppdagar dei ein ny haug. No er det den andre som seier: «100 000 kroner for å ete den!»\n\nSjølvsagt tek den første utfordringa. Lette pengar.\n\nDei held fram med å gå, og etter ei stund seier den første: «Veit du, det slår meg at vi begge nettopp åt hundebæsj utan å bli ei einaste krone rikare.»\n\nEtter ei pause svarar den andre: «Nei – men vi auka BNP med 200 000 kroner.»",
+          "at": "2026-06-21T23:45:58.997Z",
+          "model": "opus-4.8-manual"
         }
       }
     },
@@ -615,6 +627,12 @@
           "body": "Hun gikk til en plastikkirurg – han satte på en hale.\n\nSå stygg er hun. Når hun går inn i et rom, hopper musene opp på stolene.\n\n-- Rodney Dangerfield",
           "at": "2026-05-15T18:05:18.987Z",
           "model": "sonnet"
+        },
+        "nn": {
+          "title": "Kona mi – er ho stygg! Når ho kjem til banken, slår dei av overvakingskameraa.",
+          "body": "Ho gjekk til ein plastikkirurg – han sette på ein hale.\n\nSå stygg er ho. Når ho går inn i eit rom, hoppar musene opp på stolane.\n\n-- Rodney Dangerfield",
+          "at": "2026-06-21T23:45:58.997Z",
+          "model": "opus-4.8-manual"
         }
       }
     },
@@ -703,6 +721,12 @@
           "body": "Nå nekter hun å spille Scrabble i det hele tatt. [merknad: I originalen er «letters» fellesordet – det betyr både «brev» og «bokstaver», og knytter dermed utroskapssaken til Scrabble]",
           "at": "2026-05-15T19:52:34.834Z",
           "model": "sonnet"
+        },
+        "nn": {
+          "title": "Kona mi er rasande fordi ho fann ein bunke skjulte brev som avslørte at eg var utru.",
+          "body": "No nektar ho å spele Scrabble i det heile teke. [merknad: i originalen er «letters» fellesordet – det tyder både «brev» og «bokstavar», og knyter dermed utruskapssaka til Scrabble.]",
+          "at": "2026-06-21T23:45:58.997Z",
+          "model": "opus-4.8-manual"
         }
       }
     },
@@ -2507,6 +2531,12 @@
           "body": "\n\nDe er steinmorsomme",
           "at": "2026-05-16T07:00:18.107Z",
           "model": "sonnet"
+        },
+        "nn": {
+          "title": "Fjell er ikkje morosame",
+          "body": "\n\nDei er steinmorosame",
+          "at": "2026-06-21T23:45:58.997Z",
+          "model": "opus-4.8-manual"
         }
       }
     },
@@ -2925,6 +2955,12 @@
           "body": "Det gikk i tåken.",
           "at": "2026-05-18T07:00:21.180Z",
           "model": "sonnet"
+        },
+        "nn": {
+          "title": "Eg prøvde å fange tåka i går.",
+          "body": "Det gjekk i tåka.",
+          "at": "2026-06-21T23:45:58.997Z",
+          "model": "opus-4.8-manual"
         }
       }
     },
@@ -3123,6 +3159,12 @@
           "body": "En slimingo.",
           "at": "2026-05-17T07:00:22.141Z",
           "model": "sonnet"
+        },
+        "nn": {
+          "title": "Kva kallar du ein fugl med dårleg hoste?",
+          "body": "Ein slimingo.",
+          "at": "2026-06-21T23:45:58.997Z",
+          "model": "opus-4.8-manual"
         }
       }
     },
@@ -3167,6 +3209,12 @@
           "body": "Og mannen svarer: «Hvordan klarte du å si det?»",
           "at": "2026-05-18T07:00:21.180Z",
           "model": "sonnet"
+        },
+        "nn": {
+          "title": "Kona til mannen seier: «Ikkje prøv å nekte det, din usling. Eg veit at du har eit forhold til den walisiske tøsa frå Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch.»",
+          "body": "Og mannen svarar: «Korleis klarte du å seie det?»",
+          "at": "2026-06-21T23:45:58.997Z",
+          "model": "opus-4.8-manual"
         }
       }
     },
@@ -233091,6 +233139,12 @@
           "body": "Så møttes vi.",
           "at": "2026-06-21T03:33:27.354Z",
           "model": "opus-4.8-manual"
+        },
+        "nn": {
+          "title": "Kona og eg hadde eit fantastisk sexliv før i tida.",
+          "body": "Så møttest vi.",
+          "at": "2026-06-21T23:45:58.997Z",
+          "model": "opus-4.8-manual"
         }
       }
     },
@@ -237588,6 +237642,12 @@
           "title": "Hva er den lengste setningen i verden?",
           "body": "En livstidsdom. [merknad: «sentence» = både setning og fengselsstraff; «life sentence» = livstidsdom.]",
           "at": "2026-06-21T03:33:27.354Z",
+          "model": "opus-4.8-manual"
+        },
+        "nn": {
+          "title": "Kva er den lengste setninga i verda?",
+          "body": "Ein livstidsdom. [merknad: «sentence» = både setning og fengselsstraff; «life sentence» = livstidsdom.]",
+          "at": "2026-06-21T23:45:58.997Z",
           "model": "opus-4.8-manual"
         }
       }

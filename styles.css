@@ -141,6 +141,7 @@ select:focus { border-color: var(--accent-2); }
 .pill.sub { color: var(--accent-2); }
 .pill.flair { color: var(--accent); }
 .pill.nsfw { color: var(--danger); border-color: var(--danger); }
+.pill.nn { color: var(--accent); border-color: var(--accent); }
 
 .card .title {
   font-weight: 600;
