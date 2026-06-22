@@ -9,7 +9,7 @@ const state = {
     search: '',
     sort: 'newest',
     nsfw: 'exclude',
-    includeUntranslated: false,
+    includeNynorsk: false,
   },
   showOriginal: new Set(),
   shown: PAGE_SIZE,
@@ -55,8 +55,8 @@ function renderHeader(data) {
   $('totalCount').textContent = `${(data.count ?? state.jokes.length).toLocaleString()} jokes`;
   // "updated" must reflect when something new actually became visible here — i.e.
   // the most recent translation — NOT the nightly fetch. The cron rewrites
-  // data.lastFetched every run but only adds *untranslated* jokes, which are
-  // hidden by default (see applyFilters), so lastFetched over-promises freshness.
+  // data.lastFetched every run but only adds *untranslated* jokes, which never
+  // render on the main list (see applyFilters), so lastFetched over-promises freshness.
   const updated = newestTranslationAt();
   $('lastFetched').textContent = updated
     ? `updated ${timeAgo(updated)}`
@@ -80,13 +80,15 @@ function newestTranslationAt() {
 }
 
 function applyFilters() {
-  const { search, sort, nsfw, includeUntranslated } = state.filters;
+  const { search, sort, nsfw, includeNynorsk } = state.filters;
   const q = search.trim().toLowerCase();
   let out = state.jokes.filter((j) => {
     if (j.filtered) return false; // these live on ufiltrert.html
     if (nsfw === 'exclude' && j.nsfw) return false;
     if (nsfw === 'only' && !j.nsfw) return false;
-    if (!includeUntranslated && !hasTranslation(j)) return false;
+    const loc = locOf(j);
+    if (!loc) return false; // untranslated English originals stay off the main list
+    if (!includeNynorsk && loc.lang === 'nn') return false; // Nynorsk is opt-in
     if (q) {
       const v = viewOf(j);
       const hay = `${v.title} ${v.body}`.toLowerCase();
@@ -219,8 +221,8 @@ $('nsfw').addEventListener('change', (e) => {
   state.shown = PAGE_SIZE;
   render();
 });
-$('includeUntranslated').addEventListener('change', (e) => {
-  state.filters.includeUntranslated = e.target.checked;
+$('includeNynorsk').addEventListener('change', (e) => {
+  state.filters.includeNynorsk = e.target.checked;
   state.shown = PAGE_SIZE;
   render();
 });
