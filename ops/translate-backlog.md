@@ -64,9 +64,12 @@ yet. You never choose a joke's målform — `malform(id)` does.
    - Include only jokes you actually translated. Leave out the ones you're
      deliberately giving up on — `apply` counts those as omissions and ages them
      toward `filtered`, per the contract.
-   - **Optional immediate filter:** to set a joke aside *now* (e.g. you won't
-     translate it on policy grounds) rather than waiting for the attempt counter,
-     add `{"id","reason"}` to `data/_filter.json`.
+   - **Immediate filter (policy exclusions):** to set a joke aside *now* rather than
+     waiting for the attempt counter, add `{"id","reason"}` to `data/_filter.json` —
+     `apply` marks it `filtered` on the spot. **Reddit self-referential / meta jokes are
+     a standing policy exclusion** (see `prompts/localize.md`): don't translate them;
+     record them here with `reason: "reddit-meta"` so they drop out for good instead of
+     ageing three passes toward auto-filter.
 
 3. **Apply.**
    ```
