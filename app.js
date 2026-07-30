@@ -97,10 +97,16 @@ function applyFilters() {
     return true;
   });
   if (sort === 'score') out.sort((a, b) => b.score - a.score);
-  // "newest" = most recently seen in a fetch run (so today's arctic-shift
-  // batch — both truly-new and re-encountered jokes — surfaces first).
+  // "newest" = most recently translated. Fetches run nightly but translation
+  // lands in manual batches, so translation date — not lastSeen — is what makes
+  // a joke "new on the page" (and matches the header's "updated" timestamp).
+  // Everything visible here has a translation (locOf filter above); lastSeen
+  // breaks ties within a batch, which shares a single `at`.
   // "oldest" stays on firstSeen so it means "oldest entry in the archive".
-  else if (sort === 'newest') out.sort((a, b) => (b.lastSeen || b.firstSeen || '').localeCompare(a.lastSeen || a.firstSeen || ''));
+  else if (sort === 'newest') {
+    const key = (j) => `${locOf(j).at || ''} ${j.lastSeen || j.firstSeen || ''}`;
+    out.sort((a, b) => key(b).localeCompare(key(a)));
+  }
   else if (sort === 'oldest') out.sort((a, b) => (a.firstSeen || '').localeCompare(b.firstSeen || ''));
   return out;
 }
