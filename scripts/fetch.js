@@ -227,7 +227,9 @@ async function main() {
   }
 
   const minScore = config.minScore ?? 0;
-  const kept = Array.from(byId.values()).filter((j) => (j.score ?? 0) >= minScore);
+  // minScore gates pipeline inventory, not the finished archive: raising it must
+  // never purge jokes that are already translated (or filtered — that's bookkeeping).
+  const kept = Array.from(byId.values()).filter((j) => (j.score ?? 0) >= minScore || j.localized || j.filtered);
 
   const out = { lastFetched: fetchedAt, count: kept.length, jokes: kept };
   await mkdir(path.dirname(DATA_PATH), { recursive: true });

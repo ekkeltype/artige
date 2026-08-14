@@ -10,7 +10,7 @@
   ],
   "limitPerSub": 100,
   "userAgent": "artige/0.3 (+https://github.com/ekkeltype/artige)",
-  "minScore": 100,
+  "minScore": 500,
   "backfill": {
     "enabled": true,
     "chunkDays": 14,

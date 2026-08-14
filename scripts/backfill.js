@@ -72,7 +72,8 @@ async function main() {
   }
 
   const minScore = config.minScore ?? 0;
-  const kept = Array.from(byId.values()).filter((j) => (j.score ?? 0) >= minScore);
+  // Same guard as fetch.js: never purge translated/filtered jokes on a minScore raise.
+  const kept = Array.from(byId.values()).filter((j) => (j.score ?? 0) >= minScore || j.localized || j.filtered);
 
   const out = {
     lastFetched: archive.lastFetched,
