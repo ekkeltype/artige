@@ -63,7 +63,7 @@ async function loadContext() {
 // translation in the other målform (e.g. an old nb on an nn-assigned joke) is
 // left in place as a fallback and does not make the joke "done".
 function isCandidate(j, minScore) {
-  return !j.localized?.[malform(j.id)] && !j.filtered && (j.score ?? 0) >= minScore;
+  return !j.localized?.[malform(j.id, j.firstSeen)] && !j.filtered && (j.score ?? 0) >= minScore;
 }
 
 // Atomic write (temp + rename), same as translate.js's saveArchive.
@@ -84,7 +84,7 @@ async function cmdCandidates() {
   const candidates = archive.jokes.filter((j) => isCandidate(j, minScore));
 
   // Each entry carries the målform the model must write it in (nb or nn).
-  const payload = candidates.map((j) => ({ id: j.id, title: j.title, body: j.body || '', lang: malform(j.id) }));
+  const payload = candidates.map((j) => ({ id: j.id, title: j.title, body: j.body || '', lang: malform(j.id, j.firstSeen) }));
   await writeFile(BACKLOG_PATH, JSON.stringify(payload, null, 2));
   // Take a lock so the nightly cron (refresh.bat) defers while this run is active.
   if (candidates.length > 0) await writeFile(LOCK_PATH, new Date().toISOString());
@@ -147,7 +147,7 @@ async function cmdApply() {
       continue;
     }
 
-    const lang = malform(id); // the joke's assigned målform — where the translation lands
+    const lang = malform(id, j.firstSeen); // the joke's assigned målform — where the translation lands
     const r = byId.get(id);
     if (r && typeof r.title === 'string') {
       j.localized = j.localized || {};

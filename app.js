@@ -15,13 +15,14 @@ const state = {
   shown: PAGE_SIZE,
 };
 
-// Each joke renders in its assigned målform — ≈25% Nynorsk, the rest Bokmål
-// (lib/malform.js, stable per id). If the assigned målform isn't translated yet,
-// fall back to the other one, then to the English original, so a joke is never
-// hidden merely because its målform is still pending the Nynorsk backfill.
+// Each joke renders in its assigned målform — ≈25% Nynorsk for the legacy era,
+// ≈5% for jokes ingested after 2026-08-15 (lib/malform.js, stable per joke). If
+// the assigned målform isn't translated yet, fall back to the other one, then to
+// the English original, so a joke is never hidden merely because its målform is
+// still pending translation.
 function locOf(j) {
   if (!j.localized) return null;
-  const want = malform(j.id);
+  const want = malform(j.id, j.firstSeen);
   const other = want === 'nn' ? 'nb' : 'nn';
   const loc = j.localized[want] || j.localized[other];
   if (!loc) return null;

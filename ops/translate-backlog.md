@@ -13,10 +13,11 @@ no timeout, better quality. The scheduled task (`refresh.bat`) only downloads
 now; this runbook is the translation half.
 
 ## Målform split — Bokmål vs Nynorsk
-Each joke is permanently assigned a målform: ≈25% **Nynorsk** (`nn`), the rest
-**Bokmål** (`nb`). The assignment is a pure function of the joke id in
-`lib/malform.js`, imported by *both* the site (`app.js`) and the pipeline, so they
-never disagree. A joke is stored under `localized.nb` **or** `localized.nn`
+Each joke is permanently assigned a målform: **Nynorsk** (`nn`) for ≈25% of jokes
+ingested before 2026-08-15 and ≈5% of jokes ingested after (quota change), the
+rest **Bokmål** (`nb`). The assignment is a pure function of the joke id +
+`firstSeen` in `lib/malform.js`, imported by *both* the site (`app.js`) and the
+pipeline, so they never disagree. A joke is stored under `localized.nb` **or** `localized.nn`
 according to that function; the site renders a joke's assigned målform and falls
 back to the other (then the English original) if the assigned one isn't written
 yet. You never choose a joke's målform — `malform(id)` does.
