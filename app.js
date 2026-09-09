@@ -140,7 +140,7 @@ function card(j) {
   // Model tags vary in shape ("opus-4.8-manual", "codex default", "haiku") —
   // show just the family, and only when the translation is what's displayed.
   const modelFamily = translated && !showingOriginal
-    ? ((locOf(j).model || '').match(/fable|opus|sonnet|haiku|codex/i) || [null])[0]
+    ? ((locOf(j).model || '').match(/fable|opus|sonnet|haiku|codex|grok/i) || [null])[0]
     : null;
   if (modelFamily) pills.appendChild(pill(modelFamily.toLowerCase(), 'model'));
   if (pills.children.length > 0) el.appendChild(pills);
