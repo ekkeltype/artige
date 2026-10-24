@@ -597280,7 +597280,10 @@
         "after": "2023-07-28",
         "before": "2023-08-11"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "filtered": true,
+      "filteredReason": "no-content",
+      "filteredAt": "2026-10-24T04:36:44.840Z"
     },
     {
       "id": "15eij6j",
@@ -631680,7 +631683,15 @@
         "after": "2023-03-10",
         "before": "2023-03-24"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hva kaller man en meksikansk dverg?",
+          "body": "Et avsnitt, for han er ikke et helt essay. [merknad: «essay» uttales nesten som «ese», meksikansk-spansk slang for «kompis/fyr» – en liten «ese» blir altså bare et avsnitt.]",
+          "at": "2026-10-24T04:36:44.840Z",
+          "model": "opus-5.5-manual"
+        }
+      }
     },
     {
       "id": "11o7q4s",
@@ -647756,7 +647767,10 @@
         "after": "2023-01-13",
         "before": "2023-01-27"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "filtered": true,
+      "filteredReason": "no-content",
+      "filteredAt": "2026-10-24T04:36:44.840Z"
     },
     {
       "id": "10kipsk",
@@ -652371,7 +652385,15 @@
         "after": "2022-12-30",
         "before": "2023-01-13"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Ingenting begynner på «i» og slutter på «g»",
+          "body": "Ganske vanskelig å være uenig i det.",
+          "at": "2026-10-24T04:36:44.840Z",
+          "model": "opus-5.5-manual"
+        }
+      }
     },
     {
       "id": "1070syb",
@@ -711903,7 +711925,15 @@
         "after": "2022-06-17",
         "before": "2022-07-01"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "localized": {
+        "nb": {
+          "title": "Hvor lang er et kinesisk navn. [merknad: På engelsk «How long is a Chinese name.» – «How Long» høres ut som et kinesisk navn, så setningen er ikke et spørsmål, men et utsagn: «How Long» er et kinesisk navn.]",
+          "body": "",
+          "at": "2026-10-24T04:36:44.840Z",
+          "model": "opus-5.5-manual"
+        }
+      }
     },
     {
       "id": "vj0cds",
@@ -711948,7 +711978,10 @@
         "after": "2022-06-17",
         "before": "2022-07-01"
       },
-      "translateAttempts": 1
+      "translateAttempts": 1,
+      "filtered": true,
+      "filteredReason": "no-content",
+      "filteredAt": "2026-10-24T04:36:44.840Z"
     },
     {
       "id": "vi5fmv",
